@@ -1,0 +1,16 @@
+[project]
+name = "internscout"
+version = "0.1.0"
+description = "Daily Romania SWE/data/quant internship digest"
+requires-python = ">=3.11"
+readme = "README.md"
+
+[project.scripts]
+internscout = "internscout.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["internscout*"]
