@@ -301,5 +301,32 @@ class StagiiPeBuneTests(unittest.TestCase):
         self.assertIn("/jobs/veridion/", href)
 
 
+class CatalogSiteTests(unittest.TestCase):
+    def test_every_company_has_announcement_urls(self) -> None:
+        from internscout.models import COMPANIES_PATH, Company
+
+        raw = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
+        self.assertGreater(len(raw), 200)
+        missing = [row["name"] for row in raw if not row.get("urls")]
+        self.assertEqual(missing, [])
+
+    def test_nxp_and_bosch_have_multiple_sites(self) -> None:
+        from internscout.models import COMPANIES_PATH, Company
+
+        raw = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
+        by_name = {row["name"]: Company.from_dict(row) for row in raw}
+        nxp = by_name["NXP"]
+        self.assertGreaterEqual(len(nxp.sites), 2)
+        nxp_urls = " ".join(str(site.get("url") or "") for site in nxp.sites)
+        self.assertIn("nxp.wd3.myworkdayjobs.com/careers", nxp_urls)
+        self.assertIn("nxp.com", nxp_urls)
+        bosch = by_name["Bosch"]
+        self.assertGreaterEqual(len(bosch.sites), 3)
+        bosch_urls = " ".join(str(site.get("url") or "") for site in bosch.sites)
+        self.assertIn("smartrecruiters.com/BoschGroup", bosch_urls)
+        self.assertIn("bosch.ro/cariera", bosch_urls)
+        self.assertGreaterEqual(len(bosch.boards()), 2)
+
+
 if __name__ == "__main__":
     unittest.main()

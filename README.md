@@ -54,29 +54,38 @@ Edit [`data/companies.json`](data/companies.json):
 
 ```json
 {
-  "name": "UiPath",
-  "category": "product",
-  "ats": "greenhouse",
-  "token": "board-token"
+  "name": "NXP",
+  "category": "rd",
+  "ats": "workday",
+  "token": "nxp",
+  "host": "nxp.wd3.myworkdayjobs.com",
+  "site": "careers",
+  "sites": [
+    {
+      "ats": "workday",
+      "token": "nxp",
+      "host": "nxp.wd3.myworkdayjobs.com",
+      "site": "careers",
+      "url": "https://nxp.wd3.myworkdayjobs.com/careers"
+    },
+    {
+      "ats": "careers",
+      "host": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
+      "url": "https://www.nxp.com/company/about-nxp/careers:CAREERS"
+    }
+  ],
+  "urls": [
+    "https://nxp.wd3.myworkdayjobs.com/careers",
+    "https://www.nxp.com/company/about-nxp/careers:CAREERS"
+  ]
 }
 ```
+
+`sites` is one or more boards where that firm posts jobs (Workday, Greenhouse, Lever, official careers page, …). The scanner fetches each ATS board. `urls` is the public list of those announcement sites.
 
 `ats` can be: `greenhouse`, `lever`, `ashby`, `smartrecruiters`, `workable`, `recruitee`, `teamtailor`, `workday`, `personio`, `breezy`, `pinpoint`, `bamboohr`, `eightfold`, `comeet`, `icims`, `successfactors`, `careers`, `google`, `amazon`, `microsoft`, `meta`, `apple`.
 
-Workday also needs `host` and `site`, for example:
-
-```json
-{
-  "name": "Adobe",
-  "category": "faang",
-  "ats": "workday",
-  "token": "adobe",
-  "host": "adobe.wd5.myworkdayjobs.com",
-  "site": "external_experienced"
-}
-```
-
-The Greenhouse token is the slug in `boards.greenhouse.io/{token}`.
+Workday also needs `host` and `site`. The Greenhouse token is the slug in `job-boards.greenhouse.io/{token}`.
 
 ## Tests
 

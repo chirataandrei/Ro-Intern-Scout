@@ -66,7 +66,7 @@ def scan(http: HttpClient | None = None) -> list[Job]:
             ):
                 collected.append(job)
                 kept += 1
-        print(f"· {company.name:28} {company.ats:16} raw={len(raw_jobs):4} kept={kept:3}")
+        print(f"· {company.name:28} sites={len(company.sites):2} raw={len(raw_jobs):4} kept={kept:3}")
 
     aggregators = [
         ("Hipo", "hipo", hipo.fetch_jobs, False, False),

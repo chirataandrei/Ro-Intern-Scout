@@ -32,7 +32,15 @@ FETCHERS = {
 
 
 def fetch_company(company: Company, http: HttpClient) -> list[Job]:
-    fn = FETCHERS.get(company.ats)
-    if fn is None:
-        return []
-    return fn(company, http)
+    jobs: list[Job] = []
+    seen: set[str] = set()
+    for board in company.boards():
+        fn = FETCHERS.get(board.ats)
+        if fn is None:
+            continue
+        for job in fn(board, http):
+            if job.uid in seen:
+                continue
+            seen.add(job.uid)
+            jobs.append(job)
+    return jobs
