@@ -71,6 +71,8 @@ JUNK_COMPANY_RE = re.compile(
     | ^ejobs$
     | ^hipo$
     | ^bestjobs$
+    | ^undelucram$
+    | ^no[\s-]?fluff[\s-]?jobs$
     """,
     _IX,
 )

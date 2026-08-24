@@ -15,7 +15,9 @@ def _esc(text: str) -> str:
 def is_romania_job(job: Job) -> bool:
     if is_romania(job.location, f"{job.company} {job.url}"):
         return True
-    return job.source in {"hipo", "ejobs", "bestjobs", "stagiipebune"} and not is_spring_week(job.title)
+    return job.source in {"hipo", "ejobs", "bestjobs", "stagiipebune", "undelucram"} and not is_spring_week(
+        job.title
+    )
 
 
 def split_for_email(jobs: list[Job]) -> tuple[list[Job], list[Job]]:

@@ -306,9 +306,26 @@ class CatalogSiteTests(unittest.TestCase):
         from internscout.models import COMPANIES_PATH, Company
 
         raw = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
-        self.assertGreater(len(raw), 200)
+        self.assertGreaterEqual(len(raw), 400)
         missing = [row["name"] for row in raw if not row.get("urls")]
         self.assertEqual(missing, [])
+        names = {row["name"] for row in raw}
+        self.assertIn("Accesa", names)
+        self.assertIn("AROBS", names)
+        self.assertIn("Nagarro", names)
+        self.assertIn("Barclays", names)
+        self.assertIn("Canonical", names)
+
+    def test_new_ats_are_registered(self) -> None:
+        from internscout.career_sites import board_public_url
+        from internscout.sources.registry import FETCHERS
+
+        for ats in ("join", "rippling", "jazzhr", "freshteam", "softgarden"):
+            self.assertIn(ats, FETCHERS)
+        self.assertEqual(board_public_url("join", "n26"), "https://join.com/companies/n26")
+        self.assertEqual(board_public_url("rippling", "rippling"), "https://ats.rippling.com/rippling/jobs")
+        self.assertEqual(board_public_url("jazzhr", "acme"), "https://acme.applytojob.com/")
+        self.assertEqual(board_public_url("freshteam", "acme"), "https://acme.freshteam.com/jobs")
 
     def test_nxp_and_bosch_have_multiple_sites(self) -> None:
         from internscout.models import COMPANIES_PATH, Company
@@ -326,6 +343,80 @@ class CatalogSiteTests(unittest.TestCase):
         self.assertIn("smartrecruiters.com/BoschGroup", bosch_urls)
         self.assertIn("bosch.ro/cariera", bosch_urls)
         self.assertGreaterEqual(len(bosch.boards()), 2)
+
+
+class UndelucramTests(unittest.TestCase):
+    def test_sitemap_keeps_internships_not_internal_auditor(self) -> None:
+        from internscout.sources.undelucram import intern_job_urls
+
+        xml = """
+        <urlset>
+          <loc>https://www.undelucram.ro/ro/locuri-de-munca/technical-internship-at-aumovio-tm/96894</loc>
+          <loc>https://www.undelucram.ro/ro/locuri-de-munca/quality-manager-certified-internal-auditor-iso-90012015/30278</loc>
+          <loc>https://www.undelucram.ro/ro/locuri-de-munca?page=1</loc>
+        </urlset>
+        """
+        urls = intern_job_urls(xml)
+        self.assertEqual(len(urls), 1)
+        self.assertIn("technical-internship-at-aumovio", urls[0])
+
+    def test_jsonld_exposes_employer_name(self) -> None:
+        from internscout.sources.undelucram import jobs_from_detail
+
+        html = """
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "JobPosting",
+          "title": "Technical Internship at AUMOVIO (TM)",
+          "url": "https://www.undelucram.ro/ro/locuri-de-munca/technical-internship-at-aumovio-tm/96894",
+          "hiringOrganization": {"@type": "Organization", "name": "AUMOVIO"},
+          "jobLocation": {"@type": "Place", "address": {"addressLocality": "Timisoara", "addressCountry": "Romania"}}
+        }
+        </script>
+        <a href="https://jobs.smartrecruiters.com/AUMOVIO/744000000">Apply</a>
+        """
+        jobs = jobs_from_detail(html, "https://www.undelucram.ro/ro/locuri-de-munca/technical-internship-at-aumovio-tm/96894")
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].company, "AUMOVIO")
+        self.assertEqual(jobs[0].title, "Technical Internship at AUMOVIO (TM)")
+        self.assertIn("Timisoara", jobs[0].location)
+        self.assertIn("smartrecruiters.com/AUMOVIO", jobs[0].url)
+        self.assertEqual(jobs[0].source, "undelucram")
+
+
+class JoinAndNoFluffTests(unittest.TestCase):
+    def test_join_company_id_from_html(self) -> None:
+        from internscout.sources.join import company_id_from_html
+
+        html = '{"props":{"pageProps":{"company":{"id":106934,"name":"N26"}}}}'
+        self.assertEqual(company_id_from_html(html), "106934")
+
+    def test_nofluffjobs_maps_employer_and_city(self) -> None:
+        from internscout.sources.nofluffjobs import jobs_from_postings
+
+        jobs = jobs_from_postings(
+            [
+                {
+                    "id": "java-intern-accesa-bucharest",
+                    "title": "Java Intern",
+                    "name": "Accesa",
+                    "location": {
+                        "places": [
+                            {
+                                "city": "Bucharest",
+                                "country": {"code": "ROM", "name": "Romania"},
+                            }
+                        ]
+                    },
+                }
+            ]
+        )
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].company, "Accesa")
+        self.assertIn("Bucharest", jobs[0].location)
+        self.assertIn("Romania", jobs[0].location)
+        self.assertIn("/job/java-intern-accesa-bucharest", jobs[0].url)
 
 
 if __name__ == "__main__":

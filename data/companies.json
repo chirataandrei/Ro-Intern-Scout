@@ -26,6 +26,33 @@
     ]
   },
   {
+    "name": "2Performant",
+    "category": "product",
+    "ats": "careers",
+    "token": "2performant",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "2performant",
+        "host": "https://2performant.com/careers/",
+        "site": "",
+        "url": "https://2performant.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "2Performant",
+        "host": "https://2performant.com/careers/",
+        "site": "",
+        "url": "https://2performant.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://2performant.com/careers",
+      "https://2performant.com/careers/"
+    ],
+    "host": "https://2performant.com/careers/"
+  },
+  {
     "name": "3DAPI",
     "category": "product",
     "ats": "careers",
@@ -123,6 +150,32 @@
     ]
   },
   {
+    "name": "About You",
+    "category": "product",
+    "ats": "personio",
+    "token": "aboutyou",
+    "sites": [
+      {
+        "ats": "personio",
+        "token": "aboutyou",
+        "host": "",
+        "site": "",
+        "url": "https://aboutyou.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "About You",
+        "host": "https://corporate.aboutyou.de/en/career",
+        "site": "",
+        "url": "https://corporate.aboutyou.de/en/career"
+      }
+    ],
+    "urls": [
+      "https://aboutyou.jobs.personio.com/",
+      "https://corporate.aboutyou.de/en/career"
+    ]
+  },
+  {
     "name": "Accenture",
     "category": "ssc",
     "ats": "workday",
@@ -157,6 +210,61 @@
     ],
     "host": "accenture.wd1.myworkdayjobs.com",
     "site": "AccentureCareers"
+  },
+  {
+    "name": "Accesa",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Accesa",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Accesa",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Accesa"
+      },
+      {
+        "ats": "careers",
+        "token": "Accesa",
+        "host": "https://www.accesa.eu/careers",
+        "site": "",
+        "url": "https://www.accesa.eu/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Accesa",
+      "https://www.accesa.eu/careers"
+    ]
+  },
+  {
+    "name": "Adjust",
+    "category": "product",
+    "ats": "join",
+    "token": "adjust",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "adjust",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/adjust",
+        "extra": {
+          "company_id": "5705"
+        }
+      },
+      {
+        "ats": "careers",
+        "token": "Adjust",
+        "host": "https://www.adjust.com/company/careers/",
+        "site": "",
+        "url": "https://www.adjust.com/company/careers/"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/adjust",
+      "https://www.adjust.com/company/careers/"
+    ]
   },
   {
     "name": "Adobe",
@@ -385,6 +493,32 @@
     ]
   },
   {
+    "name": "Alpha Bank",
+    "category": "finance",
+    "ats": "workable",
+    "token": "alphabank",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "alphabank",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/alphabank/"
+      },
+      {
+        "ats": "careers",
+        "token": "Alpha Bank",
+        "host": "https://www.alphabank.ro/cariere",
+        "site": "",
+        "url": "https://www.alphabank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/alphabank/",
+      "https://www.alphabank.ro/cariere"
+    ]
+  },
+  {
     "name": "Alstom",
     "category": "rd",
     "ats": "smartrecruiters",
@@ -408,6 +542,40 @@
     "urls": [
       "https://careers.smartrecruiters.com/Alstom",
       "https://www.alstom.com/careers"
+    ]
+  },
+  {
+    "name": "Alten",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Alten",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Alten",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Alten"
+      },
+      {
+        "ats": "workable",
+        "token": "alten",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/alten/"
+      },
+      {
+        "ats": "careers",
+        "token": "Alten",
+        "host": "https://www.alten.com/careers/",
+        "site": "",
+        "url": "https://www.alten.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Alten",
+      "https://apply.workable.com/alten/",
+      "https://www.alten.com/careers/"
     ]
   },
   {
@@ -624,6 +792,66 @@
     "site": "External"
   },
   {
+    "name": "Aptiv",
+    "category": "rd",
+    "ats": "workable",
+    "token": "aptiv",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "aptiv",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/aptiv/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Aptiv",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Aptiv"
+      },
+      {
+        "ats": "careers",
+        "token": "Aptiv",
+        "host": "https://www.aptiv.com/en/careers",
+        "site": "",
+        "url": "https://www.aptiv.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/aptiv/",
+      "https://careers.smartrecruiters.com/Aptiv",
+      "https://www.aptiv.com/en/careers"
+    ]
+  },
+  {
+    "name": "AQR",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "aqr",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "aqr",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/aqr"
+      },
+      {
+        "ats": "careers",
+        "token": "AQR",
+        "host": "https://www.aqr.com/careers",
+        "site": "",
+        "url": "https://www.aqr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/aqr",
+      "https://www.aqr.com/careers"
+    ]
+  },
+  {
     "name": "AquaSoft",
     "category": "product",
     "ats": "careers",
@@ -716,6 +944,58 @@
     "site": "Careers"
   },
   {
+    "name": "AROBS",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "arobs",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "arobs",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/arobs/"
+      },
+      {
+        "ats": "careers",
+        "token": "AROBS",
+        "host": "https://arobs.com/careers-at-arobs/",
+        "site": "",
+        "url": "https://arobs.com/careers-at-arobs/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/arobs/",
+      "https://arobs.com/careers-at-arobs/"
+    ]
+  },
+  {
+    "name": "Asana",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "asana",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "asana",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/asana"
+      },
+      {
+        "ats": "careers",
+        "token": "Asana",
+        "host": "https://asana.com/jobs",
+        "site": "",
+        "url": "https://asana.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/asana",
+      "https://asana.com/jobs"
+    ]
+  },
+  {
     "name": "ASML",
     "category": "rd",
     "ats": "workday",
@@ -767,6 +1047,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/atlassian",
       "https://www.atlassian.com/company/careers"
+    ]
+  },
+  {
+    "name": "Audi",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Audi",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Audi",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Audi"
+      },
+      {
+        "ats": "careers",
+        "token": "Audi",
+        "host": "https://www.audi.com/en/careers.html",
+        "site": "",
+        "url": "https://www.audi.com/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Audi",
+      "https://www.audi.com/en/careers.html"
     ]
   },
   {
@@ -850,6 +1156,67 @@
     ]
   },
   {
+    "name": "Aviva",
+    "category": "finance",
+    "ats": "careers",
+    "token": "aviva",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "aviva",
+        "host": "https://careers.aviva.com/",
+        "site": "",
+        "url": "https://careers.aviva.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Aviva",
+        "host": "https://careers.aviva.com/",
+        "site": "",
+        "url": "https://careers.aviva.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.aviva.com",
+      "https://careers.aviva.com/"
+    ],
+    "host": "https://careers.aviva.com/"
+  },
+  {
+    "name": "AVL",
+    "category": "rd",
+    "ats": "workable",
+    "token": "avl",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "avl",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/avl/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "AVL",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/AVL"
+      },
+      {
+        "ats": "careers",
+        "token": "AVL",
+        "host": "https://www.avl.com/en/career",
+        "site": "",
+        "url": "https://www.avl.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/avl/",
+      "https://careers.smartrecruiters.com/AVL",
+      "https://www.avl.com/en/career"
+    ]
+  },
+  {
     "name": "AXQ Capital",
     "category": "quant",
     "ats": "greenhouse",
@@ -900,6 +1267,33 @@
       "https://apply.workable.com/azimut/",
       "https://www.azimut-advantage.com/careers"
     ]
+  },
+  {
+    "name": "Bain",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "bain",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bain",
+        "host": "https://www.bain.com/careers/",
+        "site": "",
+        "url": "https://www.bain.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Bain",
+        "host": "https://www.bain.com/careers/",
+        "site": "",
+        "url": "https://www.bain.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.bain.com/careers",
+      "https://www.bain.com/careers/"
+    ],
+    "host": "https://www.bain.com/careers/"
   },
   {
     "name": "Balyasny",
@@ -954,6 +1348,87 @@
     ]
   },
   {
+    "name": "Bank of America",
+    "category": "finance",
+    "ats": "careers",
+    "token": "bankofamerica",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bankofamerica",
+        "host": "https://careers.bankofamerica.com/",
+        "site": "",
+        "url": "https://careers.bankofamerica.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Bank of America",
+        "host": "https://careers.bankofamerica.com/",
+        "site": "",
+        "url": "https://careers.bankofamerica.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.bankofamerica.com",
+      "https://careers.bankofamerica.com/"
+    ],
+    "host": "https://careers.bankofamerica.com/"
+  },
+  {
+    "name": "Barclays",
+    "category": "finance",
+    "ats": "workday",
+    "token": "barclays",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "barclays",
+        "host": "barclays.wd3.myworkdayjobs.com",
+        "site": "External_Career_Site_Barclays",
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays"
+      },
+      {
+        "ats": "careers",
+        "token": "Barclays",
+        "host": "https://home.barclays/careers/",
+        "site": "",
+        "url": "https://home.barclays/careers/"
+      }
+    ],
+    "urls": [
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
+      "https://home.barclays/careers/"
+    ],
+    "host": "barclays.wd3.myworkdayjobs.com",
+    "site": "External_Career_Site_Barclays"
+  },
+  {
+    "name": "BCG",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "bcg",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "bcg",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bcg"
+      },
+      {
+        "ats": "careers",
+        "token": "BCG",
+        "host": "https://careers.bcg.com/",
+        "site": "",
+        "url": "https://careers.bcg.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/bcg",
+      "https://careers.bcg.com/"
+    ]
+  },
+  {
     "name": "BCR",
     "category": "finance",
     "ats": "smartrecruiters",
@@ -977,6 +1452,32 @@
     "urls": [
       "https://careers.smartrecruiters.com/BCR",
       "https://www.bcr.ro/ro/cariere"
+    ]
+  },
+  {
+    "name": "BearingPoint",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "bearingpoint",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "bearingpoint",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bearingpoint"
+      },
+      {
+        "ats": "careers",
+        "token": "BearingPoint",
+        "host": "https://www.bearingpoint.com/en/careers/",
+        "site": "",
+        "url": "https://www.bearingpoint.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/bearingpoint",
+      "https://www.bearingpoint.com/en/careers/"
     ]
   },
   {
@@ -1058,6 +1559,32 @@
     ]
   },
   {
+    "name": "Binance",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "binance",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "binance",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/binance"
+      },
+      {
+        "ats": "careers",
+        "token": "Binance",
+        "host": "https://www.binance.com/en/careers",
+        "site": "",
+        "url": "https://www.binance.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/binance",
+      "https://www.binance.com/en/careers"
+    ]
+  },
+  {
     "name": "Bitdefender",
     "category": "product",
     "ats": "smartrecruiters",
@@ -1126,12 +1653,65 @@
         "host": "https://www.bitpanda.com/en/career",
         "site": "",
         "url": "https://www.bitpanda.com/en/career"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "bitpanda",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bitpanda"
       }
     ],
     "urls": [
       "https://bitpanda.jobs.personio.com/",
-      "https://www.bitpanda.com/en/career"
+      "https://www.bitpanda.com/en/career",
+      "https://job-boards.greenhouse.io/bitpanda"
     ]
+  },
+  {
+    "name": "BlackBerry",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "BlackBerry",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BlackBerry",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BlackBerry"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BlackBerry"
+    ]
+  },
+  {
+    "name": "BlackRock",
+    "category": "finance",
+    "ats": "careers",
+    "token": "blackrock",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "blackrock",
+        "host": "https://careers.blackrock.com/",
+        "site": "",
+        "url": "https://careers.blackrock.com"
+      },
+      {
+        "ats": "careers",
+        "token": "BlackRock",
+        "host": "https://careers.blackrock.com/",
+        "site": "",
+        "url": "https://careers.blackrock.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.blackrock.com",
+      "https://careers.blackrock.com/"
+    ],
+    "host": "https://careers.blackrock.com/"
   },
   {
     "name": "Bloomberg",
@@ -1160,6 +1740,70 @@
     ],
     "host": "bloomberg.wd1.myworkdayjobs.com",
     "site": "BBG_External"
+  },
+  {
+    "name": "BMW",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "BMWGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BMWGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BMWGroup"
+      },
+      {
+        "ats": "careers",
+        "token": "BMW",
+        "host": "https://www.bmwgroup.jobs/",
+        "site": "",
+        "url": "https://www.bmwgroup.jobs/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BMWGroup",
+      "https://www.bmwgroup.jobs/"
+    ]
+  },
+  {
+    "name": "BNP Paribas",
+    "category": "finance",
+    "ats": "careers",
+    "token": "bnpparibas",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bnpparibas",
+        "host": "https://group.bnpparibas/en/careers",
+        "site": "",
+        "url": "https://group.bnpparibas/en/careers"
+      }
+    ],
+    "urls": [
+      "https://group.bnpparibas/en/careers"
+    ],
+    "host": "https://group.bnpparibas/en/careers"
+  },
+  {
+    "name": "BNY Mellon",
+    "category": "finance",
+    "ats": "careers",
+    "token": "bnymellon",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bnymellon",
+        "host": "https://www.bnymellon.com/us/en/careers.html",
+        "site": "",
+        "url": "https://www.bnymellon.com/us/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.bnymellon.com/us/en/careers.html"
+    ],
+    "host": "https://www.bnymellon.com/us/en/careers.html"
   },
   {
     "name": "Bolt",
@@ -1258,6 +1902,32 @@
     ]
   },
   {
+    "name": "Box",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "boxinc",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "boxinc",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/boxinc"
+      },
+      {
+        "ats": "careers",
+        "token": "Box",
+        "host": "https://www.box.com/careers",
+        "site": "",
+        "url": "https://www.box.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/boxinc",
+      "https://www.box.com/careers"
+    ]
+  },
+  {
     "name": "BRD Groupe Societe Generale",
     "category": "finance",
     "ats": "smartrecruiters",
@@ -1310,6 +1980,58 @@
     ],
     "host": "broadcom.wd1.myworkdayjobs.com",
     "site": "External_Career"
+  },
+  {
+    "name": "Brose",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Brose",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Brose",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Brose"
+      },
+      {
+        "ats": "careers",
+        "token": "Brose",
+        "host": "https://www.brose.com/de-en/career/",
+        "site": "",
+        "url": "https://www.brose.com/de-en/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Brose",
+      "https://www.brose.com/de-en/career/"
+    ]
+  },
+  {
+    "name": "Canonical",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "canonical",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "canonical",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/canonical"
+      },
+      {
+        "ats": "careers",
+        "token": "Canonical",
+        "host": "https://canonical.com/careers",
+        "site": "",
+        "url": "https://canonical.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/canonical",
+      "https://canonical.com/careers"
+    ]
   },
   {
     "name": "Canva",
@@ -1440,6 +2162,78 @@
     ]
   },
   {
+    "name": "Cargus",
+    "category": "other",
+    "ats": "careers",
+    "token": "cargus",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "cargus",
+        "host": "https://www.cargus.ro/cariere/",
+        "site": "",
+        "url": "https://www.cargus.ro/cariere"
+      },
+      {
+        "ats": "careers",
+        "token": "Cargus",
+        "host": "https://www.cargus.ro/cariere/",
+        "site": "",
+        "url": "https://www.cargus.ro/cariere/"
+      }
+    ],
+    "urls": [
+      "https://www.cargus.ro/cariere",
+      "https://www.cargus.ro/cariere/"
+    ],
+    "host": "https://www.cargus.ro/cariere/"
+  },
+  {
+    "name": "Caterpillar",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Caterpillar",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Caterpillar",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Caterpillar"
+      },
+      {
+        "ats": "careers",
+        "token": "Caterpillar",
+        "host": "https://careers.caterpillar.com/",
+        "site": "",
+        "url": "https://careers.caterpillar.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Caterpillar",
+      "https://careers.caterpillar.com/"
+    ]
+  },
+  {
+    "name": "CEC Bank",
+    "category": "finance",
+    "ats": "careers",
+    "token": "cecbank",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "cecbank",
+        "host": "https://www.cec.ro/cariere",
+        "site": "",
+        "url": "https://www.cec.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.cec.ro/cariere"
+    ],
+    "host": "https://www.cec.ro/cariere"
+  },
+  {
     "name": "Cegedim",
     "category": "ssc",
     "ats": "smartrecruiters",
@@ -1518,11 +2312,77 @@
         "host": "https://www.celonis.com/careers/",
         "site": "",
         "url": "https://www.celonis.com/careers/"
+      },
+      {
+        "ats": "join",
+        "token": "celonis",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/celonis",
+        "extra": {
+          "company_id": "1294"
+        }
       }
     ],
     "urls": [
       "https://celonis.jobs.personio.com/",
-      "https://www.celonis.com/careers/"
+      "https://www.celonis.com/careers/",
+      "https://join.com/companies/celonis"
+    ]
+  },
+  {
+    "name": "CGI",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "cgi",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "cgi",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/cgi/"
+      },
+      {
+        "ats": "careers",
+        "token": "CGI",
+        "host": "https://www.cgi.com/en/careers",
+        "site": "",
+        "url": "https://www.cgi.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/cgi/",
+      "https://www.cgi.com/en/careers"
+    ]
+  },
+  {
+    "name": "Check24",
+    "category": "product",
+    "ats": "join",
+    "token": "check24",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "check24",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/check24",
+        "extra": {
+          "company_id": "4301"
+        }
+      },
+      {
+        "ats": "careers",
+        "token": "Check24",
+        "host": "https://jobs.check24.de/",
+        "site": "",
+        "url": "https://jobs.check24.de/"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/check24",
+      "https://jobs.check24.de/"
     ]
   },
   {
@@ -1647,6 +2507,34 @@
     ]
   },
   {
+    "name": "Citi",
+    "category": "finance",
+    "ats": "workday",
+    "token": "citi",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "citi",
+        "host": "citi.wd5.myworkdayjobs.com",
+        "site": "2",
+        "url": "https://citi.wd5.myworkdayjobs.com/2"
+      },
+      {
+        "ats": "careers",
+        "token": "Citi",
+        "host": "https://careers.citigroup.com/",
+        "site": "",
+        "url": "https://careers.citigroup.com/"
+      }
+    ],
+    "urls": [
+      "https://citi.wd5.myworkdayjobs.com/2",
+      "https://careers.citigroup.com/"
+    ],
+    "host": "citi.wd5.myworkdayjobs.com",
+    "site": "2"
+  },
+  {
     "name": "Cloudflare",
     "category": "faang",
     "ats": "greenhouse",
@@ -1671,6 +2559,43 @@
       "https://job-boards.greenhouse.io/cloudflare",
       "https://www.cloudflare.com/careers/"
     ]
+  },
+  {
+    "name": "CNH",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "CNH",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "CNH",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/CNH"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/CNH"
+    ]
+  },
+  {
+    "name": "Codezilla",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "codezilla",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "codezilla",
+        "host": "https://codezilla.ro/careers",
+        "site": "",
+        "url": "https://codezilla.ro/careers"
+      }
+    ],
+    "urls": [
+      "https://codezilla.ro/careers"
+    ],
+    "host": "https://codezilla.ro/careers"
   },
   {
     "name": "Cognizant",
@@ -1707,6 +2632,58 @@
     ],
     "host": "cognizant.wd3.myworkdayjobs.com",
     "site": "Cognizant_Careers"
+  },
+  {
+    "name": "Coinbase",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "coinbase",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "coinbase",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/coinbase"
+      },
+      {
+        "ats": "careers",
+        "token": "Coinbase",
+        "host": "https://www.coinbase.com/careers",
+        "site": "",
+        "url": "https://www.coinbase.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/coinbase",
+      "https://www.coinbase.com/careers"
+    ]
+  },
+  {
+    "name": "Confluent",
+    "category": "product",
+    "ats": "ashby",
+    "token": "confluent",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "confluent",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/confluent"
+      },
+      {
+        "ats": "careers",
+        "token": "Confluent",
+        "host": "https://www.confluent.io/careers/",
+        "site": "",
+        "url": "https://www.confluent.io/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/confluent",
+      "https://www.confluent.io/careers/"
+    ]
   },
   {
     "name": "Continental",
@@ -1854,6 +2831,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/cubist",
       "https://www.cubistsystematic.com/"
+    ]
+  },
+  {
+    "name": "Cummins",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Cummins",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Cummins",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Cummins"
+      },
+      {
+        "ats": "careers",
+        "token": "Cummins",
+        "host": "https://www.cummins.com/careers",
+        "site": "",
+        "url": "https://www.cummins.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Cummins",
+      "https://www.cummins.com/careers"
     ]
   },
   {
@@ -2197,6 +3200,32 @@
     ]
   },
   {
+    "name": "Dropbox",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "dropbox",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "dropbox",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/dropbox"
+      },
+      {
+        "ats": "careers",
+        "token": "Dropbox",
+        "host": "https://jobs.dropbox.com/",
+        "site": "",
+        "url": "https://jobs.dropbox.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/dropbox",
+      "https://jobs.dropbox.com/"
+    ]
+  },
+  {
     "name": "Druid AI",
     "category": "product",
     "ats": "lever",
@@ -2265,6 +3294,69 @@
     ]
   },
   {
+    "name": "dSPACE",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "dSPACE",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "dSPACE",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/dSPACE"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/dSPACE"
+    ]
+  },
+  {
+    "name": "DXC",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "dxc",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "dxc",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/dxc/"
+      },
+      {
+        "ats": "careers",
+        "token": "DXC",
+        "host": "https://careers.dxc.com/",
+        "site": "",
+        "url": "https://careers.dxc.com/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/dxc/",
+      "https://careers.dxc.com/"
+    ]
+  },
+  {
+    "name": "E.ON",
+    "category": "other",
+    "ats": "careers",
+    "token": "eon",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "eon",
+        "host": "https://www.eon.ro/cariere",
+        "site": "",
+        "url": "https://www.eon.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.eon.ro/cariere"
+    ],
+    "host": "https://www.eon.ro/cariere"
+  },
+  {
     "name": "Eaton",
     "category": "rd",
     "ats": "smartrecruiters",
@@ -2289,6 +3381,43 @@
       "https://careers.smartrecruiters.com/Eaton",
       "https://www.eaton.com/us/en-us/company/careers.html"
     ]
+  },
+  {
+    "name": "EDAG",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "EDAG",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "EDAG",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/EDAG"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/EDAG"
+    ]
+  },
+  {
+    "name": "Edenred",
+    "category": "finance",
+    "ats": "careers",
+    "token": "edenred",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "edenred",
+        "host": "https://www.edenred.ro/ro/cariere",
+        "site": "",
+        "url": "https://www.edenred.ro/ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.edenred.ro/ro/cariere"
+    ],
+    "host": "https://www.edenred.ro/ro/cariere"
   },
   {
     "name": "Elastic",
@@ -2467,6 +3596,51 @@
     "site": "Endava_Careers"
   },
   {
+    "name": "Engie",
+    "category": "other",
+    "ats": "careers",
+    "token": "engie",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "engie",
+        "host": "https://www.engie.ro/cariere",
+        "site": "",
+        "url": "https://www.engie.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.engie.ro/cariere"
+    ],
+    "host": "https://www.engie.ro/cariere"
+  },
+  {
+    "name": "Engineers Gate",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "engineersgate",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "engineersgate",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/engineersgate"
+      },
+      {
+        "ats": "careers",
+        "token": "Engineers Gate",
+        "host": "https://www.eglp.com/careers",
+        "site": "",
+        "url": "https://www.eglp.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/engineersgate",
+      "https://www.eglp.com/careers"
+    ]
+  },
+  {
     "name": "EPAM",
     "category": "ssc",
     "ats": "workday",
@@ -2501,6 +3675,32 @@
     ],
     "host": "epam.wd5.myworkdayjobs.com",
     "site": "EPAM_Careers"
+  },
+  {
+    "name": "Epic Games",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "epicgames",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "epicgames",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/epicgames"
+      },
+      {
+        "ats": "careers",
+        "token": "Epic Games",
+        "host": "https://www.epicgames.com/site/en-US/careers",
+        "site": "",
+        "url": "https://www.epicgames.com/site/en-US/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/epicgames",
+      "https://www.epicgames.com/site/en-US/careers"
+    ]
   },
   {
     "name": "Ericsson",
@@ -2542,6 +3742,24 @@
       "https://apply.workable.com/ericsson/",
       "https://ericsson.wd3.myworkdayjobs.com/career",
       "https://www.ericsson.com/en/careers"
+    ]
+  },
+  {
+    "name": "ETAS",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "ETAS",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "ETAS",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/ETAS"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/ETAS"
     ]
   },
   {
@@ -2639,6 +3857,32 @@
     ]
   },
   {
+    "name": "ExodusPoint",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "exoduspoint",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "exoduspoint",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/exoduspoint"
+      },
+      {
+        "ats": "careers",
+        "token": "ExodusPoint",
+        "host": "https://www.exoduspoint.com/careers/",
+        "site": "",
+        "url": "https://www.exoduspoint.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/exoduspoint",
+      "https://www.exoduspoint.com/careers/"
+    ]
+  },
+  {
     "name": "EY",
     "category": "ssc",
     "ats": "workday",
@@ -2713,6 +3957,51 @@
     "host": "https://faur.ai/careers"
   },
   {
+    "name": "FEV",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "FEV",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "FEV",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/FEV"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/FEV"
+    ]
+  },
+  {
+    "name": "Fidelity",
+    "category": "finance",
+    "ats": "careers",
+    "token": "fidelity",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "fidelity",
+        "host": "https://jobs.fidelity.com/",
+        "site": "",
+        "url": "https://jobs.fidelity.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Fidelity",
+        "host": "https://jobs.fidelity.com/",
+        "site": "",
+        "url": "https://jobs.fidelity.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.fidelity.com",
+      "https://jobs.fidelity.com/"
+    ],
+    "host": "https://jobs.fidelity.com/"
+  },
+  {
     "name": "Figma",
     "category": "faang",
     "ats": "greenhouse",
@@ -2737,6 +4026,25 @@
       "https://job-boards.greenhouse.io/figma",
       "https://www.figma.com/careers/"
     ]
+  },
+  {
+    "name": "Finqware",
+    "category": "finance",
+    "ats": "careers",
+    "token": "finqware",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "finqware",
+        "host": "https://finqware.com/careers",
+        "site": "",
+        "url": "https://finqware.com/careers"
+      }
+    ],
+    "urls": [
+      "https://finqware.com/careers"
+    ],
+    "host": "https://finqware.com/careers"
   },
   {
     "name": "FintechOS",
@@ -2779,6 +4087,25 @@
       "https://fintechos.recruitee.com/",
       "https://www.fintechos.com/careers/"
     ]
+  },
+  {
+    "name": "First Bank",
+    "category": "finance",
+    "ats": "careers",
+    "token": "firstbank",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "firstbank",
+        "host": "https://www.firstbank.ro/cariere",
+        "site": "",
+        "url": "https://www.firstbank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.firstbank.ro/cariere"
+    ],
+    "host": "https://www.firstbank.ro/cariere"
   },
   {
     "name": "Fitbit",
@@ -2830,6 +4157,35 @@
     "urls": [
       "https://job-boards.greenhouse.io/fiverings",
       "https://fiverings.com/careers/"
+    ]
+  },
+  {
+    "name": "Flink",
+    "category": "product",
+    "ats": "join",
+    "token": "flink",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "flink",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/flink",
+        "extra": {
+          "company_id": "44343"
+        }
+      },
+      {
+        "ats": "careers",
+        "token": "Flink",
+        "host": "https://careers.flink.com/",
+        "site": "",
+        "url": "https://careers.flink.com/"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/flink",
+      "https://careers.flink.com/"
     ]
   },
   {
@@ -3078,6 +4434,32 @@
     ]
   },
   {
+    "name": "Fujitsu",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "fujitsu",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "fujitsu",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/fujitsu/"
+      },
+      {
+        "ats": "careers",
+        "token": "Fujitsu",
+        "host": "https://www.fujitsu.com/global/about/careers/",
+        "site": "",
+        "url": "https://www.fujitsu.com/global/about/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/fujitsu/",
+      "https://www.fujitsu.com/global/about/careers/"
+    ]
+  },
+  {
     "name": "G-Research",
     "category": "quant",
     "ats": "greenhouse",
@@ -3152,6 +4534,25 @@
       "https://apply.workable.com/gameloft/",
       "https://www.gameloft.com/corporate/jobs"
     ]
+  },
+  {
+    "name": "Garanti BBVA",
+    "category": "finance",
+    "ats": "careers",
+    "token": "garantibbva",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "garantibbva",
+        "host": "https://www.garantibbva.ro/ro/cariere",
+        "site": "",
+        "url": "https://www.garantibbva.ro/ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.garantibbva.ro/ro/cariere"
+    ],
+    "host": "https://www.garantibbva.ro/ro/cariere"
   },
   {
     "name": "Garmin",
@@ -3296,11 +4697,48 @@
         "host": "https://www.getyourguide.com/careers/",
         "site": "",
         "url": "https://www.getyourguide.com/careers/"
+      },
+      {
+        "ats": "join",
+        "token": "getyourguide",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/getyourguide",
+        "extra": {
+          "company_id": "53603"
+        }
       }
     ],
     "urls": [
       "https://getyourguide.jobs.personio.com/",
-      "https://www.getyourguide.com/careers/"
+      "https://www.getyourguide.com/careers/",
+      "https://join.com/companies/getyourguide"
+    ]
+  },
+  {
+    "name": "GFT",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "gft",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "gft",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/gft/"
+      },
+      {
+        "ats": "careers",
+        "token": "GFT",
+        "host": "https://www.gft.com/int/en/careers",
+        "site": "",
+        "url": "https://www.gft.com/int/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/gft/",
+      "https://www.gft.com/int/en/careers"
     ]
   },
   {
@@ -3442,6 +4880,33 @@
     ]
   },
   {
+    "name": "Goldman Sachs",
+    "category": "finance",
+    "ats": "careers",
+    "token": "goldmansachs",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "goldmansachs",
+        "host": "https://www.goldmansachs.com/careers/",
+        "site": "",
+        "url": "https://www.goldmansachs.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Goldman Sachs",
+        "host": "https://www.goldmansachs.com/careers/",
+        "site": "",
+        "url": "https://www.goldmansachs.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.goldmansachs.com/careers",
+      "https://www.goldmansachs.com/careers/"
+    ],
+    "host": "https://www.goldmansachs.com/careers/"
+  },
+  {
     "name": "Google",
     "category": "faang",
     "ats": "google",
@@ -3483,6 +4948,40 @@
     "urls": [
       "https://careers.smartrecruiters.com/Groupama",
       "https://www.groupama.ro/cariere"
+    ]
+  },
+  {
+    "name": "HARMAN",
+    "category": "rd",
+    "ats": "workable",
+    "token": "harman",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "harman",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/harman/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "HARMAN",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/HARMAN"
+      },
+      {
+        "ats": "careers",
+        "token": "HARMAN",
+        "host": "https://www.harman.com/careers",
+        "site": "",
+        "url": "https://www.harman.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/harman/",
+      "https://careers.smartrecruiters.com/HARMAN",
+      "https://www.harman.com/careers"
     ]
   },
   {
@@ -3544,6 +5043,96 @@
       "https://hcltech.jobs.personio.com/",
       "https://www.hcltech.com/careers"
     ]
+  },
+  {
+    "name": "Hella",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Hella",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Hella",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Hella"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Hella"
+    ]
+  },
+  {
+    "name": "HelloFresh",
+    "category": "product",
+    "ats": "careers",
+    "token": "hellofresh",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "hellofresh",
+        "host": "https://careers.hellofresh.com/",
+        "site": "",
+        "url": "https://careers.hellofresh.com"
+      },
+      {
+        "ats": "careers",
+        "token": "HelloFresh",
+        "host": "https://careers.hellofresh.com/",
+        "site": "",
+        "url": "https://careers.hellofresh.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.hellofresh.com",
+      "https://careers.hellofresh.com/"
+    ],
+    "host": "https://careers.hellofresh.com/"
+  },
+  {
+    "name": "Hitachi",
+    "category": "rd",
+    "ats": "workable",
+    "token": "hitachi",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "hitachi",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/hitachi/"
+      },
+      {
+        "ats": "careers",
+        "token": "Hitachi",
+        "host": "https://careers.hitachi.com/",
+        "site": "",
+        "url": "https://careers.hitachi.com/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/hitachi/",
+      "https://careers.hitachi.com/"
+    ]
+  },
+  {
+    "name": "Honda",
+    "category": "rd",
+    "ats": "careers",
+    "token": "honda",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "honda",
+        "host": "https://www.honda.ro/cariere",
+        "site": "",
+        "url": "https://www.honda.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.honda.ro/cariere"
+    ],
+    "host": "https://www.honda.ro/cariere"
   },
   {
     "name": "Honeywell",
@@ -3608,6 +5197,25 @@
     ],
     "host": "hp.wd5.myworkdayjobs.com",
     "site": "ExternalCareerSite"
+  },
+  {
+    "name": "HSBC",
+    "category": "finance",
+    "ats": "careers",
+    "token": "hsbc",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "hsbc",
+        "host": "https://www.hsbc.com/careers",
+        "site": "",
+        "url": "https://www.hsbc.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.hsbc.com/careers"
+    ],
+    "host": "https://www.hsbc.com/careers"
   },
   {
     "name": "Huawei",
@@ -3693,6 +5301,50 @@
     "urls": [
       "https://careers.smartrecruiters.com/HufGroup",
       "https://www.huf-group.com/en/career"
+    ]
+  },
+  {
+    "name": "Hyundai",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Hyundai",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Hyundai",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Hyundai"
+      },
+      {
+        "ats": "careers",
+        "token": "Hyundai",
+        "host": "https://www.hyundai.com/worldwide/en/company/careers",
+        "site": "",
+        "url": "https://www.hyundai.com/worldwide/en/company/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Hyundai",
+      "https://www.hyundai.com/worldwide/en/company/careers"
+    ]
+  },
+  {
+    "name": "IAV",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "IAV",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "IAV",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/IAV"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/IAV"
     ]
   },
   {
@@ -3926,6 +5578,25 @@
     "site": "External"
   },
   {
+    "name": "Intesa Sanpaolo",
+    "category": "finance",
+    "ats": "careers",
+    "token": "intesasanpaolo",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "intesasanpaolo",
+        "host": "https://www.intesasanpaolobank.ro/cariere",
+        "site": "",
+        "url": "https://www.intesasanpaolobank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.intesasanpaolobank.ro/cariere"
+    ],
+    "host": "https://www.intesasanpaolobank.ro/cariere"
+  },
+  {
     "name": "iQuest",
     "category": "ssc",
     "ats": "workable",
@@ -4012,6 +5683,85 @@
     ]
   },
   {
+    "name": "Iveco",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Iveco",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Iveco",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Iveco"
+      },
+      {
+        "ats": "careers",
+        "token": "Iveco",
+        "host": "https://www.ivecogroup.com/careers",
+        "site": "",
+        "url": "https://www.ivecogroup.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Iveco",
+      "https://www.ivecogroup.com/careers"
+    ]
+  },
+  {
+    "name": "J.P. Morgan",
+    "category": "finance",
+    "ats": "careers",
+    "token": "jpmorgan",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "jpmorgan",
+        "host": "https://careers.jpmorgan.com/",
+        "site": "",
+        "url": "https://careers.jpmorgan.com"
+      },
+      {
+        "ats": "careers",
+        "token": "J.P. Morgan",
+        "host": "https://careers.jpmorgan.com/",
+        "site": "",
+        "url": "https://careers.jpmorgan.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.jpmorgan.com",
+      "https://careers.jpmorgan.com/"
+    ],
+    "host": "https://careers.jpmorgan.com/"
+  },
+  {
+    "name": "Jaguar Land Rover",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "JaguarLandRover",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "JaguarLandRover",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/JaguarLandRover"
+      },
+      {
+        "ats": "careers",
+        "token": "Jaguar Land Rover",
+        "host": "https://www.jaguarlandrovercareers.com/",
+        "site": "",
+        "url": "https://www.jaguarlandrovercareers.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/JaguarLandRover",
+      "https://www.jaguarlandrovercareers.com/"
+    ]
+  },
+  {
     "name": "Jane Street",
     "category": "quant",
     "ats": "greenhouse",
@@ -4059,6 +5809,32 @@
       "https://jobs.ashbyhq.com/janestreet",
       "https://janestreet.pinpointhq.com/",
       "https://www.janestreet.com/join-jane-street/"
+    ]
+  },
+  {
+    "name": "John Deere",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "JohnDeere",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "JohnDeere",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/JohnDeere"
+      },
+      {
+        "ats": "careers",
+        "token": "John Deere",
+        "host": "https://www.deere.com/en/our-company/john-deere-careers/",
+        "site": "",
+        "url": "https://www.deere.com/en/our-company/john-deere-careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/JohnDeere",
+      "https://www.deere.com/en/our-company/john-deere-careers/"
     ]
   },
   {
@@ -4154,6 +5930,25 @@
       "https://careers.smartrecruiters.com/Kaufland",
       "https://cariere.kaufland.ro/"
     ]
+  },
+  {
+    "name": "Kearney",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "kearney",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "kearney",
+        "host": "https://www.kearney.com/careers",
+        "site": "",
+        "url": "https://www.kearney.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.kearney.com/careers"
+    ],
+    "host": "https://www.kearney.com/careers"
   },
   {
     "name": "Keysight",
@@ -4286,11 +6081,48 @@
         "host": "https://www.klarna.com/careers/",
         "site": "",
         "url": "https://www.klarna.com/careers/"
+      },
+      {
+        "ats": "join",
+        "token": "klarna",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/klarna",
+        "extra": {
+          "company_id": "23204"
+        }
       }
     ],
     "urls": [
       "https://job-boards.greenhouse.io/klarna",
-      "https://www.klarna.com/careers/"
+      "https://www.klarna.com/careers/",
+      "https://join.com/companies/klarna"
+    ]
+  },
+  {
+    "name": "Kostal",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Kostal",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Kostal",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Kostal"
+      },
+      {
+        "ats": "careers",
+        "token": "Kostal",
+        "host": "https://www.kostal.com/en-gb/career",
+        "site": "",
+        "url": "https://www.kostal.com/en-gb/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Kostal",
+      "https://www.kostal.com/en-gb/career"
     ]
   },
   {
@@ -4320,6 +6152,51 @@
     ]
   },
   {
+    "name": "Kraken",
+    "category": "finance",
+    "ats": "careers",
+    "token": "kraken",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "kraken",
+        "host": "https://www.kraken.com/careers",
+        "site": "",
+        "url": "https://www.kraken.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.kraken.com/careers"
+    ],
+    "host": "https://www.kraken.com/careers"
+  },
+  {
+    "name": "Kyndryl",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "kyndryl",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "kyndryl",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/kyndryl/"
+      },
+      {
+        "ats": "careers",
+        "token": "Kyndryl",
+        "host": "https://www.kyndryl.com/careers",
+        "site": "",
+        "url": "https://www.kyndryl.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/kyndryl/",
+      "https://www.kyndryl.com/careers"
+    ]
+  },
+  {
     "name": "Lam Research",
     "category": "rd",
     "ats": "workday",
@@ -4346,6 +6223,40 @@
     ],
     "host": "lamresearch.wd1.myworkdayjobs.com",
     "site": "Lam_External"
+  },
+  {
+    "name": "Lear",
+    "category": "rd",
+    "ats": "workable",
+    "token": "lear",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "lear",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/lear/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Lear",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Lear"
+      },
+      {
+        "ats": "careers",
+        "token": "Lear",
+        "host": "https://www.lear.com/careers",
+        "site": "",
+        "url": "https://www.lear.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/lear/",
+      "https://careers.smartrecruiters.com/Lear",
+      "https://www.lear.com/careers"
+    ]
   },
   {
     "name": "Lenovo",
@@ -4407,6 +6318,24 @@
     "urls": [
       "https://careers.smartrecruiters.com/Leoni",
       "https://www.leoni.com/en/career/"
+    ]
+  },
+  {
+    "name": "LG",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "LG",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "LG",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/LG"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/LG"
     ]
   },
   {
@@ -4514,6 +6443,25 @@
     ]
   },
   {
+    "name": "Lloyds",
+    "category": "finance",
+    "ats": "careers",
+    "token": "lloyds",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "lloyds",
+        "host": "https://www.lloydsbankinggroup.com/careers.html",
+        "site": "",
+        "url": "https://www.lloydsbankinggroup.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.lloydsbankinggroup.com/careers.html"
+    ],
+    "host": "https://www.lloydsbankinggroup.com/careers.html"
+  },
+  {
     "name": "LSEG",
     "category": "finance",
     "ats": "workday",
@@ -4584,6 +6532,93 @@
     ]
   },
   {
+    "name": "Macquarie",
+    "category": "finance",
+    "ats": "careers",
+    "token": "macquarie",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "macquarie",
+        "host": "https://www.macquarie.com/careers.html",
+        "site": "",
+        "url": "https://www.macquarie.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.macquarie.com/careers.html"
+    ],
+    "host": "https://www.macquarie.com/careers.html"
+  },
+  {
+    "name": "Magna",
+    "category": "rd",
+    "ats": "workable",
+    "token": "magna",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "magna",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/magna/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "MagnaInternational",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/MagnaInternational"
+      },
+      {
+        "ats": "careers",
+        "token": "Magna",
+        "host": "https://www.magna.com/careers",
+        "site": "",
+        "url": "https://www.magna.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/magna/",
+      "https://careers.smartrecruiters.com/MagnaInternational",
+      "https://www.magna.com/careers"
+    ]
+  },
+  {
+    "name": "MAHLE",
+    "category": "rd",
+    "ats": "workable",
+    "token": "mahle",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "mahle",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/mahle/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "MAHLE",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/MAHLE"
+      },
+      {
+        "ats": "careers",
+        "token": "MAHLE",
+        "host": "https://www.mahle.com/en/careers/",
+        "site": "",
+        "url": "https://www.mahle.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/mahle/",
+      "https://careers.smartrecruiters.com/MAHLE",
+      "https://www.mahle.com/en/careers/"
+    ]
+  },
+  {
     "name": "Man Group",
     "category": "quant",
     "ats": "workday",
@@ -4610,6 +6645,40 @@
     ],
     "host": "man.wd3.myworkdayjobs.com",
     "site": "ManCareers"
+  },
+  {
+    "name": "Marelli",
+    "category": "rd",
+    "ats": "workable",
+    "token": "marelli",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "marelli",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/marelli/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Marelli",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Marelli"
+      },
+      {
+        "ats": "careers",
+        "token": "Marelli",
+        "host": "https://www.marelli.com/careers/",
+        "site": "",
+        "url": "https://www.marelli.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/marelli/",
+      "https://careers.smartrecruiters.com/Marelli",
+      "https://www.marelli.com/careers/"
+    ]
   },
   {
     "name": "Marshall Wace",
@@ -4744,6 +6813,25 @@
       "https://apply.workable.com/maxbet/",
       "https://www.maxbet.ro/"
     ]
+  },
+  {
+    "name": "McKinsey",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "mckinsey",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "mckinsey",
+        "host": "https://www.mckinsey.com/careers",
+        "site": "",
+        "url": "https://www.mckinsey.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.mckinsey.com/careers"
+    ],
+    "host": "https://www.mckinsey.com/careers"
   },
   {
     "name": "Mercedes-Benz",
@@ -5048,6 +7136,25 @@
     ]
   },
   {
+    "name": "Modus Create",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "moduscreate",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "moduscreate",
+        "host": "https://moduscreate.com/careers/",
+        "site": "",
+        "url": "https://moduscreate.com/careers"
+      }
+    ],
+    "urls": [
+      "https://moduscreate.com/careers"
+    ],
+    "host": "https://moduscreate.com/careers/"
+  },
+  {
     "name": "MongoDB",
     "category": "faang",
     "ats": "greenhouse",
@@ -5098,6 +7205,25 @@
       "https://job-boards.greenhouse.io/monzo",
       "https://monzo.com/careers/"
     ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "category": "finance",
+    "ats": "careers",
+    "token": "morganstanley",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "morganstanley",
+        "host": "https://www.morganstanley.com/careers",
+        "site": "",
+        "url": "https://www.morganstanley.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.morganstanley.com/careers"
+    ],
+    "host": "https://www.morganstanley.com/careers"
   },
   {
     "name": "MultiversX",
@@ -5151,12 +7277,102 @@
         "host": "https://n26.com/en-eu/careers",
         "site": "",
         "url": "https://n26.com/en-eu/careers"
+      },
+      {
+        "ats": "join",
+        "token": "n26",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/n26",
+        "extra": {
+          "company_id": "106934"
+        }
       }
     ],
     "urls": [
       "https://job-boards.greenhouse.io/n26",
       "https://n26.jobs.personio.com/",
-      "https://n26.com/en-eu/careers"
+      "https://n26.com/en-eu/careers",
+      "https://join.com/companies/n26"
+    ]
+  },
+  {
+    "name": "Nagarro",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "nagarro",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "nagarro",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/nagarro/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Nagarro",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Nagarro"
+      },
+      {
+        "ats": "careers",
+        "token": "Nagarro",
+        "host": "https://www.nagarro.com/en/careers",
+        "site": "",
+        "url": "https://www.nagarro.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/nagarro/",
+      "https://careers.smartrecruiters.com/Nagarro",
+      "https://www.nagarro.com/en/careers"
+    ]
+  },
+  {
+    "name": "NatWest",
+    "category": "finance",
+    "ats": "careers",
+    "token": "natwest",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "natwest",
+        "host": "https://jobs.natwestgroup.com/",
+        "site": "",
+        "url": "https://jobs.natwestgroup.com"
+      },
+      {
+        "ats": "careers",
+        "token": "NatWest",
+        "host": "https://jobs.natwestgroup.com/",
+        "site": "",
+        "url": "https://jobs.natwestgroup.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.natwestgroup.com",
+      "https://jobs.natwestgroup.com/"
+    ],
+    "host": "https://jobs.natwestgroup.com/"
+  },
+  {
+    "name": "NEC",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "NEC",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "NEC",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/NEC"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/NEC"
     ]
   },
   {
@@ -5236,6 +7452,33 @@
       "https://jobs.lever.co/nethermind",
       "https://www.nethermind.io/careers"
     ]
+  },
+  {
+    "name": "Netopia",
+    "category": "finance",
+    "ats": "careers",
+    "token": "netopia",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "netopia",
+        "host": "https://netopia-payments.com/cariere/",
+        "site": "",
+        "url": "https://netopia-payments.com/cariere"
+      },
+      {
+        "ats": "careers",
+        "token": "Netopia",
+        "host": "https://netopia-payments.com/cariere/",
+        "site": "",
+        "url": "https://netopia-payments.com/cariere/"
+      }
+    ],
+    "urls": [
+      "https://netopia-payments.com/cariere",
+      "https://netopia-payments.com/cariere/"
+    ],
+    "host": "https://netopia-payments.com/cariere/"
   },
   {
     "name": "Nexthink",
@@ -5330,6 +7573,33 @@
       "https://nokia.wd3.myworkdayjobs.com/Careers",
       "https://www.nokia.com/careers/"
     ]
+  },
+  {
+    "name": "Nomura",
+    "category": "finance",
+    "ats": "careers",
+    "token": "nomura",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "nomura",
+        "host": "https://www.nomura.com/careers/",
+        "site": "",
+        "url": "https://www.nomura.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Nomura",
+        "host": "https://www.nomura.com/careers/",
+        "site": "",
+        "url": "https://www.nomura.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.nomura.com/careers",
+      "https://www.nomura.com/careers/"
+    ],
+    "host": "https://www.nomura.com/careers/"
   },
   {
     "name": "Notion",
@@ -5467,6 +7737,32 @@
     "site": "careers"
   },
   {
+    "name": "Oblio",
+    "category": "product",
+    "ats": "workable",
+    "token": "oblio",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "oblio",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/oblio/"
+      },
+      {
+        "ats": "careers",
+        "token": "Oblio",
+        "host": "https://www.oblio.eu/cariere",
+        "site": "",
+        "url": "https://www.oblio.eu/cariere"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/oblio/",
+      "https://www.oblio.eu/cariere"
+    ]
+  },
+  {
     "name": "Okta",
     "category": "faang",
     "ats": "greenhouse",
@@ -5493,6 +7789,32 @@
     ]
   },
   {
+    "name": "OKX",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "okx",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "okx",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/okx"
+      },
+      {
+        "ats": "careers",
+        "token": "OKX",
+        "host": "https://www.okx.com/careers",
+        "site": "",
+        "url": "https://www.okx.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/okx",
+      "https://www.okx.com/careers"
+    ]
+  },
+  {
     "name": "Old Mission Capital",
     "category": "quant",
     "ats": "greenhouse",
@@ -5516,6 +7838,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/oldmission",
       "https://www.oldmissioncapital.com/careers/"
+    ]
+  },
+  {
+    "name": "Oliver Wyman",
+    "category": "ssc",
+    "ats": "lever",
+    "token": "oliverwyman",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "oliverwyman",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/oliverwyman"
+      },
+      {
+        "ats": "careers",
+        "token": "Oliver Wyman",
+        "host": "https://www.oliverwyman.com/careers.html",
+        "site": "",
+        "url": "https://www.oliverwyman.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/oliverwyman",
+      "https://www.oliverwyman.com/careers.html"
     ]
   },
   {
@@ -5771,6 +8119,24 @@
     ]
   },
   {
+    "name": "Panasonic",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Panasonic",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Panasonic",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Panasonic"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Panasonic"
+    ]
+  },
+  {
     "name": "PayPal",
     "category": "finance",
     "ats": "workday",
@@ -5822,6 +8188,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/payu",
       "https://corporate.payu.com/careers/"
+    ]
+  },
+  {
+    "name": "PDT Partners",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "pdtpartners",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "pdtpartners",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/pdtpartners"
+      },
+      {
+        "ats": "careers",
+        "token": "PDT Partners",
+        "host": "https://www.pdtpartners.com/careers",
+        "site": "",
+        "url": "https://www.pdtpartners.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/pdtpartners",
+      "https://www.pdtpartners.com/careers"
     ]
   },
   {
@@ -5981,6 +8373,32 @@
     ]
   },
   {
+    "name": "Pinterest",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "pinterest",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "pinterest",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/pinterest"
+      },
+      {
+        "ats": "careers",
+        "token": "Pinterest",
+        "host": "https://www.pinterestcareers.com/",
+        "site": "",
+        "url": "https://www.pinterestcareers.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/pinterest",
+      "https://www.pinterestcareers.com/"
+    ]
+  },
+  {
     "name": "PitechPlus",
     "category": "ssc",
     "ats": "workable",
@@ -6067,6 +8485,25 @@
     ]
   },
   {
+    "name": "Pluxee",
+    "category": "finance",
+    "ats": "careers",
+    "token": "pluxee",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "pluxee",
+        "host": "https://www.pluxee.ro/cariere",
+        "site": "",
+        "url": "https://www.pluxee.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.pluxee.ro/cariere"
+    ],
+    "host": "https://www.pluxee.ro/cariere"
+  },
+  {
     "name": "Point72",
     "category": "quant",
     "ats": "greenhouse",
@@ -6090,6 +8527,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/point72",
       "https://careers.point72.com/"
+    ]
+  },
+  {
+    "name": "Porsche",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Porsche",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Porsche",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Porsche"
+      },
+      {
+        "ats": "careers",
+        "token": "Porsche",
+        "host": "https://www.porsche.com/international/aboutporsche/jobs/",
+        "site": "",
+        "url": "https://www.porsche.com/international/aboutporsche/jobs/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Porsche",
+      "https://www.porsche.com/international/aboutporsche/jobs/"
     ]
   },
   {
@@ -6117,6 +8580,25 @@
       "https://careers.smartrecruiters.com/PorscheEngineering",
       "https://www.porscheengineering.com/peg/en/career/"
     ]
+  },
+  {
+    "name": "PPC Romania",
+    "category": "other",
+    "ats": "careers",
+    "token": "ppcromania",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "ppcromania",
+        "host": "https://www.ppcenergy.ro/cariere",
+        "site": "",
+        "url": "https://www.ppcenergy.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.ppcenergy.ro/cariere"
+    ],
+    "host": "https://www.ppcenergy.ro/cariere"
   },
   {
     "name": "Preh",
@@ -6179,6 +8661,33 @@
     ],
     "host": "pg.wd5.myworkdayjobs.com",
     "site": "PG_Careers"
+  },
+  {
+    "name": "Publicis Sapient",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "publicissapient",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "publicissapient",
+        "host": "https://careers.publicissapient.com/",
+        "site": "",
+        "url": "https://careers.publicissapient.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Publicis Sapient",
+        "host": "https://careers.publicissapient.com/",
+        "site": "",
+        "url": "https://careers.publicissapient.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.publicissapient.com",
+      "https://careers.publicissapient.com/"
+    ],
+    "host": "https://careers.publicissapient.com/"
   },
   {
     "name": "PwC",
@@ -6427,6 +8936,58 @@
     "site": "Redhat_jobs"
   },
   {
+    "name": "Reddit",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "reddit",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "reddit",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/reddit"
+      },
+      {
+        "ats": "careers",
+        "token": "Reddit",
+        "host": "https://www.redditinc.com/careers",
+        "site": "",
+        "url": "https://www.redditinc.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/reddit",
+      "https://www.redditinc.com/careers"
+    ]
+  },
+  {
+    "name": "Redis",
+    "category": "product",
+    "ats": "ashby",
+    "token": "redis",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "redis",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/redis"
+      },
+      {
+        "ats": "careers",
+        "token": "Redis",
+        "host": "https://redis.io/careers/",
+        "site": "",
+        "url": "https://redis.io/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/redis",
+      "https://redis.io/careers/"
+    ]
+  },
+  {
     "name": "Remote.com",
     "category": "product",
     "ats": "greenhouse",
@@ -6533,6 +9094,32 @@
     "site": "careers"
   },
   {
+    "name": "Reply",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "reply",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "reply",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/reply/"
+      },
+      {
+        "ats": "careers",
+        "token": "Reply",
+        "host": "https://www.reply.com/en/careers",
+        "site": "",
+        "url": "https://www.reply.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/reply/",
+      "https://www.reply.com/en/careers"
+    ]
+  },
+  {
     "name": "Revolut",
     "category": "finance",
     "ats": "greenhouse",
@@ -6564,6 +9151,32 @@
       "https://job-boards.greenhouse.io/revolut",
       "https://jobs.ashbyhq.com/revolut",
       "https://www.revolut.com/careers/"
+    ]
+  },
+  {
+    "name": "Rimac",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Rimac",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Rimac",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Rimac"
+      },
+      {
+        "ats": "careers",
+        "token": "Rimac",
+        "host": "https://www.rimac-technology.com/careers",
+        "site": "",
+        "url": "https://www.rimac-technology.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Rimac",
+      "https://www.rimac-technology.com/careers"
     ]
   },
   {
@@ -6611,6 +9224,32 @@
     ]
   },
   {
+    "name": "Riot Games",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "riotgames",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "riotgames",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/riotgames"
+      },
+      {
+        "ats": "careers",
+        "token": "Riot Games",
+        "host": "https://www.riotgames.com/en/work-with-us",
+        "site": "",
+        "url": "https://www.riotgames.com/en/work-with-us"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/riotgames",
+      "https://www.riotgames.com/en/work-with-us"
+    ]
+  },
+  {
     "name": "Rippling",
     "category": "product",
     "ats": "ashby",
@@ -6629,11 +9268,45 @@
         "host": "https://www.rippling.com/careers",
         "site": "",
         "url": "https://www.rippling.com/careers"
+      },
+      {
+        "ats": "rippling",
+        "token": "rippling",
+        "host": "",
+        "site": "",
+        "url": "https://ats.rippling.com/rippling/jobs"
       }
     ],
     "urls": [
       "https://jobs.ashbyhq.com/rippling",
-      "https://www.rippling.com/careers"
+      "https://www.rippling.com/careers",
+      "https://ats.rippling.com/rippling/jobs"
+    ]
+  },
+  {
+    "name": "Roblox",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "roblox",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "roblox",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/roblox"
+      },
+      {
+        "ats": "careers",
+        "token": "Roblox",
+        "host": "https://careers.roblox.com/",
+        "site": "",
+        "url": "https://careers.roblox.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/roblox",
+      "https://careers.roblox.com/"
     ]
   },
   {
@@ -6660,6 +9333,32 @@
     "urls": [
       "https://careers.smartrecruiters.com/RohdeSchwarz",
       "https://www.rohde-schwarz.com/career"
+    ]
+  },
+  {
+    "name": "Roland Berger",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "RolandBerger",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "RolandBerger",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/RolandBerger"
+      },
+      {
+        "ats": "careers",
+        "token": "Roland Berger",
+        "host": "https://www.rolandberger.com/en/Join/",
+        "site": "",
+        "url": "https://www.rolandberger.com/en/Join/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/RolandBerger",
+      "https://www.rolandberger.com/en/Join/"
     ]
   },
   {
@@ -6771,6 +9470,59 @@
     ]
   },
   {
+    "name": "Sameday",
+    "category": "product",
+    "ats": "careers",
+    "token": "sameday",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "sameday",
+        "host": "https://www.sameday.ro/cariere",
+        "site": "",
+        "url": "https://www.sameday.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.sameday.ro/cariere"
+    ],
+    "host": "https://www.sameday.ro/cariere"
+  },
+  {
+    "name": "Samsung",
+    "category": "rd",
+    "ats": "workable",
+    "token": "samsung",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "samsung",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/samsung/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "SamsungElectronics",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SamsungElectronics"
+      },
+      {
+        "ats": "careers",
+        "token": "Samsung",
+        "host": "https://www.samsung.com/ro/about-us/careers/",
+        "site": "",
+        "url": "https://www.samsung.com/ro/about-us/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/samsung/",
+      "https://careers.smartrecruiters.com/SamsungElectronics",
+      "https://www.samsung.com/ro/about-us/careers/"
+    ]
+  },
+  {
     "name": "SAP",
     "category": "faang",
     "ats": "workday",
@@ -6822,6 +9574,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/scaleai",
       "https://scale.com/careers"
+    ]
+  },
+  {
+    "name": "Scania",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Scania",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Scania",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Scania"
+      },
+      {
+        "ats": "careers",
+        "token": "Scania",
+        "host": "https://www.scania.com/group/en/home/career.html",
+        "site": "",
+        "url": "https://www.scania.com/group/en/home/career.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Scania",
+      "https://www.scania.com/group/en/home/career.html"
     ]
   },
   {
@@ -6877,6 +9655,59 @@
     ]
   },
   {
+    "name": "Schonfeld",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "schonfeld",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "schonfeld",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/schonfeld"
+      },
+      {
+        "ats": "careers",
+        "token": "Schonfeld",
+        "host": "https://www.schonfeld.com/careers/",
+        "site": "",
+        "url": "https://www.schonfeld.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/schonfeld",
+      "https://www.schonfeld.com/careers/"
+    ]
+  },
+  {
+    "name": "Schroders",
+    "category": "finance",
+    "ats": "careers",
+    "token": "schroders",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "schroders",
+        "host": "https://www.schroders.com/en/careers/",
+        "site": "",
+        "url": "https://www.schroders.com/en/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Schroders",
+        "host": "https://www.schroders.com/en/careers/",
+        "site": "",
+        "url": "https://www.schroders.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.schroders.com/en/careers",
+      "https://www.schroders.com/en/careers/"
+    ],
+    "host": "https://www.schroders.com/en/careers/"
+  },
+  {
     "name": "SeedBlink",
     "category": "product",
     "ats": "lever",
@@ -6926,6 +9757,40 @@
     "urls": [
       "https://careers.smartrecruiters.com/SEGULA",
       "https://www.segulatechnologies.com/en/join-us/"
+    ]
+  },
+  {
+    "name": "SelfPay",
+    "category": "product",
+    "ats": "smartrecruiters",
+    "token": "SelfPay",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SelfPay",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SelfPay"
+      },
+      {
+        "ats": "workable",
+        "token": "selfpay",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/selfpay/"
+      },
+      {
+        "ats": "careers",
+        "token": "SelfPay",
+        "host": "https://selfpay.ro/cariere/",
+        "site": "",
+        "url": "https://selfpay.ro/cariere/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SelfPay",
+      "https://apply.workable.com/selfpay/",
+      "https://selfpay.ro/cariere/"
     ]
   },
   {
@@ -7077,6 +9942,50 @@
     ]
   },
   {
+    "name": "SII",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "SII",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SII",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SII"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SII"
+    ]
+  },
+  {
+    "name": "SKF",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "SKF",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SKF",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SKF"
+      },
+      {
+        "ats": "careers",
+        "token": "SKF",
+        "host": "https://www.skf.com/group/careers",
+        "site": "",
+        "url": "https://www.skf.com/group/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SKF",
+      "https://www.skf.com/group/careers"
+    ]
+  },
+  {
     "name": "SLB",
     "category": "rd",
     "ats": "smartrecruiters",
@@ -7101,6 +10010,25 @@
       "https://careers.smartrecruiters.com/SLB",
       "https://careers.slb.com/"
     ]
+  },
+  {
+    "name": "SmartBill",
+    "category": "product",
+    "ats": "careers",
+    "token": "smartbill",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "smartbill",
+        "host": "https://www.smartbill.ro/cariere",
+        "site": "",
+        "url": "https://www.smartbill.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.smartbill.ro/cariere"
+    ],
+    "host": "https://www.smartbill.ro/cariere"
   },
   {
     "name": "SmartDreamers",
@@ -7171,32 +10099,6 @@
     "urls": [
       "https://job-boards.greenhouse.io/snowflakecomputing",
       "https://careers.snowflake.com/"
-    ]
-  },
-  {
-    "name": "Societe Generale",
-    "category": "finance",
-    "ats": "smartrecruiters",
-    "token": "SocieteGenerale",
-    "sites": [
-      {
-        "ats": "smartrecruiters",
-        "token": "SocieteGenerale",
-        "host": "",
-        "site": "",
-        "url": "https://careers.smartrecruiters.com/SocieteGenerale"
-      },
-      {
-        "ats": "careers",
-        "token": "Societe Generale",
-        "host": "https://careers.societegenerale.com/",
-        "site": "",
-        "url": "https://careers.societegenerale.com/"
-      }
-    ],
-    "urls": [
-      "https://careers.smartrecruiters.com/SocieteGenerale",
-      "https://careers.societegenerale.com/"
     ]
   },
   {
@@ -7338,6 +10240,32 @@
     ]
   },
   {
+    "name": "Sony",
+    "category": "product",
+    "ats": "workable",
+    "token": "sony",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "sony",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/sony/"
+      },
+      {
+        "ats": "careers",
+        "token": "Sony",
+        "host": "https://www.sony.com/en/careers/",
+        "site": "",
+        "url": "https://www.sony.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/sony/",
+      "https://www.sony.com/en/careers/"
+    ]
+  },
+  {
     "name": "SpaceX",
     "category": "faang",
     "ats": "greenhouse",
@@ -7416,6 +10344,33 @@
     ]
   },
   {
+    "name": "Standard Chartered",
+    "category": "finance",
+    "ats": "careers",
+    "token": "standardchartered",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "standardchartered",
+        "host": "https://www.sc.com/en/careers/",
+        "site": "",
+        "url": "https://www.sc.com/en/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Standard Chartered",
+        "host": "https://www.sc.com/en/careers/",
+        "site": "",
+        "url": "https://www.sc.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.sc.com/en/careers",
+      "https://www.sc.com/en/careers/"
+    ],
+    "host": "https://www.sc.com/en/careers/"
+  },
+  {
     "name": "Starling Bank",
     "category": "finance",
     "ats": "greenhouse",
@@ -7439,6 +10394,59 @@
     "urls": [
       "https://job-boards.greenhouse.io/starlingbank",
       "https://www.starlingbank.com/careers/"
+    ]
+  },
+  {
+    "name": "State Street",
+    "category": "finance",
+    "ats": "careers",
+    "token": "statestreet",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "statestreet",
+        "host": "https://careers.statestreet.com/",
+        "site": "",
+        "url": "https://careers.statestreet.com"
+      },
+      {
+        "ats": "careers",
+        "token": "State Street",
+        "host": "https://careers.statestreet.com/",
+        "site": "",
+        "url": "https://careers.statestreet.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.statestreet.com",
+      "https://careers.statestreet.com/"
+    ],
+    "host": "https://careers.statestreet.com/"
+  },
+  {
+    "name": "Stellantis",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Stellantis",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Stellantis",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Stellantis"
+      },
+      {
+        "ats": "careers",
+        "token": "Stellantis",
+        "host": "https://careers.stellantis.com/",
+        "site": "",
+        "url": "https://careers.stellantis.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Stellantis",
+      "https://careers.stellantis.com/"
     ]
   },
   {
@@ -7494,6 +10502,51 @@
     ],
     "host": "stmicroelectronics.wd3.myworkdayjobs.com",
     "site": "ST_Careers"
+  },
+  {
+    "name": "Storytel",
+    "category": "product",
+    "ats": "teamtailor",
+    "token": "storytel",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "storytel",
+        "host": "",
+        "site": "",
+        "url": "https://storytel.teamtailor.com/jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Storytel",
+        "host": "https://www.storytel.com/careers",
+        "site": "",
+        "url": "https://www.storytel.com/careers"
+      }
+    ],
+    "urls": [
+      "https://storytel.teamtailor.com/jobs",
+      "https://www.storytel.com/careers"
+    ]
+  },
+  {
+    "name": "Strategy&",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "strategyand",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "strategyand",
+        "host": "https://www.strategyand.pwc.com/careers",
+        "site": "",
+        "url": "https://www.strategyand.pwc.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.strategyand.pwc.com/careers"
+    ],
+    "host": "https://www.strategyand.pwc.com/careers"
   },
   {
     "name": "Stripe",
@@ -7590,6 +10643,32 @@
     ]
   },
   {
+    "name": "SUSE",
+    "category": "product",
+    "ats": "workable",
+    "token": "suse",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "suse",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/suse/"
+      },
+      {
+        "ats": "careers",
+        "token": "SUSE",
+        "host": "https://www.suse.com/company/careers/",
+        "site": "",
+        "url": "https://www.suse.com/company/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/suse/",
+      "https://www.suse.com/company/careers/"
+    ]
+  },
+  {
     "name": "Susquehanna",
     "category": "quant",
     "ats": "greenhouse",
@@ -7624,6 +10703,33 @@
     ]
   },
   {
+    "name": "Syneto",
+    "category": "product",
+    "ats": "careers",
+    "token": "syneto",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "syneto",
+        "host": "https://syneto.eu/careers/",
+        "site": "",
+        "url": "https://syneto.eu/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Syneto",
+        "host": "https://syneto.eu/careers/",
+        "site": "",
+        "url": "https://syneto.eu/careers/"
+      }
+    ],
+    "urls": [
+      "https://syneto.eu/careers",
+      "https://syneto.eu/careers/"
+    ],
+    "host": "https://syneto.eu/careers/"
+  },
+  {
     "name": "Tapptitude",
     "category": "product",
     "ats": "lever",
@@ -7656,6 +10762,25 @@
       "https://apply.workable.com/tapptitude/",
       "https://tapptitude.com/careers/"
     ]
+  },
+  {
+    "name": "TBI Bank",
+    "category": "finance",
+    "ats": "careers",
+    "token": "tbibank",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "tbibank",
+        "host": "https://tbibank.ro/cariere",
+        "site": "",
+        "url": "https://tbibank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://tbibank.ro/cariere"
+    ],
+    "host": "https://tbibank.ro/cariere"
   },
   {
     "name": "TCS",
@@ -7875,6 +11000,32 @@
     ]
   },
   {
+    "name": "Toyota",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Toyota",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Toyota",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Toyota"
+      },
+      {
+        "ats": "careers",
+        "token": "Toyota",
+        "host": "https://www.toyota-europe.com/careers",
+        "site": "",
+        "url": "https://www.toyota-europe.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Toyota",
+      "https://www.toyota-europe.com/careers"
+    ]
+  },
+  {
     "name": "Trade Republic",
     "category": "finance",
     "ats": "greenhouse",
@@ -7977,6 +11128,32 @@
     ]
   },
   {
+    "name": "TTTech Auto",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "TTTech",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "TTTech",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/TTTech"
+      },
+      {
+        "ats": "careers",
+        "token": "TTTech Auto",
+        "host": "https://www.tttech-auto.com/career/",
+        "site": "",
+        "url": "https://www.tttech-auto.com/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/TTTech",
+      "https://www.tttech-auto.com/career/"
+    ]
+  },
+  {
     "name": "Twilio",
     "category": "faang",
     "ats": "greenhouse",
@@ -8000,6 +11177,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/twilio",
       "https://www.twilio.com/company/jobs"
+    ]
+  },
+  {
+    "name": "Twitch",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "twitch",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "twitch",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/twitch"
+      },
+      {
+        "ats": "careers",
+        "token": "Twitch",
+        "host": "https://www.twitch.tv/jobs",
+        "site": "",
+        "url": "https://www.twitch.tv/jobs"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/twitch",
+      "https://www.twitch.tv/jobs"
     ]
   },
   {
@@ -8133,6 +11336,25 @@
     "site": "UbiCareers"
   },
   {
+    "name": "UBS",
+    "category": "finance",
+    "ats": "careers",
+    "token": "ubs",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "ubs",
+        "host": "https://www.ubs.com/global/en/careers.html",
+        "site": "",
+        "url": "https://www.ubs.com/global/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.ubs.com/global/en/careers.html"
+    ],
+    "host": "https://www.ubs.com/global/en/careers.html"
+  },
+  {
     "name": "UiPath",
     "category": "product",
     "ats": "workday",
@@ -8211,6 +11433,59 @@
     ]
   },
   {
+    "name": "Unisys",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "unisys",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "unisys",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/unisys/"
+      },
+      {
+        "ats": "careers",
+        "token": "Unisys",
+        "host": "https://www.unisys.com/careers/",
+        "site": "",
+        "url": "https://www.unisys.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/unisys/",
+      "https://www.unisys.com/careers/"
+    ]
+  },
+  {
+    "name": "Unity",
+    "category": "gaming",
+    "ats": "careers",
+    "token": "unity",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "unity",
+        "host": "https://careers.unity.com/",
+        "site": "",
+        "url": "https://careers.unity.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Unity",
+        "host": "https://careers.unity.com/",
+        "site": "",
+        "url": "https://careers.unity.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.unity.com",
+      "https://careers.unity.com/"
+    ],
+    "host": "https://careers.unity.com/"
+  },
+  {
     "name": "Valeo",
     "category": "rd",
     "ats": "smartrecruiters",
@@ -8234,6 +11509,32 @@
     "urls": [
       "https://careers.smartrecruiters.com/Valeo",
       "https://www.valeo.com/en/join-us/"
+    ]
+  },
+  {
+    "name": "Vector Informatik",
+    "category": "rd",
+    "ats": "workable",
+    "token": "vector",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "vector",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/vector/"
+      },
+      {
+        "ats": "careers",
+        "token": "Vector Informatik",
+        "host": "https://www.vector.com/int/en/careers/",
+        "site": "",
+        "url": "https://www.vector.com/int/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/vector/",
+      "https://www.vector.com/int/en/careers/"
     ]
   },
   {
@@ -8386,6 +11687,40 @@
     ]
   },
   {
+    "name": "Visteon",
+    "category": "rd",
+    "ats": "workable",
+    "token": "visteon",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "visteon",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/visteon/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Visteon",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Visteon"
+      },
+      {
+        "ats": "careers",
+        "token": "Visteon",
+        "host": "https://www.visteon.com/careers/",
+        "site": "",
+        "url": "https://www.visteon.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/visteon/",
+      "https://careers.smartrecruiters.com/Visteon",
+      "https://www.visteon.com/careers/"
+    ]
+  },
+  {
     "name": "Vodafone",
     "category": "telecom",
     "ats": "smartrecruiters",
@@ -8417,6 +11752,58 @@
       "https://careers.smartrecruiters.com/Vodafone",
       "https://apply.workable.com/vodafone/",
       "https://www.vodafone.ro/cariere"
+    ]
+  },
+  {
+    "name": "Volkswagen",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Volkswagen",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Volkswagen",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Volkswagen"
+      },
+      {
+        "ats": "careers",
+        "token": "Volkswagen",
+        "host": "https://www.volkswagen-group.com/en/careers",
+        "site": "",
+        "url": "https://www.volkswagen-group.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Volkswagen",
+      "https://www.volkswagen-group.com/en/careers"
+    ]
+  },
+  {
+    "name": "Volvo",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "VolvoGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "VolvoGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/VolvoGroup"
+      },
+      {
+        "ats": "careers",
+        "token": "Volvo",
+        "host": "https://www.volvogroup.com/en/careers.html",
+        "site": "",
+        "url": "https://www.volvogroup.com/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/VolvoGroup",
+      "https://www.volvogroup.com/en/careers.html"
     ]
   },
   {
@@ -8472,6 +11859,58 @@
     ],
     "host": "westernunion.wd1.myworkdayjobs.com",
     "site": "westernunionsite"
+  },
+  {
+    "name": "Westwing",
+    "category": "product",
+    "ats": "personio",
+    "token": "westwing",
+    "sites": [
+      {
+        "ats": "personio",
+        "token": "westwing",
+        "host": "",
+        "site": "",
+        "url": "https://westwing.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Westwing",
+        "host": "https://www.westwing.com/careers/",
+        "site": "",
+        "url": "https://www.westwing.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://westwing.jobs.personio.com/",
+      "https://www.westwing.com/careers/"
+    ]
+  },
+  {
+    "name": "Wind River",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "WindRiver",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "WindRiver",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/WindRiver"
+      },
+      {
+        "ats": "careers",
+        "token": "Wind River",
+        "host": "https://www.windriver.com/company/careers",
+        "site": "",
+        "url": "https://www.windriver.com/company/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/WindRiver",
+      "https://www.windriver.com/company/careers"
+    ]
   },
   {
     "name": "Wintermute",
@@ -8619,12 +12058,23 @@
         "host": "https://careers.wolt.com/",
         "site": "",
         "url": "https://careers.wolt.com/"
+      },
+      {
+        "ats": "join",
+        "token": "wolt",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/wolt",
+        "extra": {
+          "company_id": "15453"
+        }
       }
     ],
     "urls": [
       "https://job-boards.greenhouse.io/wolt",
       "https://wolt.jobs.personio.com/",
-      "https://careers.wolt.com/"
+      "https://careers.wolt.com/",
+      "https://join.com/companies/wolt"
     ]
   },
   {
@@ -8780,6 +12230,60 @@
       "https://yonder.jobs.personio.com/",
       "https://www.yonder.ro/careers/"
     ]
+  },
+  {
+    "name": "Zalando",
+    "category": "product",
+    "ats": "careers",
+    "token": "zalando",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "zalando",
+        "host": "https://jobs.zalando.com/",
+        "site": "",
+        "url": "https://jobs.zalando.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Zalando",
+        "host": "https://jobs.zalando.com/",
+        "site": "",
+        "url": "https://jobs.zalando.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.zalando.com",
+      "https://jobs.zalando.com/"
+    ],
+    "host": "https://jobs.zalando.com/"
+  },
+  {
+    "name": "Zendesk",
+    "category": "product",
+    "ats": "careers",
+    "token": "zendesk",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "zendesk",
+        "host": "https://www.zendesk.com/jobs/",
+        "site": "",
+        "url": "https://www.zendesk.com/jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Zendesk",
+        "host": "https://www.zendesk.com/jobs/",
+        "site": "",
+        "url": "https://www.zendesk.com/jobs/"
+      }
+    ],
+    "urls": [
+      "https://www.zendesk.com/jobs",
+      "https://www.zendesk.com/jobs/"
+    ],
+    "host": "https://www.zendesk.com/jobs/"
   },
   {
     "name": "Zitec",

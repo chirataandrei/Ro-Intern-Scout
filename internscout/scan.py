@@ -11,7 +11,7 @@ from internscout.emailer import build_email, is_romania_job
 from internscout.filters import keep_job
 from internscout.http import HttpClient
 from internscout.models import COMPANIES_PATH, Company, Job, SEEN_PATH
-from internscout.sources import bestjobs, ejobs, hipo, simplify, stagiipebune
+from internscout.sources import bestjobs, ejobs, hipo, nofluffjobs, simplify, stagiipebune, undelucram
 from internscout.sources.registry import fetch_company
 from internscout.store import load_seen, save_seen, split_new
 
@@ -73,6 +73,8 @@ def scan(http: HttpClient | None = None) -> list[Job]:
         ("eJobs", "ejobs", ejobs.fetch_jobs, False, False),
         ("BestJobs", "bestjobs", bestjobs.fetch_jobs, False, False),
         ("Stagii pe Bune", "stagiipebune", stagiipebune.fetch_jobs, True, True),
+        ("Undelucram", "undelucram", undelucram.fetch_jobs, True, False),
+        ("NoFluffJobs", "nofluffjobs", nofluffjobs.fetch_jobs, False, False),
         ("Simplify", "simplify", simplify.fetch_jobs, False, False),
     ]
     for label, source, fetch, already_ro, assume_intern in aggregators:
