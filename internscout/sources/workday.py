@@ -5,6 +5,21 @@ from internscout.models import Company, Job
 from internscout.sources import uid
 
 
+def build_job_url(host: str, site: str, path: str) -> str:
+    host = (host or "").strip().rstrip("/")
+    site = (site or "").strip().strip("/")
+    path = (path or "").strip()
+    if path.startswith("http://") or path.startswith("https://"):
+        return path
+    if not path.startswith("/"):
+        path = f"/{path}" if path else ""
+    if site and (path == f"/{site}" or path.startswith(f"/{site}/")):
+        return f"https://{host}{path}"
+    if site:
+        return f"https://{host}/{site}{path}"
+    return f"https://{host}{path}"
+
+
 def fetch_jobs(company: Company, http: HttpClient) -> list[Job]:
     host = company.host
     tenant = company.token
@@ -49,7 +64,7 @@ def fetch_jobs(company: Company, http: HttpClient) -> list[Job]:
                         category=company.category,
                         title=title,
                         location=loc or path.replace("/job/", "").replace("-", " "),
-                        url=f"https://{host}{path}",
+                        url=build_job_url(host, site, path),
                         source="workday",
                         published=str(raw.get("postedOn") or ""),
                     )

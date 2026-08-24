@@ -1974,5 +1974,682 @@
     "category": "rd",
     "ats": "smartrecruiters",
     "token": "Garmin"
+  },
+  {
+    "name": "Nokia Careers",
+    "category": "telecom",
+    "ats": "workday",
+    "token": "nokia",
+    "host": "nokia.wd3.myworkdayjobs.com",
+    "site": "Careers"
+  },
+  {
+    "name": "Ericsson Careers",
+    "category": "telecom",
+    "ats": "workday",
+    "token": "ericsson",
+    "host": "ericsson.wd3.myworkdayjobs.com",
+    "site": "career"
+  },
+  {
+    "name": "HP",
+    "category": "faang",
+    "ats": "workday",
+    "token": "hp",
+    "host": "hp.wd5.myworkdayjobs.com",
+    "site": "ExternalCareerSite"
+  },
+  {
+    "name": "Qualcomm",
+    "category": "rd",
+    "ats": "workday",
+    "token": "qualcomm",
+    "host": "qualcomm.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Broadcom",
+    "category": "rd",
+    "ats": "workday",
+    "token": "broadcom",
+    "host": "broadcom.wd1.myworkdayjobs.com",
+    "site": "External_Career"
+  },
+  {
+    "name": "STMicroelectronics",
+    "category": "rd",
+    "ats": "workday",
+    "token": "stmicroelectronics",
+    "host": "stmicroelectronics.wd3.myworkdayjobs.com",
+    "site": "ST_Careers"
+  },
+  {
+    "name": "onsemi",
+    "category": "rd",
+    "ats": "workday",
+    "token": "onsemi",
+    "host": "onsemi.wd3.myworkdayjobs.com",
+    "site": "OnsemiCareers"
+  },
+  {
+    "name": "ASML",
+    "category": "rd",
+    "ats": "workday",
+    "token": "asml",
+    "host": "asml.wd3.myworkdayjobs.com",
+    "site": "asml_careers"
+  },
+  {
+    "name": "Procter & Gamble",
+    "category": "other",
+    "ats": "workday",
+    "token": "pg",
+    "host": "pg.wd5.myworkdayjobs.com",
+    "site": "PG_Careers"
+  },
+  {
+    "name": "Western Union",
+    "category": "finance",
+    "ats": "workday",
+    "token": "westernunion",
+    "host": "westernunion.wd1.myworkdayjobs.com",
+    "site": "westernunionsite"
+  },
+  {
+    "name": "Lenovo",
+    "category": "product",
+    "ats": "workday",
+    "token": "lenovo",
+    "host": "lenovo.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "ARM",
+    "category": "rd",
+    "ats": "workday",
+    "token": "arm",
+    "host": "arm.wd1.myworkdayjobs.com",
+    "site": "Careers"
+  },
+  {
+    "name": "Renesas",
+    "category": "rd",
+    "ats": "workday",
+    "token": "renesas",
+    "host": "renesas.wd1.myworkdayjobs.com",
+    "site": "careers"
+  },
+  {
+    "name": "Marvell",
+    "category": "rd",
+    "ats": "workday",
+    "token": "marvell",
+    "host": "marvell.wd1.myworkdayjobs.com",
+    "site": "Marvell_Careers"
+  },
+  {
+    "name": "Micron",
+    "category": "rd",
+    "ats": "workday",
+    "token": "micron",
+    "host": "micron.wd1.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Applied Materials",
+    "category": "rd",
+    "ats": "workday",
+    "token": "appliedmaterials",
+    "host": "appliedmaterials.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Lam Research",
+    "category": "rd",
+    "ats": "workday",
+    "token": "lamresearch",
+    "host": "lamresearch.wd1.myworkdayjobs.com",
+    "site": "Lam_External"
+  },
+  {
+    "name": "KLA",
+    "category": "rd",
+    "ats": "workday",
+    "token": "kla",
+    "host": "kla.wd1.myworkdayjobs.com",
+    "site": "KLA_Careers"
+  },
+  {
+    "name": "Tesla",
+    "category": "rd",
+    "ats": "careers",
+    "token": "tesla",
+    "host": "https://www.tesla.com/careers/search/?country=RO"
+  },
+  {
+    "name": "Siemens Jobs",
+    "category": "rd",
+    "ats": "successfactors",
+    "token": "siemens",
+    "host": "https://jobs.siemens.com/careers"
+  },
+  {
+    "name": "P&G SmartRecruiters",
+    "category": "other",
+    "ats": "smartrecruiters",
+    "token": "ProcterGamble"
+  },
+  {
+    "name": "Lenovo SmartRecruiters",
+    "category": "product",
+    "ats": "smartrecruiters",
+    "token": "Lenovo"
+  },
+  {
+    "name": "HP SmartRecruiters",
+    "category": "faang",
+    "ats": "smartrecruiters",
+    "token": "HP"
+  },
+  {
+    "name": "Oracle SmartRecruiters",
+    "category": "faang",
+    "ats": "smartrecruiters",
+    "token": "Oracle"
+  },
+  {
+    "name": "AMIQ",
+    "category": "product",
+    "ats": "careers",
+    "token": "amiq",
+    "host": "https://www.amiq.com/careers/"
+  },
+  {
+    "name": "Veridion",
+    "category": "product",
+    "ats": "careers",
+    "token": "veridion",
+    "host": "https://veridion.com/careers"
+  },
+  {
+    "name": "FotoNation",
+    "category": "product",
+    "ats": "careers",
+    "token": "fotonation",
+    "host": "https://www.xperi.com/careers/"
+  },
+  {
+    "name": "FAN Courier",
+    "category": "other",
+    "ats": "careers",
+    "token": "fancourier",
+    "host": "https://www.fancourier.ro/cariere/"
+  },
+  {
+    "name": "AquaSoft",
+    "category": "product",
+    "ats": "careers",
+    "token": "aquasoft",
+    "host": "https://www.aquasoft.ro/careers"
+  },
+  {
+    "name": "Arcanna.ai",
+    "category": "product",
+    "ats": "careers",
+    "token": "arcanna",
+    "host": "https://www.arcanna.ai/careers"
+  },
+  {
+    "name": "faur.ai",
+    "category": "product",
+    "ats": "careers",
+    "token": "faurai",
+    "host": "https://faur.ai/careers"
+  },
+  {
+    "name": "3DAPI",
+    "category": "product",
+    "ats": "careers",
+    "token": "3dapi",
+    "host": "https://3dapi.com/careers"
+  },
+  {
+    "name": "Smartheads",
+    "category": "product",
+    "ats": "careers",
+    "token": "smartheads",
+    "host": "https://smartheads.ro/careers"
+  },
+  {
+    "name": "Cresta",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "cresta"
+  },
+  {
+    "name": "Showpad",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "showpad"
+  },
+  {
+    "name": "Nexthink",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "nexthink"
+  },
+  {
+    "name": "Datadog",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "datadog"
+  },
+  {
+    "name": "Cloudflare Europe",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "cloudflare"
+  },
+  {
+    "name": "Discord",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "discord"
+  },
+  {
+    "name": "Linear",
+    "category": "product",
+    "ats": "ashby",
+    "token": "linear"
+  },
+  {
+    "name": "Vercel",
+    "category": "product",
+    "ats": "ashby",
+    "token": "vercel"
+  },
+  {
+    "name": "Perplexity",
+    "category": "product",
+    "ats": "ashby",
+    "token": "perplexityai"
+  },
+  {
+    "name": "Rippling",
+    "category": "product",
+    "ats": "ashby",
+    "token": "rippling"
+  },
+  {
+    "name": "Ramp",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "ramp"
+  },
+  {
+    "name": "Deel",
+    "category": "product",
+    "ats": "ashby",
+    "token": "deel"
+  },
+  {
+    "name": "Remote.com",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "remotecom"
+  },
+  {
+    "name": "Personio",
+    "category": "product",
+    "ats": "personio",
+    "token": "personio"
+  },
+  {
+    "name": "Celonis",
+    "category": "product",
+    "ats": "personio",
+    "token": "celonis"
+  },
+  {
+    "name": "N26 Personio",
+    "category": "finance",
+    "ats": "personio",
+    "token": "n26"
+  },
+  {
+    "name": "GetYourGuide",
+    "category": "product",
+    "ats": "personio",
+    "token": "getyourguide"
+  },
+  {
+    "name": "Delivery Hero",
+    "category": "product",
+    "ats": "personio",
+    "token": "deliveryhero"
+  },
+  {
+    "name": "Wolt Personio",
+    "category": "product",
+    "ats": "personio",
+    "token": "wolt"
+  },
+  {
+    "name": "Bitpanda",
+    "category": "finance",
+    "ats": "personio",
+    "token": "bitpanda"
+  },
+  {
+    "name": "Trade Republic Personio",
+    "category": "finance",
+    "ats": "personio",
+    "token": "traderepublic"
+  },
+  {
+    "name": "SumUp",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "sumup"
+  },
+  {
+    "name": "Klarna",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "klarna"
+  },
+  {
+    "name": "Wise Ashby",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "wise"
+  },
+  {
+    "name": "Revolut Ashby",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "revolut"
+  },
+  {
+    "name": "Monzo",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "monzo"
+  },
+  {
+    "name": "Starling Bank",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "starlingbank"
+  },
+  {
+    "name": "G-Research Pinpoint",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "gresearch"
+  },
+  {
+    "name": "Optiver Pinpoint",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "optiver"
+  },
+  {
+    "name": "IMC Pinpoint",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "imc"
+  },
+  {
+    "name": "Jane Street Pinpoint",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "janestreet"
+  },
+  {
+    "name": "Citadel Pinpoint",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "citadel"
+  },
+  {
+    "name": "Marshall Wace",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "marshallwace"
+  },
+  {
+    "name": "Man Group",
+    "category": "quant",
+    "ats": "workday",
+    "token": "man",
+    "host": "man.wd3.myworkdayjobs.com",
+    "site": "ManCareers"
+  },
+  {
+    "name": "Winton",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "winton"
+  },
+  {
+    "name": "Capula",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "capula"
+  },
+  {
+    "name": "Squarepoint",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "squarepoint"
+  },
+  {
+    "name": "Qube RT",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "qube"
+  },
+  {
+    "name": "Jump Trading Europe",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "jumptrading"
+  },
+  {
+    "name": "DRW Europe",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "drweng"
+  },
+  {
+    "name": "Hudson River Trading Europe",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "hudsonrivertrading"
+  },
+  {
+    "name": "Cisco Eightfold",
+    "category": "faang",
+    "ats": "eightfold",
+    "token": "cisco",
+    "host": "jobs.cisco.com",
+    "extra": {
+      "domain": "cisco.com"
+    }
+  },
+  {
+    "name": "NVIDIA Eightfold",
+    "category": "faang",
+    "ats": "eightfold",
+    "token": "nvidia",
+    "host": "nvidia.eightfold.ai",
+    "extra": {
+      "domain": "nvidia.com"
+    }
+  },
+  {
+    "name": "IBM iCIMS",
+    "category": "faang",
+    "ats": "icims",
+    "token": "ibm",
+    "host": "careers-ibm.icims.com"
+  },
+  {
+    "name": "Amazon iCIMS",
+    "category": "faang",
+    "ats": "icims",
+    "token": "amazon",
+    "host": "amazon.jobs"
+  },
+  {
+    "name": "Adobe BambooHR",
+    "category": "faang",
+    "ats": "bamboohr",
+    "token": "adobe"
+  },
+  {
+    "name": "Bitdefender Breezy",
+    "category": "product",
+    "ats": "breezy",
+    "token": "bitdefender"
+  },
+  {
+    "name": "UiPath Breezy",
+    "category": "product",
+    "ats": "breezy",
+    "token": "uipath"
+  },
+  {
+    "name": "eMAG Breezy",
+    "category": "product",
+    "ats": "breezy",
+    "token": "emag"
+  },
+  {
+    "name": "ING Breezy",
+    "category": "finance",
+    "ats": "breezy",
+    "token": "ing"
+  },
+  {
+    "name": "Softelligence Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "softelligence"
+  },
+  {
+    "name": "Zitec Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "zitec"
+  },
+  {
+    "name": "Caphyon Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "caphyon"
+  },
+  {
+    "name": "Evozon Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "evozon"
+  },
+  {
+    "name": "Fortech Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "fortech"
+  },
+  {
+    "name": "Yonder Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "yonder"
+  },
+  {
+    "name": "Tremend Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "tremend"
+  },
+  {
+    "name": "Luxoft Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "luxoft"
+  },
+  {
+    "name": "NTT DATA Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "nttdata"
+  },
+  {
+    "name": "Endava Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "endava"
+  },
+  {
+    "name": "Accenture Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "accenture"
+  },
+  {
+    "name": "Capgemini Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "capgemini"
+  },
+  {
+    "name": "Cognizant Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "cognizant"
+  },
+  {
+    "name": "EPAM Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "epam"
+  },
+  {
+    "name": "Globant Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "globant"
+  },
+  {
+    "name": "Wipro Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "wipro"
+  },
+  {
+    "name": "TCS Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "tcs"
+  },
+  {
+    "name": "Infosys Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "infosys"
+  },
+  {
+    "name": "HCLTech Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "hcltech"
+  },
+  {
+    "name": "Genpact Personio",
+    "category": "ssc",
+    "ats": "personio",
+    "token": "genpact"
   }
 ]

@@ -163,6 +163,15 @@ class FilterTests(unittest.TestCase):
                 from_aggregator=True,
             )
         )
+        self.assertTrue(
+            keep_job(
+                title="Software Engineer",
+                location="București",
+                company="FotoNation",
+                from_aggregator=True,
+                assume_internship=True,
+            )
+        )
 
     def test_email_lists_company_and_romania_first(self) -> None:
         nxp = Job(
@@ -171,7 +180,7 @@ class FilterTests(unittest.TestCase):
             category="rd",
             title="DevOps Intern",
             location="Bucharest, Romania",
-            url="https://example.com/nxp",
+            url="https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/DevOps-Intern_R-10066169",
             source="workday",
         )
         softech = Job(
@@ -200,7 +209,7 @@ class FilterTests(unittest.TestCase):
         self.assertNotIn("Hipo / eJobs / BestJobs", html_body)
         self.assertLess(plain.find("SOFTECH SRL"), plain.find("Jane Street"))
         self.assertLess(html_body.find("NXP"), html_body.find("Jane Street"))
-        self.assertIn("https://example.com/nxp", html_body)
+        self.assertIn("/careers/job/Bucharest/", html_body)
 
     def test_ejobs_nuxt_exposes_company_name(self) -> None:
         payload = [
@@ -228,6 +237,68 @@ class FilterTests(unittest.TestCase):
         self.assertEqual(company, "SOFTECH SRL")
         self.assertIn("Odorheiu Secuiesc", location)
         self.assertIn("1977209", url)
+
+
+class WorkdayUrlTests(unittest.TestCase):
+    def test_nxp_includes_careers_site(self) -> None:
+        from internscout.sources.workday import build_job_url
+
+        url = build_job_url(
+            "nxp.wd3.myworkdayjobs.com",
+            "careers",
+            "/job/Bucharest/DevOps-Intern_R-10066169",
+        )
+        self.assertEqual(
+            url,
+            "https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/DevOps-Intern_R-10066169",
+        )
+        self.assertNotEqual(
+            url,
+            "https://nxp.wd3.myworkdayjobs.com/job/Bucharest/DevOps-Intern_R-10066169",
+        )
+
+    def test_does_not_double_site_prefix(self) -> None:
+        from internscout.sources.workday import build_job_url
+
+        url = build_job_url(
+            "nxp.wd3.myworkdayjobs.com",
+            "careers",
+            "/careers/job/Bucharest/DevOps-Intern_R-10066169",
+        )
+        self.assertEqual(
+            url,
+            "https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/DevOps-Intern_R-10066169",
+        )
+
+
+class StagiiPeBuneTests(unittest.TestCase):
+    def test_parses_company_title_city(self) -> None:
+        from internscout.sources.stagiipebune import parse_listings
+
+        html = """
+        <tbody class="job-table-body company-group">
+          <tr>
+            <td class="job-row">
+              <p class="job-row-title bold">
+                <a class="color-emphasis" href="/jobs/veridion/deeptech-engineer-intern-32247">Deeptech Engineer Intern</a>
+              </p>
+              <p class="job-row-sub">
+                <span class="bold"><a class="color-link" href="/company_profile/veridion">Veridion</a></span>
+                <span class="muted">· Plătit: 1000 EUR net</span>
+                <span class="muted">28 Feb</span>
+                <span class="muted">București</span>
+              </p>
+            </td>
+          </tr>
+        </tbody>
+        """
+        jobs = parse_listings(html)
+        self.assertEqual(len(jobs), 1)
+        job_id, title, company, location, href = jobs[0]
+        self.assertEqual(company, "Veridion")
+        self.assertEqual(title, "Deeptech Engineer Intern")
+        self.assertEqual(location, "București")
+        self.assertIn("/jobs/veridion/", href)
 
 
 if __name__ == "__main__":

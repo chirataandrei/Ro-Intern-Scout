@@ -5,7 +5,7 @@ Daily email digest of:
 - **SWE / data / quant internships** located in **Romania** (company name, title, city, apply URL)
 - **Spring weeks** / insight programmes **outside the US and Canada** (UK / EU). Regular internships abroad are ignored.
 
-Sources: Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, plus **Hipo, eJobs, BestJobs**, and the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list. The catalog has 300+ companies (FAANG, quant, Romanian product, R&D, telecom, SSC).
+Sources: Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, Personio, Breezy, Pinpoint, BambooHR, Eightfold, Comeet, iCIMS, SuccessFactors, plus generic career-page JSON-LD. Aggregators: **Hipo, eJobs, BestJobs, Stagii pe Bune**, and the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list.
 
 ## What you get
 
@@ -61,7 +61,7 @@ Edit [`data/companies.json`](data/companies.json):
 }
 ```
 
-`ats` can be: `greenhouse`, `lever`, `ashby`, `smartrecruiters`, `workable`, `recruitee`, `teamtailor`, `workday`, `google`, `amazon`, `microsoft`, `meta`, `apple`.
+`ats` can be: `greenhouse`, `lever`, `ashby`, `smartrecruiters`, `workable`, `recruitee`, `teamtailor`, `workday`, `personio`, `breezy`, `pinpoint`, `bamboohr`, `eightfold`, `comeet`, `icims`, `successfactors`, `careers`, `google`, `amazon`, `microsoft`, `meta`, `apple`.
 
 Workday also needs `host` and `site`, for example:
 

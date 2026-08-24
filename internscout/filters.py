@@ -271,10 +271,11 @@ def keep_job(
     company: str = "",
     from_aggregator: bool = False,
     already_romania: bool = False,
+    assume_internship: bool = False,
 ) -> bool:
     if is_event(title) or is_event(company) or is_junk_company(company):
         return False
-    intern = is_internship(title, extra)
+    intern = is_internship(title, extra) or assume_internship
     spring = is_spring_week(title, extra)
     if not intern and not spring:
         return False
