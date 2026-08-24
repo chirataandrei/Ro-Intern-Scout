@@ -7,7 +7,7 @@ from typing import Any
 _ATS_SUFFIX = re.compile(
     r"\s+(Workable|Recruitee|Greenhouse|Ashby|Lever|SmartRecruiters|"
     r"Personio|Breezy|Pinpoint|BambooHR|Eightfold|iCIMS|Join|Rippling|"
-    r"JazzHR|Freshteam|Softgarden|Teamtailor|Careers|Jobs)$",
+    r"JazzHR|Freshteam|Softgarden|Teamtailor|Jobsoid|Careers|Jobs)$",
     re.I,
 )
 
@@ -139,7 +139,18 @@ ALIASES = {
     "AQR Capital": "AQR",
     "Box Inc": "Box",
     "Epic": "Epic Games",
-    "Riot": "Riot Games",
+    "Visma Romania": "Visma",
+    "Visma CC": "Visma",
+    "Kaseya Romania": "Kaseya",
+    "Stefanini Romania": "Stefanini",
+    "ADP Romania": "ADP",
+    "Amdocs Romania": "Amdocs",
+    "Da Vinci": "Da Vinci Derivatives",
+    "Da Vinci Trading": "Da Vinci Derivatives",
+    "GSA": "GSA Capital",
+    "Computacenter Romania": "Computacenter",
+    "Systematic Romania": "Systematic",
+    "Elektrobit Auto": "Elektrobit",
 }
 
 OFFICIAL_CAREERS: dict[str, list[str]] = {
@@ -468,7 +479,11 @@ OFFICIAL_CAREERS: dict[str, list[str]] = {
     "MAHLE": ["https://www.mahle.com/en/careers/", "https://apply.workable.com/mahle/"],
     "Marelli": ["https://www.marelli.com/careers/", "https://apply.workable.com/marelli/"],
     "AVL": ["https://www.avl.com/en/career", "https://apply.workable.com/avl/"],
-    "Vector Informatik": ["https://www.vector.com/int/en/careers/", "https://apply.workable.com/vector/"],
+    "Vector Informatik": [
+        "https://www.vector.com/int/en/careers/",
+        "https://join.vector.com",
+        "https://apply.workable.com/vector/",
+    ],
     "Roland Berger": ["https://www.rolandberger.com/en/Join/"],
     "Oliver Wyman": ["https://www.oliverwyman.com/careers.html"],
     "BCG": ["https://careers.bcg.com/"],
@@ -570,6 +585,17 @@ OFFICIAL_CAREERS: dict[str, list[str]] = {
     "Check24": ["https://jobs.check24.de/"],
     "Adjust": ["https://www.adjust.com/company/careers/"],
     "Flink": ["https://careers.flink.com/"],
+    "Visma": ["https://www.visma.com/careers"],
+    "Bunnyshell": ["https://www.bunnyshell.com/"],
+    "Kaseya": ["https://www.kaseya.com/careers/jobs/"],
+    "Elektrobit": ["https://www.elektrobit.com/careers/", "https://jobs.elektrobit.com/jobs"],
+    "Systematic": ["https://systematic.com/int/careers"],
+    "Stefanini": ["https://jobs2.smartsearchonline.com/stefanini/jobs"],
+    "Computacenter": ["https://jobs.computacenter.com/"],
+    "ADP": ["https://jobs.adp.com/en/"],
+    "Amdocs": ["https://www.amdocs.com/careers", "https://jobs.amdocs.com/careers"],
+    "Da Vinci Derivatives": ["https://davincitrading.com/careers/"],
+    "GSA Capital": ["https://www.gsacapital.com/join-us"],
 }
 
 
@@ -617,6 +643,7 @@ def board_public_url(ats: str, token: str = "", host: str = "", site: str = "") 
         "rippling": f"https://ats.rippling.com/{token}/jobs",
         "jazzhr": f"https://{token}.applytojob.com/",
         "freshteam": f"https://{token}.freshteam.com/jobs",
+        "jobsoid": f"https://{token}.jobsoid.com/",
         "softgarden": host or (f"https://{token}.jobs.softgarden.io/" if token else ""),
         "workday": f"https://{host}/{site}" if host and site else (f"https://{host}" if host else ""),
     }

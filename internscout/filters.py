@@ -39,6 +39,12 @@ SPRING_WEEK_RE = re.compile(
         | first[\s-]?year[\s-]?(?:program|programme|insight|week)
         | discovery[\s-]?day
         | invitational
+        | future[\s-]?focus
+        | fttp
+        | discover[\s-]?(?:citadel|drw)
+        | maven[\s-]?minds
+        | first[\s-]?year[\s-]?trading
+        | women[\s-]?in[\s-]?(?:trading|quant)
     )\b
     """,
     _IX,
@@ -73,6 +79,7 @@ JUNK_COMPANY_RE = re.compile(
     | ^bestjobs$
     | ^undelucram$
     | ^no[\s-]?fluff[\s-]?jobs$
+    | ^juniors$
     """,
     _IX,
 )

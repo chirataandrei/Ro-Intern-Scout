@@ -5,7 +5,7 @@ Daily email digest of:
 - **SWE / data / quant internships** located in **Romania** (company name, title, city, apply URL)
 - **Spring weeks** / insight programmes **outside the US and Canada** (UK / EU). Regular internships abroad are ignored.
 
-Sources: Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, Personio, Breezy, Pinpoint, BambooHR, Eightfold, Comeet, iCIMS, SuccessFactors, Join, Rippling, JazzHR, Freshteam, Softgarden, plus generic career-page JSON-LD. Aggregators: **Hipo, eJobs, BestJobs, Stagii pe Bune, Undelucram, NoFluffJobs**, and the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list.
+Sources: Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, Personio, Breezy, Pinpoint, BambooHR, Eightfold, Comeet, iCIMS, SuccessFactors, Join, Rippling, JazzHR, Freshteam, Softgarden, Jobsoid, plus generic career-page JSON-LD. Aggregators: **Hipo, eJobs, BestJobs, Stagii pe Bune, Undelucram, Juniors.ro, NoFluffJobs**, and the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list.
 
 ## What you get
 
@@ -83,7 +83,7 @@ Edit [`data/companies.json`](data/companies.json):
 
 `sites` is one or more boards where that firm posts jobs (Workday, Greenhouse, Lever, official careers page, …). The scanner fetches each ATS board. `urls` is the public list of those announcement sites.
 
-`ats` can be: `greenhouse`, `lever`, `ashby`, `smartrecruiters`, `workable`, `recruitee`, `teamtailor`, `workday`, `personio`, `breezy`, `pinpoint`, `bamboohr`, `eightfold`, `comeet`, `icims`, `successfactors`, `join`, `rippling`, `jazzhr`, `freshteam`, `softgarden`, `careers`, `google`, `amazon`, `microsoft`, `meta`, `apple`.
+`ats` can be: `greenhouse`, `lever`, `ashby`, `smartrecruiters`, `workable`, `recruitee`, `teamtailor`, `workday`, `personio`, `breezy`, `pinpoint`, `bamboohr`, `eightfold`, `comeet`, `icims`, `successfactors`, `join`, `rippling`, `jazzhr`, `freshteam`, `softgarden`, `jobsoid`, `careers`, `google`, `amazon`, `microsoft`, `meta`, `apple`.
 
 Workday also needs `host` and `site`. The Greenhouse token is the slug in `job-boards.greenhouse.io/{token}`.
 

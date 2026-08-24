@@ -1,7 +1,7 @@
 from internscout.http import HttpClient
 from internscout.models import Company, Job
 from internscout.sources import amazon, apple, ashby, bamboohr, breezy, careers, comeet
-from internscout.sources import eightfold, freshteam, google, greenhouse, icims, jazzhr, join
+from internscout.sources import eightfold, freshteam, google, greenhouse, icims, jazzhr, jobsoid, join
 from internscout.sources import lever, meta, microsoft, personio, pinpoint, recruitee, rippling
 from internscout.sources import smartrecruiters, softgarden, successfactors, teamtailor, workday
 from internscout.sources import workable
@@ -23,6 +23,7 @@ FETCHERS = {
     "comeet": comeet.fetch_jobs,
     "icims": icims.fetch_jobs,
     "successfactors": successfactors.fetch_jobs,
+    "jobsoid": jobsoid.fetch_jobs,
     "join": join.fetch_jobs,
     "rippling": rippling.fetch_jobs,
     "jazzhr": jazzhr.fetch_jobs,

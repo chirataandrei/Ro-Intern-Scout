@@ -96,6 +96,21 @@ class FilterTests(unittest.TestCase):
             )
         )
         self.assertTrue(is_spring_week("Software Engineer - Spring Insight Week"))
+        self.assertTrue(is_spring_week("FutureFocus: Quants"))
+        self.assertTrue(is_spring_week("First-Year Trading and Technology Program"))
+        self.assertTrue(is_spring_week("Discover Citadel — London"))
+        self.assertTrue(is_spring_week("Discover DRW"))
+        self.assertTrue(is_spring_week("Maven Minds"))
+        self.assertTrue(is_spring_week("Women in Trading Insight Programme"))
+        self.assertTrue(is_spring_week("Women in Quant Investing - Spring Insights Day"))
+        self.assertTrue(is_spring_week("FTTP"))
+        self.assertTrue(
+            keep_job(
+                title="FutureFocus: Quants",
+                location="Amsterdam",
+                category="quant",
+            )
+        )
         self.assertTrue(is_student_entry("Jane Street Spring Week 2027"))
         self.assertFalse(
             keep_job(
@@ -320,12 +335,13 @@ class CatalogSiteTests(unittest.TestCase):
         from internscout.career_sites import board_public_url
         from internscout.sources.registry import FETCHERS
 
-        for ats in ("join", "rippling", "jazzhr", "freshteam", "softgarden"):
+        for ats in ("join", "rippling", "jazzhr", "freshteam", "softgarden", "jobsoid"):
             self.assertIn(ats, FETCHERS)
         self.assertEqual(board_public_url("join", "n26"), "https://join.com/companies/n26")
         self.assertEqual(board_public_url("rippling", "rippling"), "https://ats.rippling.com/rippling/jobs")
         self.assertEqual(board_public_url("jazzhr", "acme"), "https://acme.applytojob.com/")
         self.assertEqual(board_public_url("freshteam", "acme"), "https://acme.freshteam.com/jobs")
+        self.assertEqual(board_public_url("jobsoid", "bunnyshell"), "https://bunnyshell.jobsoid.com/")
 
     def test_nxp_and_bosch_have_multiple_sites(self) -> None:
         from internscout.models import COMPANIES_PATH, Company
@@ -417,6 +433,106 @@ class JoinAndNoFluffTests(unittest.TestCase):
         self.assertIn("Bucharest", jobs[0].location)
         self.assertIn("Romania", jobs[0].location)
         self.assertIn("/job/java-intern-accesa-bucharest", jobs[0].url)
+
+
+class ReportCatalogTests(unittest.TestCase):
+    def test_new_firms_and_official_sites(self) -> None:
+        from internscout.career_sites import official_urls
+        from internscout.models import COMPANIES_PATH
+
+        names = {row["name"] for row in json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))}
+        for name in (
+            "Visma",
+            "Kaseya",
+            "Bunnyshell",
+            "Elektrobit",
+            "Systematic",
+            "Stefanini",
+            "Computacenter",
+            "ADP",
+            "Amdocs",
+            "Da Vinci Derivatives",
+            "GSA Capital",
+            "Vector Informatik",
+        ):
+            self.assertIn(name, names)
+        self.assertTrue(any("join.vector.com" in url for url in official_urls("Vector Informatik")))
+        self.assertEqual(official_urls("Visma"), ["https://www.visma.com/careers"])
+        self.assertTrue(any("gsacapital.com" in url for url in official_urls("GSA Capital")))
+
+        catalog = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
+        bunnyshell = next(row for row in catalog if row["name"] == "Bunnyshell")
+        self.assertEqual(bunnyshell["ats"], "jobsoid")
+        visma = next(row for row in catalog if row["name"] == "Visma")
+        self.assertEqual(visma["ats"], "teamtailor")
+        self.assertEqual(visma["token"], "vismacc")
+
+    def test_juniors_card_uses_employer_not_board_name(self) -> None:
+        from internscout.sources.juniors import parse_listings
+
+        html = """
+        <div class="job_header">
+            <div class="job_header_logo">
+                <img src="https://cdn.juniors.ro/uploads/company-logos/betfair.jpg"/>
+            </div>
+            <div class="job_header_title">
+                <h3>Internship Data Engineer - (3 months)</h3>
+                <strong>Cluj-Napoca | 2 săptămâni în urmă</strong>
+            </div>
+            <a id="job_link_14054" href="/jobs/14054">Open</a>
+        </div>
+        """
+        rows = parse_listings(html)
+        self.assertEqual(len(rows), 1)
+        job_id, title, company, location = rows[0]
+        self.assertEqual(job_id, "14054")
+        self.assertIn("Internship Data Engineer", title)
+        self.assertEqual(company, "Betfair")
+        self.assertEqual(location, "Cluj-Napoca")
+
+    def test_teamtailor_json_feed_reads_jobposting_location(self) -> None:
+        from internscout.models import Company
+        from internscout.sources.teamtailor import fetch_jobs
+
+        feed = {
+            "version": "https://jsonfeed.org/version/1.1",
+            "items": [
+                {
+                    "id": "338f6310",
+                    "title": "QA Intern @Visma",
+                    "url": "https://vismacc.teamtailor.com/jobs/8161880-qa-intern",
+                    "date_published": "2026-08-01T00:00:00Z",
+                    "_jobposting": {
+                        "@type": "JobPosting",
+                        "title": "QA Intern @Visma",
+                        "url": "https://vismacc.teamtailor.com/jobs/8161880-qa-intern",
+                        "jobLocation": [
+                            {
+                                "@type": "Place",
+                                "address": {
+                                    "addressLocality": "Iași",
+                                    "addressCountry": "RO",
+                                    "addressRegion": "Romania",
+                                },
+                            }
+                        ],
+                    },
+                }
+            ],
+        }
+
+        class FakeHttp:
+            def get_json(self, url: str):
+                return 200, feed
+
+            def get(self, url: str, **kwargs):
+                return 404, ""
+
+        jobs = fetch_jobs(Company(name="Visma", category="product", ats="teamtailor", token="vismacc"), FakeHttp())
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].title, "QA Intern @Visma")
+        self.assertIn("Iași", jobs[0].location)
+        self.assertIn("Romania", jobs[0].location)
 
 
 if __name__ == "__main__":

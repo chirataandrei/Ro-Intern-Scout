@@ -311,6 +311,24 @@
     "site": "external_experienced"
   },
   {
+    "name": "ADP",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "ADP",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "ADP",
+        "host": "https://jobs.adp.com/en/",
+        "site": "",
+        "url": "https://jobs.adp.com/en/"
+      }
+    ],
+    "urls": [
+      "https://jobs.adp.com/en/"
+    ]
+  },
+  {
     "name": "Adyen",
     "category": "finance",
     "ats": "greenhouse",
@@ -636,6 +654,32 @@
       "https://apply.workable.com/amberstudio/",
       "https://amberstudio.recruitee.com/",
       "https://amberstudio.com/careers/"
+    ]
+  },
+  {
+    "name": "Amdocs",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "Amdocs",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "Amdocs",
+        "host": "https://jobs.amdocs.com/careers",
+        "site": "",
+        "url": "https://jobs.amdocs.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Amdocs",
+        "host": "https://www.amdocs.com/careers",
+        "site": "",
+        "url": "https://www.amdocs.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.amdocs.com/careers",
+      "https://www.amdocs.com/careers"
     ]
   },
   {
@@ -2008,6 +2052,32 @@
     ]
   },
   {
+    "name": "Bunnyshell",
+    "category": "product",
+    "ats": "jobsoid",
+    "token": "bunnyshell",
+    "sites": [
+      {
+        "ats": "jobsoid",
+        "token": "bunnyshell",
+        "host": "",
+        "site": "",
+        "url": "https://bunnyshell.jobsoid.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Bunnyshell",
+        "host": "https://www.bunnyshell.com/",
+        "site": "",
+        "url": "https://www.bunnyshell.com/"
+      }
+    ],
+    "urls": [
+      "https://bunnyshell.jobsoid.com/",
+      "https://www.bunnyshell.com/"
+    ]
+  },
+  {
     "name": "Canonical",
     "category": "product",
     "ats": "greenhouse",
@@ -2660,6 +2730,24 @@
     ]
   },
   {
+    "name": "Computacenter",
+    "category": "ssc",
+    "ats": "successfactors",
+    "token": "computacenter",
+    "sites": [
+      {
+        "ats": "successfactors",
+        "token": "computacenter",
+        "host": "https://jobs.computacenter.com/",
+        "site": "",
+        "url": "https://jobs.computacenter.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.computacenter.com/"
+    ]
+  },
+  {
     "name": "Confluent",
     "category": "product",
     "ats": "ashby",
@@ -2883,6 +2971,32 @@
     "urls": [
       "https://job-boards.greenhouse.io/deshaw",
       "https://www.deshaw.com/careers"
+    ]
+  },
+  {
+    "name": "Da Vinci Derivatives",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "davinciderivatives",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "davinciderivatives",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives"
+      },
+      {
+        "ats": "careers",
+        "token": "Da Vinci Derivatives",
+        "host": "https://davincitrading.com/careers/",
+        "site": "",
+        "url": "https://davincitrading.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.eu.greenhouse.io/davinciderivatives",
+      "https://davincitrading.com/careers/"
     ]
   },
   {
@@ -3472,6 +3586,32 @@
     ],
     "host": "ea.wd5.myworkdayjobs.com",
     "site": "EA_Careers"
+  },
+  {
+    "name": "Elektrobit",
+    "category": "rd",
+    "ats": "successfactors",
+    "token": "elektrobit",
+    "sites": [
+      {
+        "ats": "successfactors",
+        "token": "elektrobit",
+        "host": "https://jobs.elektrobit.com/jobs",
+        "site": "",
+        "url": "https://jobs.elektrobit.com/jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Elektrobit",
+        "host": "https://www.elektrobit.com/careers/",
+        "site": "",
+        "url": "https://www.elektrobit.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.elektrobit.com/jobs",
+      "https://www.elektrobit.com/careers/"
+    ]
   },
   {
     "name": "eMAG",
@@ -4951,6 +5091,32 @@
     ]
   },
   {
+    "name": "GSA Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "gsacapital",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "gsacapital",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/gsacapital"
+      },
+      {
+        "ats": "careers",
+        "token": "GSA Capital",
+        "host": "https://www.gsacapital.com/join-us",
+        "site": "",
+        "url": "https://www.gsacapital.com/join-us"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/gsacapital",
+      "https://www.gsacapital.com/join-us"
+    ]
+  },
+  {
     "name": "HARMAN",
     "category": "rd",
     "ats": "workable",
@@ -5903,6 +6069,32 @@
     "urls": [
       "https://apply.workable.com/kaizengaming/",
       "https://kaizengaming.com/careers/"
+    ]
+  },
+  {
+    "name": "Kaseya",
+    "category": "product",
+    "ats": "greenhouse",
+    "token": "kaseya",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "kaseya",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/kaseya"
+      },
+      {
+        "ats": "careers",
+        "token": "Kaseya",
+        "host": "https://www.kaseya.com/careers/jobs/",
+        "site": "",
+        "url": "https://www.kaseya.com/careers/jobs/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/kaseya",
+      "https://www.kaseya.com/careers/jobs/"
     ]
   },
   {
@@ -10424,6 +10616,24 @@
     "host": "https://careers.statestreet.com/"
   },
   {
+    "name": "Stefanini",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "Stefanini",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "Stefanini",
+        "host": "https://jobs2.smartsearchonline.com/stefanini/jobs",
+        "site": "",
+        "url": "https://jobs2.smartsearchonline.com/stefanini/jobs"
+      }
+    ],
+    "urls": [
+      "https://jobs2.smartsearchonline.com/stefanini/jobs"
+    ]
+  },
+  {
     "name": "Stellantis",
     "category": "rd",
     "ats": "smartrecruiters",
@@ -10728,6 +10938,24 @@
       "https://syneto.eu/careers/"
     ],
     "host": "https://syneto.eu/careers/"
+  },
+  {
+    "name": "Systematic",
+    "category": "rd",
+    "ats": "careers",
+    "token": "Systematic",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "Systematic",
+        "host": "https://systematic.com/int/careers",
+        "site": "",
+        "url": "https://systematic.com/int/careers"
+      }
+    ],
+    "urls": [
+      "https://systematic.com/int/careers"
+    ]
   },
   {
     "name": "Tapptitude",
@@ -11530,11 +11758,19 @@
         "host": "https://www.vector.com/int/en/careers/",
         "site": "",
         "url": "https://www.vector.com/int/en/careers/"
+      },
+      {
+        "ats": "successfactors",
+        "token": "vector",
+        "host": "https://join.vector.com",
+        "site": "",
+        "url": "https://join.vector.com"
       }
     ],
     "urls": [
       "https://apply.workable.com/vector/",
-      "https://www.vector.com/int/en/careers/"
+      "https://www.vector.com/int/en/careers/",
+      "https://join.vector.com"
     ]
   },
   {
@@ -11684,6 +11920,32 @@
     "urls": [
       "https://careers.smartrecruiters.com/Visa",
       "https://usa.visa.com/careers.html"
+    ]
+  },
+  {
+    "name": "Visma",
+    "category": "product",
+    "ats": "teamtailor",
+    "token": "vismacc",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "vismacc",
+        "host": "",
+        "site": "",
+        "url": "https://vismacc.teamtailor.com/jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Visma",
+        "host": "https://www.visma.com/careers",
+        "site": "",
+        "url": "https://www.visma.com/careers"
+      }
+    ],
+    "urls": [
+      "https://vismacc.teamtailor.com/jobs",
+      "https://www.visma.com/careers"
     ]
   },
   {
