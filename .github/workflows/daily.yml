@@ -39,5 +39,6 @@ jobs:
             echo "No seen.json changes"
           else
             git commit -m "chore: update seen internship ids"
+            git pull --rebase origin main
             git push
           fi
