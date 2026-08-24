@@ -2,14 +2,16 @@
 
 Daily email digest of:
 
-- **SWE / data / quant internships** located in **Romania**
-- **Spring weeks**, insight programmes, and other student-entry roles at **quant** firms (London / Amsterdam / US — that is where those programmes run)
+- **SWE / data / quant internships** located in **Romania** (company name, title, city, apply URL)
+- **Spring weeks** / insight programmes **outside the US and Canada** (UK / EU). Regular internships abroad are ignored.
 
 Sources: Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, plus **Hipo, eJobs, BestJobs**, and the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list. The catalog has 300+ companies (FAANG, quant, Romanian product, R&D, telecom, SSC).
 
 ## What you get
 
-Every day around 08:00 (Romania time, summer) an email with **new** postings since yesterday. If nothing is new: “0 new, X still open”.
+Every day around 08:00 (Romania time, summer) an email with **all currently open** matching roles, Romania first. New postings since yesterday are marked **NEW**.
+
+Aggregator listings (eJobs / Hipo / BestJobs) show the **employer name**, not the board name.
 
 ## Run locally
 
@@ -44,7 +46,7 @@ python3 -m internscout scan --email
    - optional: `SMTP_HOST` (default `smtp.gmail.com`), `SMTP_PORT` (`587`), `EMAIL_FROM`
 3. Actions → **Daily internship digest** → Run workflow, to receive the first digest
 
-`data/seen.json` is updated by the Action after each successful run, so you do not get the same jobs every day.
+`data/seen.json` is updated by the Action after each successful run, so already-seen roles are not marked NEW again.
 
 ## Add a company
 
@@ -85,6 +87,7 @@ python3 -m unittest tests.test_filters -v
 ## Limits
 
 - No paid LinkedIn / SerpAPI — public sources only
-- FAANG / product internships stay filtered to Romania; **quant student programmes** (intern, spring week, insight) are global
+- Internships stay filtered to Romania; **spring weeks** are UK/EU only (US and Canada are dropped)
 - Some career pages (Workday, Microsoft) may return 403/422; Hipo / eJobs / BestJobs / Simplify fill some of the gaps
 - Hipo has scheduled maintenance 31 Aug – 4 Sep 2026
+- Spring-week seasons are typically January–March; in late summer that section is often empty

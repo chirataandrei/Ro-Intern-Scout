@@ -7,7 +7,7 @@ import ssl
 from email.message import EmailMessage
 from pathlib import Path
 
-from internscout.emailer import build_email
+from internscout.emailer import build_email, is_romania_job
 from internscout.filters import keep_job
 from internscout.http import HttpClient
 from internscout.models import COMPANIES_PATH, Company, Job, SEEN_PATH
@@ -61,6 +61,7 @@ def scan(http: HttpClient | None = None) -> list[Job]:
                 location=job.location,
                 extra=f"{job.url} {job.company}",
                 category=job.category,
+                company=job.company,
                 from_aggregator=False,
             ):
                 collected.append(job)
@@ -68,9 +69,9 @@ def scan(http: HttpClient | None = None) -> list[Job]:
         print(f"· {company.name:28} {company.ats:16} raw={len(raw_jobs):4} kept={kept:3}")
 
     aggregators = [
-        ("Hipo", "hipo", hipo.fetch_jobs, True),
-        ("eJobs", "ejobs", ejobs.fetch_jobs, True),
-        ("BestJobs", "bestjobs", bestjobs.fetch_jobs, True),
+        ("Hipo", "hipo", hipo.fetch_jobs, False),
+        ("eJobs", "ejobs", ejobs.fetch_jobs, False),
+        ("BestJobs", "bestjobs", bestjobs.fetch_jobs, False),
         ("Simplify", "simplify", simplify.fetch_jobs, False),
     ]
     for label, source, fetch, already_ro in aggregators:
@@ -86,6 +87,7 @@ def scan(http: HttpClient | None = None) -> list[Job]:
                 location=job.location,
                 extra=job.company,
                 category=job.category,
+                company=job.company,
                 from_aggregator=source != "simplify",
                 already_romania=already_ro,
             ):
@@ -93,17 +95,19 @@ def scan(http: HttpClient | None = None) -> list[Job]:
                 kept += 1
         print(f"· {label:28} {source:16} raw={len(raw_jobs):4} kept={kept:3}")
 
-    collected.sort(key=lambda j: (j.category, j.company.lower(), j.title.lower()))
+    collected.sort(
+        key=lambda j: (0 if is_romania_job(j) else 1, j.company.lower(), j.title.lower())
+    )
     return _dedupe(collected)
 
 
 def send_email(subject: str, plain: str, html_body: str) -> None:
     host = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
     port = int(os.environ.get("SMTP_PORT") or "587")
-    user = os.environ.get("SMTP_USER") or ""
-    password = os.environ.get("SMTP_PASS") or ""
-    to_addr = os.environ.get("EMAIL_TO") or ""
-    from_addr = os.environ.get("EMAIL_FROM") or user
+    user = (os.environ.get("SMTP_USER") or "").strip()
+    password = (os.environ.get("SMTP_PASS") or "").replace(" ", "").strip()
+    to_addr = (os.environ.get("EMAIL_TO") or "").strip()
+    from_addr = (os.environ.get("EMAIL_FROM") or user).strip() or user
     if not (user and password and to_addr):
         raise SystemExit("Set SMTP_USER, SMTP_PASS, and EMAIL_TO (see .env.example).")
 
@@ -126,10 +130,11 @@ def run(*, send: bool, persist: bool) -> int:
     jobs = scan()
     seen = load_seen()
     new_jobs, open_jobs = split_new(jobs, seen)
-    print(f"\nOpen: {len(open_jobs)}   New: {len(new_jobs)}")
-    show = new_jobs or open_jobs
-    for job in show[:80]:
-        flag = "NEW" if job in new_jobs else "   "
+    romania_n = sum(1 for job in open_jobs if is_romania_job(job))
+    print(f"\nOpen: {len(open_jobs)}   New: {len(new_jobs)}   Romania: {romania_n}   Spring weeks: {len(open_jobs) - romania_n}")
+    new_ids = {job.uid for job in new_jobs}
+    for job in open_jobs[:100]:
+        flag = "NEW" if job.uid in new_ids else "   "
         print(f"  [{flag}] {job.company} — {job.title} ({job.location})")
         print(f"         {job.url}")
 

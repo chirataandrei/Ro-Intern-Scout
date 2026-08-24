@@ -7,7 +7,7 @@ from internscout.scan import run
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        description="Scan SWE/data/quant internships in Romania and quant student programmes."
+        description="Scan SWE/data/quant internships in Romania and spring weeks outside the US/Canada."
     )
     parser.add_argument(
         "command",

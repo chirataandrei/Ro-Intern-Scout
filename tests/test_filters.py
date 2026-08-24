@@ -1,7 +1,9 @@
+import json
 import unittest
 
 from internscout.emailer import build_email
 from internscout.filters import (
+    is_america,
     is_internship,
     is_romania,
     is_spring_week,
@@ -10,6 +12,7 @@ from internscout.filters import (
     keep_job,
 )
 from internscout.models import Job
+from internscout.sources.ejobs import jobs_from_nuxt
 
 
 class FilterTests(unittest.TestCase):
@@ -27,15 +30,26 @@ class FilterTests(unittest.TestCase):
         self.assertTrue(is_romania("București"))
         self.assertTrue(is_romania("Cluj-Napoca, RO"))
         self.assertTrue(is_romania("Iasi, Romania"))
+        self.assertTrue(is_romania("Odorheiu Secuiesc, Romania"))
         self.assertTrue(is_romania("ROM"))
         self.assertFalse(is_romania("London, United Kingdom"))
         self.assertFalse(is_romania("New York, NY"))
+
+    def test_america_locations(self) -> None:
+        self.assertTrue(is_america("Chicago, IL"))
+        self.assertTrue(is_america("New York, NY"))
+        self.assertTrue(is_america("Remote in USA"))
+        self.assertTrue(is_america("Toronto, Canada"))
+        self.assertFalse(is_america("London, United Kingdom"))
+        self.assertFalse(is_america("Amsterdam"))
+        self.assertFalse(is_america("Bucharest, Romania"))
 
     def test_tech_and_keep(self) -> None:
         self.assertTrue(is_tech_role("IT Internship"))
         self.assertTrue(is_tech_role("Data Science Intern"))
         self.assertFalse(is_tech_role("Sales Internship Employer Branding"))
         self.assertTrue(keep_job(title="Software Engineering Intern", location="Bucharest, Romania"))
+        self.assertTrue(keep_job(title="DevOps Intern", location="Bucharest", company="NXP"))
         self.assertFalse(keep_job(title="Software Engineering Intern", location="London, UK"))
         self.assertTrue(
             keep_job(
@@ -73,19 +87,49 @@ class FilterTests(unittest.TestCase):
                 location="Iași, Romania",
             )
         )
+        self.assertFalse(
+            keep_job(
+                title="Programe de internship, trainee sau joburi entry-level in IT",
+                location="Romania",
+                company="JumpStart - A GenZ Career Hub",
+                from_aggregator=True,
+            )
+        )
         self.assertTrue(is_spring_week("Software Engineer - Spring Insight Week"))
         self.assertTrue(is_student_entry("Jane Street Spring Week 2027"))
-        self.assertTrue(
+        self.assertFalse(
             keep_job(
                 title="Software Engineer Intern",
                 location="London, UK",
                 category="quant",
             )
         )
+        self.assertFalse(
+            keep_job(
+                title="Software Engineer Intern - C++",
+                location="Chicago, IL",
+                category="quant",
+                company="Akuna Capital",
+            )
+        )
         self.assertTrue(
             keep_job(
                 title="Spring Insight Programme",
                 location="Amsterdam",
+                category="quant",
+            )
+        )
+        self.assertTrue(
+            keep_job(
+                title="Jane Street Spring Week 2027",
+                location="London, UK",
+                category="quant",
+            )
+        )
+        self.assertFalse(
+            keep_job(
+                title="Spring Insight Programme",
+                location="New York, NY",
                 category="quant",
             )
         )
@@ -103,21 +147,87 @@ class FilterTests(unittest.TestCase):
                 category="quant",
             )
         )
-
-    def test_email_mentions_new_count(self) -> None:
-        job = Job(
-            uid="t:1",
-            company="Google",
-            category="faang",
-            title="Software Engineering Intern",
-            location="Bucharest",
-            url="https://example.com",
-            source="google",
+        self.assertTrue(
+            keep_job(
+                title="Software Development Internships in Transylvania",
+                location="Cluj-Napoca, Romania",
+                company="SOFTECH SRL",
+                from_aggregator=True,
+            )
         )
-        subject, plain, html_body = build_email([job], [job])
+        self.assertFalse(
+            keep_job(
+                title="Odorhei Software Development Summer Internship Has Started!",
+                location="Romania",
+                company="eJobs",
+                from_aggregator=True,
+            )
+        )
+
+    def test_email_lists_company_and_romania_first(self) -> None:
+        nxp = Job(
+            uid="nxp:1",
+            company="NXP",
+            category="rd",
+            title="DevOps Intern",
+            location="Bucharest, Romania",
+            url="https://example.com/nxp",
+            source="workday",
+        )
+        softech = Job(
+            uid="ejobs:1",
+            company="SOFTECH SRL",
+            category="aggregator",
+            title="Software Development Internships in Transylvania",
+            location="Cluj-Napoca, Romania",
+            url="https://www.ejobs.ro/softech",
+            source="ejobs",
+        )
+        spring = Job(
+            uid="js:1",
+            company="Jane Street",
+            category="quant",
+            title="Spring Week 2027",
+            location="London, UK",
+            url="https://example.com/js",
+            source="greenhouse",
+        )
+        subject, plain, html_body = build_email([nxp], [nxp, softech, spring])
         self.assertIn("1 new", subject)
-        self.assertIn("Google", plain)
-        self.assertIn("Software Engineering Intern", html_body)
+        self.assertIn("Company:  NXP", plain)
+        self.assertIn("Company:  SOFTECH SRL", plain)
+        self.assertNotIn("Hipo / eJobs / BestJobs", plain)
+        self.assertNotIn("Hipo / eJobs / BestJobs", html_body)
+        self.assertLess(plain.find("SOFTECH SRL"), plain.find("Jane Street"))
+        self.assertLess(html_body.find("NXP"), html_body.find("Jane Street"))
+        self.assertIn("https://example.com/nxp", html_body)
+
+    def test_ejobs_nuxt_exposes_company_name(self) -> None:
+        payload = [
+            None,
+            {"id": 2, "title": 3, "company": 4, "locations": 7, "slug": 8},
+            1977209,
+            "Odorhei Software Development Summer Internship Has Started!",
+            {"id": 5, "name": 6, "slug": 9},
+            357204,
+            "SOFTECH SRL",
+            [{"cityId": 10}],
+            "odorhei-software-development-summer-internship-has-started",
+            "softech-srl",
+            279,
+            {"name": 12, "id": 13, "faecetType": 14},
+            "Odorheiu Secuiesc",
+            279,
+            "cities",
+        ]
+        html = '<script id="__NUXT_DATA__">' + json.dumps(payload) + "</script>"
+        jobs = jobs_from_nuxt(html)
+        self.assertEqual(len(jobs), 1)
+        job_id, title, company, location, url = jobs[0]
+        self.assertEqual(job_id, "1977209")
+        self.assertEqual(company, "SOFTECH SRL")
+        self.assertIn("Odorheiu Secuiesc", location)
+        self.assertIn("1977209", url)
 
 
 if __name__ == "__main__":

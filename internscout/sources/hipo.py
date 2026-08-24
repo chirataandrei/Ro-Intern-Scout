@@ -72,7 +72,7 @@ def fetch_jobs(http: HttpClient) -> list[Job]:
                 jobs.append(
                     Job(
                         uid=uid("hipo", "hipo", job_id),
-                        company=firm or "Hipo",
+                        company=firm or "Unknown company",
                         category="aggregator",
                         title=title,
                         location=location or "Romania",

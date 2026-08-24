@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from internscout.filters import is_romania, is_spring_week, is_student_entry
+from internscout.filters import is_america, is_romania, is_spring_week, is_student_entry
 from internscout.http import HttpClient
 from internscout.models import Job
 from internscout.sources import uid
@@ -59,9 +59,14 @@ def fetch_jobs(http: HttpClient) -> list[Job]:
             category = str(raw.get("category") or "")
             quant = "quant" in category.lower()
             extra = f"{company} {location} {raw.get('url') or ''}"
-            if quant and not _is_quant_student(title):
+            if is_america(location):
                 continue
-            if not quant and not is_student_entry(title, extra):
+            if is_romania(location):
+                if not is_student_entry(title, extra):
+                    continue
+            elif not is_spring_week(title, extra):
+                continue
+            if quant and not _is_quant_student(title) and not is_spring_week(title):
                 continue
             if not quant and not is_romania(location):
                 continue
