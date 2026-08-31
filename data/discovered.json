@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:32:40.882552+00:00",
+  "updated_at": "2026-08-31T18:05:40.202744+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -800,6 +800,94 @@
       "name": "xenon7",
       "category": "discovered",
       "found_at": "2026-08-31T11:29:48.860579+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "userwise-services",
+      "url": "https://apply.workable.com/userwise-services/",
+      "name": "userwise-services",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202633+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "sofmedica",
+      "url": "https://apply.workable.com/sofmedica/",
+      "name": "sofmedica",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202646+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "winnow",
+      "url": "https://apply.workable.com/winnow/",
+      "name": "winnow",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202669+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "webull",
+      "url": "https://ats.rippling.com/webull/jobs",
+      "name": "webull",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202684+00:00"
+    },
+    {
+      "ats": "teamtailor",
+      "token": "mooveafrica",
+      "url": "https://mooveafrica.teamtailor.com/jobs",
+      "name": "mooveafrica",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202690+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "entrupy",
+      "url": "https://job-boards.greenhouse.io/entrupy",
+      "name": "entrupy",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202695+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "field-ai",
+      "url": "https://jobs.lever.co/field-ai",
+      "name": "field-ai",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202699+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "uni-systems",
+      "url": "https://apply.workable.com/uni-systems/",
+      "name": "uni-systems",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202702+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "green-genius",
+      "url": "https://apply.workable.com/green-genius/",
+      "name": "green-genius",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202706+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "qvest.us",
+      "url": "https://jobs.lever.co/qvest.us",
+      "name": "qvest.us",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202712+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "binance",
+      "url": "https://jobs.lever.co/binance",
+      "name": "binance",
+      "category": "discovered",
+      "found_at": "2026-08-31T18:05:40.202715+00:00"
     }
   ]
 }
