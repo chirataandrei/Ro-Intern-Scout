@@ -6,7 +6,7 @@ Daily email digest of:
 - **Remote internships (EU / EMEA)** — fully remote or remote-Europe, never US/Canada
 - **Spring weeks** / insight programmes **outside the US and Canada** (UK / EU)
 
-Sources: 28 ATS fetchers (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, Personio, Breezy, Pinpoint, BambooHR, Eightfold, Comeet, iCIMS, SuccessFactors, Join, Rippling, JazzHR, Freshteam, Softgarden, Jobsoid, plus career-page JSON-LD). Aggregators: **Hipo, eJobs, BestJobs, Stagii pe Bune, Undelucram, Juniors.ro, NoFluffJobs**, the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list, and free EU boards (**Arbeitnow, RemoteOK, Himalayas, Jobicy, We Work Remotely, Landing.jobs**). Blind spots (Wellfound, unknown ATS boards) come from an **Apify** cache, never from a live Apify call during the daily scan.
+Sources: 28 ATS fetchers (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, Teamtailor, Workday, Personio, Breezy, Pinpoint, BambooHR, Eightfold, Comeet, iCIMS, SuccessFactors, Join, Rippling, JazzHR, Freshteam, Softgarden, Jobsoid, plus career-page JSON-LD). Aggregators: **Hipo, eJobs, BestJobs, Stagii pe Bune, DevJob.ro, Undelucram, Juniors.ro, NoFluffJobs**, the [Simplify / Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships) intern list, and free EU boards (**Arbeitnow, RemoteOK, Himalayas, Jobicy, We Work Remotely, Landing.jobs**). Blind spots (Wellfound, unknown ATS boards) come from an **Apify** cache, never from a live Apify call during the daily scan.
 
 The catalog is sharded under `internscout/catalog/data/companies/*.json` (666 firms after live ATS probing; candidates without a fetchable board stay in `tools/candidates.json` for rediscovery).
 
