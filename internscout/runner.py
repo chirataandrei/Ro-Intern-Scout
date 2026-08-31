@@ -18,16 +18,17 @@ def run(*, send: bool, persist: bool) -> int:
         f"\nOpen: {len(open_jobs)}   New: {len(new_jobs)}   "
         f"Romania: {romania_n}   Remote EU: {remote_n}   Spring weeks: {spring_n}"
     )
-    new_ids = {job.uid for job in new_jobs}
-    for job in open_jobs[:100]:
-        flag = "NEW" if job.uid in new_ids else "   "
-        print(f"  [{flag}] {job.company} — {job.title} ({job.location})")
+    for job in new_jobs[:100]:
+        print(f"  [NEW] {job.company} — {job.title} ({job.location})")
         print(f"         {job.url}")
 
     subject, plain, html_body = build_email(new_jobs, open_jobs)
     if send:
-        send_email(subject, plain, html_body)
-        print(f"Email sent: {subject}")
+        if not new_jobs:
+            print("No new postings — email not sent.")
+        else:
+            send_email(subject, plain, html_body)
+            print(f"Email sent: {subject}")
     if persist:
         updated = seen | seen_keys_for(open_jobs)
         save_seen(updated, SEEN_PATH)

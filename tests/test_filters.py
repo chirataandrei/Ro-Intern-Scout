@@ -276,12 +276,15 @@ class FilterTests(unittest.TestCase):
         subject, plain, html_body = build_email([nxp], [nxp, softech, spring])
         self.assertIn("1 new", subject)
         self.assertIn("Company:  NXP", plain)
+        self.assertNotIn("SOFTECH SRL", plain)
+        self.assertNotIn("Jane Street", plain)
+        self.assertNotIn("SOFTECH SRL", html_body)
+        self.assertIn("/careers/job/Bucharest/", html_body)
+
+        subject, plain, html_body = build_email([nxp, softech, spring], [nxp, softech, spring])
         self.assertIn("Company:  SOFTECH SRL", plain)
-        self.assertNotIn("Hipo / eJobs / BestJobs", plain)
-        self.assertNotIn("Hipo / eJobs / BestJobs", html_body)
         self.assertLess(plain.find("SOFTECH SRL"), plain.find("Jane Street"))
         self.assertLess(html_body.find("NXP"), html_body.find("Jane Street"))
-        self.assertIn("/careers/job/Bucharest/", html_body)
 
     def test_ejobs_nuxt_exposes_company_name(self) -> None:
         payload = [

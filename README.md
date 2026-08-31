@@ -12,7 +12,7 @@ The catalog is sharded under `internscout/catalog/data/companies/*.json` (666 fi
 
 ## What you get
 
-Every day around 08:00 (Romania time, summer) an email with **all currently open** matching roles, in three sections: Romania internships, remote-EU internships, spring weeks. New postings since yesterday are marked **NEW**.
+Every day around 08:00 (Romania time, summer) an email with **only new** matching roles since the last scan, in three sections: Romania internships, remote-EU internships, spring weeks. Already-seen postings are skipped; if nothing is new, no email is sent.
 
 ## Run locally
 
