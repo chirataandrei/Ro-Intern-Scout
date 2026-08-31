@@ -200,20 +200,27 @@ def estimated_wellfound_cost(max_items: int) -> float:
 
 def wellfound_max_items(state: ApifyState | None = None) -> int:
     state = state or ApifyState.load()
-    remaining = state.remaining_budget() - DISCOVERY_COST_USD
+    remaining = state.remaining_budget()
     if remaining <= 0:
         return 0
     return max(0, min(40, int(remaining / WELLFOUND_COST_PER_ROW)))
 
 
-def run_discovery(*, dry_run: bool = False, client: ApifyClient | None = None) -> list[dict[str, str]]:
+def run_discovery(*, dry_run: bool = False, client: ApifyClient | None = None, check_cooldown: bool = True) -> list[dict[str, str]]:
     payload = discovery_input()
     cost = estimated_discovery_cost()
     if dry_run:
         print(f"· discover dry-run  actor={apify_actor_discovery()}  cost≈${cost:.3f}")
         print(f"  queries={len(DISCOVERY_QUERIES)}  pages/query=2")
         return []
-    items = guarded_run(apify_actor_discovery(), payload, estimated_cost_usd=cost, limit=200, client=client)
+    items = guarded_run(
+        apify_actor_discovery(),
+        payload,
+        estimated_cost_usd=cost,
+        limit=200,
+        client=client,
+        check_cooldown=check_cooldown,
+    )
     boards = boards_from_serp(items)
     new_boards = merge_discovered(boards)
     print(f"· discover: {len(boards)} boards extracted, {len(new_boards)} new → {DISCOVERED_PATH}")
@@ -236,7 +243,12 @@ def _cache_payload(items: list[dict[str, Any]], query_id: str) -> dict[str, Any]
     }
 
 
-def run_wellfound(*, dry_run: bool = False, client: ApifyClient | None = None) -> list[dict[str, Any]]:
+def run_wellfound(
+    *,
+    dry_run: bool = False,
+    client: ApifyClient | None = None,
+    check_cooldown: bool = True,
+) -> list[dict[str, Any]]:
     max_items = wellfound_max_items()
     cost = estimated_wellfound_cost(max_items) if max_items else 0.0
     payload = wellfound_input(max_items)
@@ -246,7 +258,14 @@ def run_wellfound(*, dry_run: bool = False, client: ApifyClient | None = None) -
     if max_items <= 0:
         print("· wellfound: no remaining budget, skipping")
         return []
-    items = guarded_run(apify_actor_wellfound(), payload, estimated_cost_usd=cost, limit=max_items, client=client)
+    items = guarded_run(
+        apify_actor_wellfound(),
+        payload,
+        estimated_cost_usd=cost,
+        limit=max_items,
+        client=client,
+        check_cooldown=check_cooldown,
+    )
     cache = _cache_payload(items, "wellfound")
     APIFY_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
     APIFY_CACHE_PATH.write_text(json.dumps(cache, indent=2) + "\n", encoding="utf-8")
@@ -260,14 +279,14 @@ def load_queries() -> list[dict[str, Any]]:
     return [q for q in (items or []) if isinstance(q, dict)]
 
 
-def apify_refresh(*, dry_run: bool = False) -> int:
+def apify_refresh(*, dry_run: bool = False, force: bool = False) -> int:
     """CLI entry: discovery + Wellfound, no-op without APIFY_TOKEN."""
     client = ApifyClient()
     if not client.enabled and not dry_run:
         print("· apify-refresh: APIFY_TOKEN not set, nothing to do")
         return 0
     state = ApifyState.load()
-    ok, reason = state.can_run()
+    ok, reason = state.can_run(check_cooldown=not force)
     if not ok and not dry_run:
         print(f"· apify-refresh: skipping — {reason}")
         return 0
@@ -276,5 +295,6 @@ def apify_refresh(*, dry_run: bool = False) -> int:
         f"remaining=${state.remaining_budget():.2f}  runs={state.runs}"
     )
     run_discovery(dry_run=dry_run, client=client)
-    run_wellfound(dry_run=dry_run, client=client)
+    # Same invocation: skip the 6h cooldown so Wellfound can run after discovery records last_run.
+    run_wellfound(dry_run=dry_run, client=client, check_cooldown=False)
     return 0

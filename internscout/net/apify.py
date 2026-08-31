@@ -90,13 +90,13 @@ class ApifyState:
             encoding="utf-8",
         )
 
-    def can_run(self, now: datetime | None = None) -> tuple[bool, str]:
+    def can_run(self, now: datetime | None = None, *, check_cooldown: bool = True) -> tuple[bool, str]:
         state = self.rolled_over(now)
         if state.spent_usd >= apify_max_spend_per_month():
             return False, f"monthly Apify budget spent (${state.spent_usd:.2f} >= ${apify_max_spend_per_month():.2f})"
         if state.runs >= apify_max_runs_per_month():
             return False, f"monthly Apify run cap reached ({state.runs} >= {apify_max_runs_per_month()})"
-        if state.last_run:
+        if check_cooldown and state.last_run:
             try:
                 last = datetime.fromisoformat(state.last_run)
             except ValueError:
@@ -199,6 +199,7 @@ def guarded_run(
     limit: int = 200,
     client: ApifyClient | None = None,
     state_path: Path = APIFY_STATE_PATH,
+    check_cooldown: bool = True,
 ) -> list[dict[str, Any]]:
     """Runs an actor only if the budget guard allows it, then records spend."""
     client = client or ApifyClient()
@@ -206,7 +207,7 @@ def guarded_run(
         print("· apify: APIFY_TOKEN not set, skipping")
         return []
     state = ApifyState.load(state_path)
-    ok, reason = state.can_run()
+    ok, reason = state.can_run(check_cooldown=check_cooldown)
     if not ok:
         print(f"· apify: skipping {actor} — {reason}")
         return []

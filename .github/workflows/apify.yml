@@ -26,7 +26,7 @@ jobs:
       - name: Refresh Apify cache
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-        run: python -m internscout apify-refresh
+        run: python -m internscout apify-refresh ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
 
       - name: Persist Apify artifacts
         run: |

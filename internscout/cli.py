@@ -29,6 +29,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--email", action="store_true", help="Send the digest by email (SMTP_* / EMAIL_TO)")
     parser.add_argument("--no-save", action="store_true", help="Do not update data/seen.json")
     parser.add_argument("--dry-run", action="store_true", help="Print Apify actor input and estimated cost, no network")
+    parser.add_argument("--force", action="store_true", help="apify-refresh: skip the 6h cooldown (budget still applies)")
     parser.add_argument("--write", action="store_true", help="probe: merge live boards into catalog shards")
     parser.add_argument("--limit", type=int, default=0, help="probe: only the first N candidates")
     parser.add_argument("--from-discovered", action="store_true", help="probe: use data/discovered.json")
@@ -42,7 +43,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "apify-refresh":
         from internscout.discover import apify_refresh
 
-        return apify_refresh(dry_run=args.dry_run)
+        return apify_refresh(dry_run=args.dry_run, force=args.force)
 
     if args.command == "discover":
         from internscout.discover import run_discovery

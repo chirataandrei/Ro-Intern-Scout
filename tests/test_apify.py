@@ -115,6 +115,8 @@ class BudgetGuardTests(unittest.TestCase):
             ok, reason = state.can_run(now)
             self.assertFalse(ok)
             self.assertIn("cooldown", reason)
+            skipped, _ = state.can_run(now, check_cooldown=False)
+            self.assertTrue(skipped)
         finally:
             os.environ.pop("APIFY_MIN_HOURS_BETWEEN_RUNS", None)
 
