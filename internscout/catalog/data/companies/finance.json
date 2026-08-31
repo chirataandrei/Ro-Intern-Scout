@@ -1,0 +1,2616 @@
+[
+  {
+    "name": "Adyen",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "adyen",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "adyen",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/adyen"
+      },
+      {
+        "ats": "careers",
+        "token": "Adyen",
+        "host": "https://careers.adyen.com/",
+        "site": "",
+        "url": "https://careers.adyen.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/adyen",
+      "https://careers.adyen.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "AJ Bell",
+    "category": "finance",
+    "ats": "pinpoint",
+    "token": "ajbell",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "ajbell",
+        "host": "",
+        "site": "",
+        "url": "https://ajbell.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://ajbell.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "AlixPartners",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "alixpartners",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "alixpartners",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/alixpartners"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "alixpartners",
+        "host": "",
+        "site": "",
+        "url": "https://alixpartners.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/alixpartners",
+      "https://alixpartners.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Allianz",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "Allianz",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Allianz",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Allianz"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "AllianzTiriac",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/AllianzTiriac"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "AllianzTechnology",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/AllianzTechnology"
+      },
+      {
+        "ats": "careers",
+        "token": "Allianz",
+        "host": "https://careers.allianz.com/",
+        "site": "",
+        "url": "https://careers.allianz.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Allianz",
+        "host": "https://www.allianztiriac.ro/cariere",
+        "site": "",
+        "url": "https://www.allianztiriac.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Allianz",
+      "https://careers.smartrecruiters.com/AllianzTiriac",
+      "https://careers.smartrecruiters.com/AllianzTechnology",
+      "https://careers.allianz.com/",
+      "https://www.allianztiriac.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Alpha Bank",
+    "category": "finance",
+    "ats": "workable",
+    "token": "alphabank",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "alphabank",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/alphabank/"
+      },
+      {
+        "ats": "careers",
+        "token": "Alpha Bank",
+        "host": "https://www.alphabank.ro/cariere",
+        "site": "",
+        "url": "https://www.alphabank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/alphabank/",
+      "https://www.alphabank.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Amundi",
+    "category": "finance",
+    "ats": "bamboohr",
+    "token": "amundi",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "amundi",
+        "host": "",
+        "site": "",
+        "url": "https://amundi.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://amundi.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Aviva",
+    "category": "finance",
+    "ats": "careers",
+    "token": "aviva",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "aviva",
+        "host": "https://careers.aviva.com/",
+        "site": "",
+        "url": "https://careers.aviva.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Aviva",
+        "host": "https://careers.aviva.com/",
+        "site": "",
+        "url": "https://careers.aviva.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.aviva.com",
+      "https://careers.aviva.com/"
+    ],
+    "host": "https://careers.aviva.com/",
+    "site": ""
+  },
+  {
+    "name": "Baillie Gifford",
+    "category": "finance",
+    "ats": "pinpoint",
+    "token": "bailliegifford",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "bailliegifford",
+        "host": "",
+        "site": "",
+        "url": "https://bailliegifford.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://bailliegifford.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Banca Transilvania",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "BancaTransilvania",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BancaTransilvania",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BancaTransilvania"
+      },
+      {
+        "ats": "careers",
+        "token": "Banca Transilvania",
+        "host": "https://www.bancatransilvania.ro/cariere",
+        "site": "",
+        "url": "https://www.bancatransilvania.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BancaTransilvania",
+      "https://www.bancatransilvania.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Bank of America",
+    "category": "finance",
+    "ats": "careers",
+    "token": "bankofamerica",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bankofamerica",
+        "host": "https://careers.bankofamerica.com/",
+        "site": "",
+        "url": "https://careers.bankofamerica.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Bank of America",
+        "host": "https://careers.bankofamerica.com/",
+        "site": "",
+        "url": "https://careers.bankofamerica.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.bankofamerica.com",
+      "https://careers.bankofamerica.com/"
+    ],
+    "host": "https://careers.bankofamerica.com/",
+    "site": ""
+  },
+  {
+    "name": "Barclays",
+    "category": "finance",
+    "ats": "workday",
+    "token": "barclays",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "barclays",
+        "host": "barclays.wd3.myworkdayjobs.com",
+        "site": "External_Career_Site_Barclays",
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays"
+      },
+      {
+        "ats": "careers",
+        "token": "Barclays",
+        "host": "https://home.barclays/careers/",
+        "site": "",
+        "url": "https://home.barclays/careers/"
+      }
+    ],
+    "urls": [
+      "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
+      "https://home.barclays/careers/"
+    ],
+    "host": "barclays.wd3.myworkdayjobs.com",
+    "site": "External_Career_Site_Barclays"
+  },
+  {
+    "name": "BCR",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "BCR",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BCR",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BCR"
+      },
+      {
+        "ats": "careers",
+        "token": "BCR",
+        "host": "https://www.bcr.ro/ro/cariere",
+        "site": "",
+        "url": "https://www.bcr.ro/ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BCR",
+      "https://www.bcr.ro/ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "BDO",
+    "category": "finance",
+    "ats": "teamtailor",
+    "token": "bdo",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "bdo",
+        "host": "",
+        "site": "",
+        "url": "https://bdo.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://bdo.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Binance",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "binance",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "binance",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/binance"
+      },
+      {
+        "ats": "careers",
+        "token": "Binance",
+        "host": "https://www.binance.com/en/careers",
+        "site": "",
+        "url": "https://www.binance.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/binance",
+      "https://www.binance.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Bitpanda",
+    "category": "finance",
+    "ats": "personio",
+    "token": "bitpanda",
+    "sites": [
+      {
+        "ats": "personio",
+        "token": "bitpanda",
+        "host": "",
+        "site": "",
+        "url": "https://bitpanda.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Bitpanda",
+        "host": "https://www.bitpanda.com/en/career",
+        "site": "",
+        "url": "https://www.bitpanda.com/en/career"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "bitpanda",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bitpanda"
+      }
+    ],
+    "urls": [
+      "https://bitpanda.jobs.personio.com/",
+      "https://www.bitpanda.com/en/career",
+      "https://job-boards.greenhouse.io/bitpanda"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "BlackRock",
+    "category": "finance",
+    "ats": "careers",
+    "token": "blackrock",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "blackrock",
+        "host": "https://careers.blackrock.com/",
+        "site": "",
+        "url": "https://careers.blackrock.com"
+      },
+      {
+        "ats": "careers",
+        "token": "BlackRock",
+        "host": "https://careers.blackrock.com/",
+        "site": "",
+        "url": "https://careers.blackrock.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.blackrock.com",
+      "https://careers.blackrock.com/"
+    ],
+    "host": "https://careers.blackrock.com/",
+    "site": ""
+  },
+  {
+    "name": "Bloomberg",
+    "category": "finance",
+    "ats": "workday",
+    "token": "bloomberg",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "bloomberg",
+        "host": "bloomberg.wd1.myworkdayjobs.com",
+        "site": "BBG_External",
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/BBG_External"
+      },
+      {
+        "ats": "careers",
+        "token": "Bloomberg",
+        "host": "https://www.bloomberg.com/company/careers/",
+        "site": "",
+        "url": "https://www.bloomberg.com/company/careers/"
+      }
+    ],
+    "urls": [
+      "https://bloomberg.wd1.myworkdayjobs.com/BBG_External",
+      "https://www.bloomberg.com/company/careers/"
+    ],
+    "host": "bloomberg.wd1.myworkdayjobs.com",
+    "site": "BBG_External"
+  },
+  {
+    "name": "BNP Paribas",
+    "category": "finance",
+    "ats": "careers",
+    "token": "bnpparibas",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bnpparibas",
+        "host": "https://group.bnpparibas/en/careers",
+        "site": "",
+        "url": "https://group.bnpparibas/en/careers"
+      }
+    ],
+    "urls": [
+      "https://group.bnpparibas/en/careers"
+    ],
+    "host": "https://group.bnpparibas/en/careers",
+    "site": ""
+  },
+  {
+    "name": "BNY Mellon",
+    "category": "finance",
+    "ats": "careers",
+    "token": "bnymellon",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bnymellon",
+        "host": "https://www.bnymellon.com/us/en/careers.html",
+        "site": "",
+        "url": "https://www.bnymellon.com/us/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.bnymellon.com/us/en/careers.html"
+    ],
+    "host": "https://www.bnymellon.com/us/en/careers.html",
+    "site": ""
+  },
+  {
+    "name": "BRD Groupe Societe Generale",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "BRD",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BRD",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BRD"
+      },
+      {
+        "ats": "careers",
+        "token": "BRD Groupe Societe Generale",
+        "host": "https://www.brd.ro/cariere",
+        "site": "",
+        "url": "https://www.brd.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BRD",
+      "https://www.brd.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Capital Group",
+    "category": "finance",
+    "ats": "lever",
+    "token": "capital",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "capital",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/capital"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/capital"
+    ]
+  },
+  {
+    "name": "CEC Bank",
+    "category": "finance",
+    "ats": "careers",
+    "token": "cecbank",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "cecbank",
+        "host": "https://www.cec.ro/cariere",
+        "site": "",
+        "url": "https://www.cec.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.cec.ro/cariere"
+    ],
+    "host": "https://www.cec.ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Charles River Associates",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "charlesriverassociates",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "charlesriverassociates",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/charlesriverassociates"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/charlesriverassociates"
+    ]
+  },
+  {
+    "name": "Citi",
+    "category": "finance",
+    "ats": "workday",
+    "token": "citi",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "citi",
+        "host": "citi.wd5.myworkdayjobs.com",
+        "site": "2",
+        "url": "https://citi.wd5.myworkdayjobs.com/2"
+      },
+      {
+        "ats": "careers",
+        "token": "Citi",
+        "host": "https://careers.citigroup.com/",
+        "site": "",
+        "url": "https://careers.citigroup.com/"
+      }
+    ],
+    "urls": [
+      "https://citi.wd5.myworkdayjobs.com/2",
+      "https://careers.citigroup.com/"
+    ],
+    "host": "citi.wd5.myworkdayjobs.com",
+    "site": "2"
+  },
+  {
+    "name": "Coinbase",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "coinbase",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "coinbase",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/coinbase"
+      },
+      {
+        "ats": "careers",
+        "token": "Coinbase",
+        "host": "https://www.coinbase.com/careers",
+        "site": "",
+        "url": "https://www.coinbase.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/coinbase",
+      "https://www.coinbase.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Crédit Agricole CIB",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "creditagricolecib",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "creditagricolecib",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/creditagricolecib"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/creditagricolecib"
+    ]
+  },
+  {
+    "name": "Deutsche Bank",
+    "category": "finance",
+    "ats": "workday",
+    "token": "dbk",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "dbk",
+        "host": "dbk.wd3.myworkdayjobs.com",
+        "site": "DB",
+        "url": "https://dbk.wd3.myworkdayjobs.com/DB"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "DeutscheBank",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/DeutscheBank"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "DBSystel",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/DBSystel"
+      },
+      {
+        "ats": "careers",
+        "token": "Deutsche Bank",
+        "host": "https://careers.db.com/",
+        "site": "",
+        "url": "https://careers.db.com/"
+      }
+    ],
+    "urls": [
+      "https://dbk.wd3.myworkdayjobs.com/DB",
+      "https://careers.smartrecruiters.com/DeutscheBank",
+      "https://careers.smartrecruiters.com/DBSystel",
+      "https://careers.db.com/"
+    ],
+    "host": "dbk.wd3.myworkdayjobs.com",
+    "site": "DB"
+  },
+  {
+    "name": "Edenred",
+    "category": "finance",
+    "ats": "careers",
+    "token": "edenred",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "edenred",
+        "host": "https://www.edenred.ro/ro/cariere",
+        "site": "",
+        "url": "https://www.edenred.ro/ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.edenred.ro/ro/cariere"
+    ],
+    "host": "https://www.edenred.ro/ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Fidelity",
+    "category": "finance",
+    "ats": "careers",
+    "token": "fidelity",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "fidelity",
+        "host": "https://jobs.fidelity.com/",
+        "site": "",
+        "url": "https://jobs.fidelity.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Fidelity",
+        "host": "https://jobs.fidelity.com/",
+        "site": "",
+        "url": "https://jobs.fidelity.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.fidelity.com",
+      "https://jobs.fidelity.com/"
+    ],
+    "host": "https://jobs.fidelity.com/",
+    "site": ""
+  },
+  {
+    "name": "Finqware",
+    "category": "finance",
+    "ats": "careers",
+    "token": "finqware",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "finqware",
+        "host": "https://finqware.com/careers",
+        "site": "",
+        "url": "https://finqware.com/careers"
+      }
+    ],
+    "urls": [
+      "https://finqware.com/careers"
+    ],
+    "host": "https://finqware.com/careers",
+    "site": ""
+  },
+  {
+    "name": "First Bank",
+    "category": "finance",
+    "ats": "careers",
+    "token": "firstbank",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "firstbank",
+        "host": "https://www.firstbank.ro/cariere",
+        "site": "",
+        "url": "https://www.firstbank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.firstbank.ro/cariere"
+    ],
+    "host": "https://www.firstbank.ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Flutter",
+    "category": "finance",
+    "ats": "workday",
+    "token": "flutterentertainment",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "flutterentertainment",
+        "host": "flutterentertainment.wd3.myworkdayjobs.com",
+        "site": "Flutter_Careers",
+        "url": "https://flutterentertainment.wd3.myworkdayjobs.com/Flutter_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Flutter",
+        "host": "https://careers.flutter.com/",
+        "site": "",
+        "url": "https://careers.flutter.com/"
+      }
+    ],
+    "urls": [
+      "https://flutterentertainment.wd3.myworkdayjobs.com/Flutter_Careers",
+      "https://careers.flutter.com/"
+    ],
+    "host": "flutterentertainment.wd3.myworkdayjobs.com",
+    "site": "Flutter_Careers"
+  },
+  {
+    "name": "Forvis Mazars",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "forvismazars",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "forvismazars",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/forvismazars"
+      },
+      {
+        "ats": "recruitee",
+        "token": "forvismazars",
+        "host": "",
+        "site": "",
+        "url": "https://forvismazars.recruitee.com/"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "forvismazars",
+        "host": "",
+        "site": "",
+        "url": "https://forvismazars.pinpointhq.com/"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "forvismazars",
+        "host": "",
+        "site": "",
+        "url": "https://forvismazars.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/forvismazars",
+      "https://forvismazars.recruitee.com/",
+      "https://forvismazars.pinpointhq.com/",
+      "https://forvismazars.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Freetrade",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "freetrade",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "freetrade",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/freetrade"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/freetrade"
+    ]
+  },
+  {
+    "name": "Frontier Economics",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "frontier",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "frontier",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/frontier"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/frontier"
+    ]
+  },
+  {
+    "name": "FTI Consulting",
+    "category": "finance",
+    "ats": "bamboohr",
+    "token": "fti",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "fti",
+        "host": "",
+        "site": "",
+        "url": "https://fti.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://fti.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Gallagher",
+    "category": "finance",
+    "ats": "bamboohr",
+    "token": "gallagher",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "gallagher",
+        "host": "",
+        "site": "",
+        "url": "https://gallagher.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://gallagher.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Garanti BBVA",
+    "category": "finance",
+    "ats": "careers",
+    "token": "garantibbva",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "garantibbva",
+        "host": "https://www.garantibbva.ro/ro/cariere",
+        "site": "",
+        "url": "https://www.garantibbva.ro/ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.garantibbva.ro/ro/cariere"
+    ],
+    "host": "https://www.garantibbva.ro/ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Generali",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "Generali",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Generali",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Generali"
+      },
+      {
+        "ats": "careers",
+        "token": "Generali",
+        "host": "https://www.generali.ro/cariere",
+        "site": "",
+        "url": "https://www.generali.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Generali",
+      "https://www.generali.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Goldman Sachs",
+    "category": "finance",
+    "ats": "careers",
+    "token": "goldmansachs",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "goldmansachs",
+        "host": "https://www.goldmansachs.com/careers/",
+        "site": "",
+        "url": "https://www.goldmansachs.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Goldman Sachs",
+        "host": "https://www.goldmansachs.com/careers/",
+        "site": "",
+        "url": "https://www.goldmansachs.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.goldmansachs.com/careers",
+      "https://www.goldmansachs.com/careers/"
+    ],
+    "host": "https://www.goldmansachs.com/careers/",
+    "site": ""
+  },
+  {
+    "name": "Grant Thornton",
+    "category": "finance",
+    "ats": "recruitee",
+    "token": "grantthornton",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "grantthornton",
+        "host": "",
+        "site": "",
+        "url": "https://grantthornton.recruitee.com/"
+      },
+      {
+        "ats": "teamtailor",
+        "token": "grantthornton",
+        "host": "",
+        "site": "",
+        "url": "https://grantthornton.teamtailor.com/jobs"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "grantthornton",
+        "host": "",
+        "site": "",
+        "url": "https://grantthornton.pinpointhq.com/"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "grantthornton",
+        "host": "",
+        "site": "",
+        "url": "https://grantthornton.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://grantthornton.recruitee.com/",
+      "https://grantthornton.teamtailor.com/jobs",
+      "https://grantthornton.pinpointhq.com/",
+      "https://grantthornton.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Groupama",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "Groupama",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Groupama",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Groupama"
+      },
+      {
+        "ats": "careers",
+        "token": "Groupama",
+        "host": "https://www.groupama.ro/cariere",
+        "site": "",
+        "url": "https://www.groupama.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Groupama",
+      "https://www.groupama.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Howden",
+    "category": "finance",
+    "ats": "recruitee",
+    "token": "howden",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "howden",
+        "host": "",
+        "site": "",
+        "url": "https://howden.recruitee.com/"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "howden",
+        "host": "",
+        "site": "",
+        "url": "https://howden.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://howden.recruitee.com/",
+      "https://howden.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "HSBC",
+    "category": "finance",
+    "ats": "careers",
+    "token": "hsbc",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "hsbc",
+        "host": "https://www.hsbc.com/careers",
+        "site": "",
+        "url": "https://www.hsbc.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.hsbc.com/careers"
+    ],
+    "host": "https://www.hsbc.com/careers",
+    "site": ""
+  },
+  {
+    "name": "ING",
+    "category": "finance",
+    "ats": "workday",
+    "token": "ing",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "ing",
+        "host": "ing.wd3.myworkdayjobs.com",
+        "site": "ING_Jobs",
+        "url": "https://ing.wd3.myworkdayjobs.com/ING_Jobs"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "ING",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/ING"
+      },
+      {
+        "ats": "recruitee",
+        "token": "ingromania",
+        "host": "",
+        "site": "",
+        "url": "https://ingromania.recruitee.com/"
+      },
+      {
+        "ats": "breezy",
+        "token": "ing",
+        "host": "",
+        "site": "",
+        "url": "https://ing.breezy.hr/"
+      },
+      {
+        "ats": "careers",
+        "token": "ING",
+        "host": "https://www.ing.jobs/",
+        "site": "",
+        "url": "https://www.ing.jobs/"
+      },
+      {
+        "ats": "careers",
+        "token": "ING",
+        "host": "https://www.ing.ro/ing-in-romania/cariere",
+        "site": "",
+        "url": "https://www.ing.ro/ing-in-romania/cariere"
+      }
+    ],
+    "urls": [
+      "https://ing.wd3.myworkdayjobs.com/ING_Jobs",
+      "https://careers.smartrecruiters.com/ING",
+      "https://ingromania.recruitee.com/",
+      "https://ing.breezy.hr/",
+      "https://www.ing.jobs/",
+      "https://www.ing.ro/ing-in-romania/cariere"
+    ],
+    "host": "ing.wd3.myworkdayjobs.com",
+    "site": "ING_Jobs"
+  },
+  {
+    "name": "Intesa Sanpaolo",
+    "category": "finance",
+    "ats": "careers",
+    "token": "intesasanpaolo",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "intesasanpaolo",
+        "host": "https://www.intesasanpaolobank.ro/cariere",
+        "site": "",
+        "url": "https://www.intesasanpaolobank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.intesasanpaolobank.ro/cariere"
+    ],
+    "host": "https://www.intesasanpaolobank.ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "J.P. Morgan",
+    "category": "finance",
+    "ats": "careers",
+    "token": "jpmorgan",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "jpmorgan",
+        "host": "https://careers.jpmorgan.com/",
+        "site": "",
+        "url": "https://careers.jpmorgan.com"
+      },
+      {
+        "ats": "careers",
+        "token": "J.P. Morgan",
+        "host": "https://careers.jpmorgan.com/",
+        "site": "",
+        "url": "https://careers.jpmorgan.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.jpmorgan.com",
+      "https://careers.jpmorgan.com/"
+    ],
+    "host": "https://careers.jpmorgan.com/",
+    "site": ""
+  },
+  {
+    "name": "Janus Henderson",
+    "category": "finance",
+    "ats": "recruitee",
+    "token": "janus",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "janus",
+        "host": "",
+        "site": "",
+        "url": "https://janus.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://janus.recruitee.com/"
+    ]
+  },
+  {
+    "name": "Julius Baer",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "julius",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "julius",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/julius"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/julius"
+    ]
+  },
+  {
+    "name": "Klarna",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "klarna",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "klarna",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/klarna"
+      },
+      {
+        "ats": "careers",
+        "token": "Klarna",
+        "host": "https://www.klarna.com/careers/",
+        "site": "",
+        "url": "https://www.klarna.com/careers/"
+      },
+      {
+        "ats": "join",
+        "token": "klarna",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/klarna",
+        "extra": {
+          "company_id": "23204"
+        }
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/klarna",
+      "https://www.klarna.com/careers/",
+      "https://join.com/companies/klarna"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kraken",
+    "category": "finance",
+    "ats": "careers",
+    "token": "kraken",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "kraken",
+        "host": "https://www.kraken.com/careers",
+        "site": "",
+        "url": "https://www.kraken.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.kraken.com/careers"
+    ],
+    "host": "https://www.kraken.com/careers",
+    "site": ""
+  },
+  {
+    "name": "Legal & General",
+    "category": "finance",
+    "ats": "recruitee",
+    "token": "legal",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "legal",
+        "host": "",
+        "site": "",
+        "url": "https://legal.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://legal.recruitee.com/"
+    ]
+  },
+  {
+    "name": "Libra Bank",
+    "category": "finance",
+    "ats": "workable",
+    "token": "librabank",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "librabank",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/librabank/"
+      },
+      {
+        "ats": "careers",
+        "token": "Libra Bank",
+        "host": "https://www.librabank.ro/Cariere",
+        "site": "",
+        "url": "https://www.librabank.ro/Cariere"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/librabank/",
+      "https://www.librabank.ro/Cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Lloyds",
+    "category": "finance",
+    "ats": "careers",
+    "token": "lloyds",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "lloyds",
+        "host": "https://www.lloydsbankinggroup.com/careers.html",
+        "site": "",
+        "url": "https://www.lloydsbankinggroup.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.lloydsbankinggroup.com/careers.html"
+    ],
+    "host": "https://www.lloydsbankinggroup.com/careers.html",
+    "site": ""
+  },
+  {
+    "name": "LSEG",
+    "category": "finance",
+    "ats": "workday",
+    "token": "lseg",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "lseg",
+        "host": "lseg.wd3.myworkdayjobs.com",
+        "site": "Careers",
+        "url": "https://lseg.wd3.myworkdayjobs.com/Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "LSEG",
+        "host": "https://www.lseg.com/en/careers",
+        "site": "",
+        "url": "https://www.lseg.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://lseg.wd3.myworkdayjobs.com/Careers",
+      "https://www.lseg.com/en/careers"
+    ],
+    "host": "lseg.wd3.myworkdayjobs.com",
+    "site": "Careers"
+  },
+  {
+    "name": "Macquarie",
+    "category": "finance",
+    "ats": "careers",
+    "token": "macquarie",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "macquarie",
+        "host": "https://www.macquarie.com/careers.html",
+        "site": "",
+        "url": "https://www.macquarie.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.macquarie.com/careers.html"
+    ],
+    "host": "https://www.macquarie.com/careers.html",
+    "site": ""
+  },
+  {
+    "name": "Mambu",
+    "category": "finance",
+    "ats": "pinpoint",
+    "token": "mambu",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "mambu",
+        "host": "",
+        "site": "",
+        "url": "https://mambu.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://mambu.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Marsh McLennan",
+    "category": "finance",
+    "ats": "join",
+    "token": "marsh",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "marsh",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/marsh"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/marsh"
+    ]
+  },
+  {
+    "name": "Mastercard",
+    "category": "finance",
+    "ats": "workday",
+    "token": "mastercard",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "mastercard",
+        "host": "mastercard.wd1.myworkdayjobs.com",
+        "site": "Corporate",
+        "url": "https://mastercard.wd1.myworkdayjobs.com/Corporate"
+      },
+      {
+        "ats": "careers",
+        "token": "Mastercard",
+        "host": "https://careers.mastercard.com/",
+        "site": "",
+        "url": "https://careers.mastercard.com/"
+      }
+    ],
+    "urls": [
+      "https://mastercard.wd1.myworkdayjobs.com/Corporate",
+      "https://careers.mastercard.com/"
+    ],
+    "host": "mastercard.wd1.myworkdayjobs.com",
+    "site": "Corporate"
+  },
+  {
+    "name": "Monzo",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "monzo",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "monzo",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/monzo"
+      },
+      {
+        "ats": "careers",
+        "token": "Monzo",
+        "host": "https://monzo.com/careers/",
+        "site": "",
+        "url": "https://monzo.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/monzo",
+      "https://monzo.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Morgan Stanley",
+    "category": "finance",
+    "ats": "careers",
+    "token": "morganstanley",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "morganstanley",
+        "host": "https://www.morganstanley.com/careers",
+        "site": "",
+        "url": "https://www.morganstanley.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.morganstanley.com/careers"
+    ],
+    "host": "https://www.morganstanley.com/careers",
+    "site": ""
+  },
+  {
+    "name": "N26",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "n26",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "n26",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/n26"
+      },
+      {
+        "ats": "personio",
+        "token": "n26",
+        "host": "",
+        "site": "",
+        "url": "https://n26.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "N26",
+        "host": "https://n26.com/en-eu/careers",
+        "site": "",
+        "url": "https://n26.com/en-eu/careers"
+      },
+      {
+        "ats": "join",
+        "token": "n26",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/n26",
+        "extra": {
+          "company_id": "106934"
+        }
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/n26",
+      "https://n26.jobs.personio.com/",
+      "https://n26.com/en-eu/careers",
+      "https://join.com/companies/n26"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "NatWest",
+    "category": "finance",
+    "ats": "careers",
+    "token": "natwest",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "natwest",
+        "host": "https://jobs.natwestgroup.com/",
+        "site": "",
+        "url": "https://jobs.natwestgroup.com"
+      },
+      {
+        "ats": "careers",
+        "token": "NatWest",
+        "host": "https://jobs.natwestgroup.com/",
+        "site": "",
+        "url": "https://jobs.natwestgroup.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.natwestgroup.com",
+      "https://jobs.natwestgroup.com/"
+    ],
+    "host": "https://jobs.natwestgroup.com/",
+    "site": ""
+  },
+  {
+    "name": "Netopia",
+    "category": "finance",
+    "ats": "careers",
+    "token": "netopia",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "netopia",
+        "host": "https://netopia-payments.com/cariere/",
+        "site": "",
+        "url": "https://netopia-payments.com/cariere"
+      },
+      {
+        "ats": "careers",
+        "token": "Netopia",
+        "host": "https://netopia-payments.com/cariere/",
+        "site": "",
+        "url": "https://netopia-payments.com/cariere/"
+      }
+    ],
+    "urls": [
+      "https://netopia-payments.com/cariere",
+      "https://netopia-payments.com/cariere/"
+    ],
+    "host": "https://netopia-payments.com/cariere/",
+    "site": ""
+  },
+  {
+    "name": "Ninety One",
+    "category": "finance",
+    "ats": "rippling",
+    "token": "ninety",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "rippling",
+        "token": "ninety",
+        "host": "",
+        "site": "",
+        "url": "https://ats.rippling.com/ninety/jobs"
+      }
+    ],
+    "urls": [
+      "https://ats.rippling.com/ninety/jobs"
+    ]
+  },
+  {
+    "name": "NN Romania",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "NN",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "NN",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/NN"
+      },
+      {
+        "ats": "careers",
+        "token": "NN Romania",
+        "host": "https://www.nn.ro/cariere",
+        "site": "",
+        "url": "https://www.nn.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/NN",
+      "https://www.nn.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Nomura",
+    "category": "finance",
+    "ats": "careers",
+    "token": "nomura",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "nomura",
+        "host": "https://www.nomura.com/careers/",
+        "site": "",
+        "url": "https://www.nomura.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Nomura",
+        "host": "https://www.nomura.com/careers/",
+        "site": "",
+        "url": "https://www.nomura.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.nomura.com/careers",
+      "https://www.nomura.com/careers/"
+    ],
+    "host": "https://www.nomura.com/careers/",
+    "site": ""
+  },
+  {
+    "name": "OC&C",
+    "category": "finance",
+    "ats": "bamboohr",
+    "token": "occstrategy",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "occstrategy",
+        "host": "",
+        "site": "",
+        "url": "https://occstrategy.bamboohr.com/careers"
+      },
+      {
+        "ats": "join",
+        "token": "occ",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/occ"
+      }
+    ],
+    "urls": [
+      "https://occstrategy.bamboohr.com/careers",
+      "https://join.com/companies/occ"
+    ]
+  },
+  {
+    "name": "OKX",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "okx",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "okx",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/okx"
+      },
+      {
+        "ats": "careers",
+        "token": "OKX",
+        "host": "https://www.okx.com/careers",
+        "site": "",
+        "url": "https://www.okx.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/okx",
+      "https://www.okx.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "OTP Bank",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "OTPBank",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "OTPBank",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/OTPBank"
+      },
+      {
+        "ats": "careers",
+        "token": "OTP Bank",
+        "host": "https://www.otpbank.ro/ro/despre-noi/cariere",
+        "site": "",
+        "url": "https://www.otpbank.ro/ro/despre-noi/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/OTPBank",
+      "https://www.otpbank.ro/ro/despre-noi/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Panmure Liberum",
+    "category": "finance",
+    "ats": "bamboohr",
+    "token": "panmure",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "panmure",
+        "host": "",
+        "site": "",
+        "url": "https://panmure.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://panmure.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Patria Bank",
+    "category": "finance",
+    "ats": "teamtailor",
+    "token": "patria",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "patria",
+        "host": "",
+        "site": "",
+        "url": "https://patria.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://patria.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "PayPal",
+    "category": "finance",
+    "ats": "workday",
+    "token": "paypal",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "paypal",
+        "host": "paypal.wd1.myworkdayjobs.com",
+        "site": "jobs",
+        "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "PayPal",
+        "host": "https://careers.pypl.com/",
+        "site": "",
+        "url": "https://careers.pypl.com/"
+      }
+    ],
+    "urls": [
+      "https://paypal.wd1.myworkdayjobs.com/jobs",
+      "https://careers.pypl.com/"
+    ],
+    "host": "paypal.wd1.myworkdayjobs.com",
+    "site": "jobs"
+  },
+  {
+    "name": "PayU",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "payu",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "payu",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/payu"
+      },
+      {
+        "ats": "careers",
+        "token": "PayU",
+        "host": "https://corporate.payu.com/careers/",
+        "site": "",
+        "url": "https://corporate.payu.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/payu",
+      "https://corporate.payu.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Pluxee",
+    "category": "finance",
+    "ats": "careers",
+    "token": "pluxee",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "pluxee",
+        "host": "https://www.pluxee.ro/cariere",
+        "site": "",
+        "url": "https://www.pluxee.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.pluxee.ro/cariere"
+    ],
+    "host": "https://www.pluxee.ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Quilter",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "quilter",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "quilter",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/quilter"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/quilter"
+    ]
+  },
+  {
+    "name": "Raiffeisen Bank",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "RaiffeisenBankRomania",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "RaiffeisenBankRomania",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/RaiffeisenBankRomania"
+      },
+      {
+        "ats": "careers",
+        "token": "Raiffeisen Bank",
+        "host": "https://www.raiffeisen.ro/ro/despre-noi/cariere.html",
+        "site": "",
+        "url": "https://www.raiffeisen.ro/ro/despre-noi/cariere.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/RaiffeisenBankRomania",
+      "https://www.raiffeisen.ro/ro/despre-noi/cariere.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Ramp",
+    "category": "finance",
+    "ats": "ashby",
+    "token": "ramp",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "ramp",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/ramp"
+      },
+      {
+        "ats": "careers",
+        "token": "Ramp",
+        "host": "https://ramp.com/careers",
+        "site": "",
+        "url": "https://ramp.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/ramp",
+      "https://ramp.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Revolut",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "revolut",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "revolut",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/revolut"
+      },
+      {
+        "ats": "ashby",
+        "token": "revolut",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/revolut"
+      },
+      {
+        "ats": "careers",
+        "token": "Revolut",
+        "host": "https://www.revolut.com/careers/",
+        "site": "",
+        "url": "https://www.revolut.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/revolut",
+      "https://jobs.ashbyhq.com/revolut",
+      "https://www.revolut.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Rothschild & Co",
+    "category": "finance",
+    "ats": "pinpoint",
+    "token": "rothschildandco",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "rothschildandco",
+        "host": "",
+        "site": "",
+        "url": "https://rothschildandco.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://rothschildandco.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Salt Bank",
+    "category": "finance",
+    "ats": "workable",
+    "token": "saltbank",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "saltbank",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/saltbank/"
+      },
+      {
+        "ats": "careers",
+        "token": "Salt Bank",
+        "host": "https://www.salt.ro/cariere",
+        "site": "",
+        "url": "https://www.salt.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/saltbank/",
+      "https://www.salt.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Schroders",
+    "category": "finance",
+    "ats": "careers",
+    "token": "schroders",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "schroders",
+        "host": "https://www.schroders.com/en/careers/",
+        "site": "",
+        "url": "https://www.schroders.com/en/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Schroders",
+        "host": "https://www.schroders.com/en/careers/",
+        "site": "",
+        "url": "https://www.schroders.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.schroders.com/en/careers",
+      "https://www.schroders.com/en/careers/"
+    ],
+    "host": "https://www.schroders.com/en/careers/",
+    "site": ""
+  },
+  {
+    "name": "Signal Iduna",
+    "category": "finance",
+    "ats": "lever",
+    "token": "signal",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "signal",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/signal"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/signal"
+    ]
+  },
+  {
+    "name": "Societe Generale GSC",
+    "category": "finance",
+    "ats": "workable",
+    "token": "societegenerale",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "societegenerale",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/societegenerale/"
+      },
+      {
+        "ats": "careers",
+        "token": "Societe Generale GSC",
+        "host": "https://careers.societegenerale.com/",
+        "site": "",
+        "url": "https://careers.societegenerale.com/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/societegenerale/",
+      "https://careers.societegenerale.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Standard Chartered",
+    "category": "finance",
+    "ats": "careers",
+    "token": "standardchartered",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "standardchartered",
+        "host": "https://www.sc.com/en/careers/",
+        "site": "",
+        "url": "https://www.sc.com/en/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Standard Chartered",
+        "host": "https://www.sc.com/en/careers/",
+        "site": "",
+        "url": "https://www.sc.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.sc.com/en/careers",
+      "https://www.sc.com/en/careers/"
+    ],
+    "host": "https://www.sc.com/en/careers/",
+    "site": ""
+  },
+  {
+    "name": "Starling Bank",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "starlingbank",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "starlingbank",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/starlingbank"
+      },
+      {
+        "ats": "careers",
+        "token": "Starling Bank",
+        "host": "https://www.starlingbank.com/careers/",
+        "site": "",
+        "url": "https://www.starlingbank.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/starlingbank",
+      "https://www.starlingbank.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "State Street",
+    "category": "finance",
+    "ats": "careers",
+    "token": "statestreet",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "statestreet",
+        "host": "https://careers.statestreet.com/",
+        "site": "",
+        "url": "https://careers.statestreet.com"
+      },
+      {
+        "ats": "careers",
+        "token": "State Street",
+        "host": "https://careers.statestreet.com/",
+        "site": "",
+        "url": "https://careers.statestreet.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.statestreet.com",
+      "https://careers.statestreet.com/"
+    ],
+    "host": "https://careers.statestreet.com/",
+    "site": ""
+  },
+  {
+    "name": "SumUp",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "sumup",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "sumup",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/sumup"
+      },
+      {
+        "ats": "careers",
+        "token": "SumUp",
+        "host": "https://www.sumup.com/careers/",
+        "site": "",
+        "url": "https://www.sumup.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/sumup",
+      "https://www.sumup.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Superbet",
+    "category": "finance",
+    "ats": "lever",
+    "token": "superbet",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "superbet",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/superbet"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "superbet",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/superbet"
+      },
+      {
+        "ats": "workable",
+        "token": "superbet",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/superbet/"
+      },
+      {
+        "ats": "careers",
+        "token": "Superbet",
+        "host": "https://superbet.ro/cariere",
+        "site": "",
+        "url": "https://superbet.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/superbet",
+      "https://job-boards.greenhouse.io/superbet",
+      "https://apply.workable.com/superbet/",
+      "https://superbet.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "TBI Bank",
+    "category": "finance",
+    "ats": "careers",
+    "token": "tbibank",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "tbibank",
+        "host": "https://tbibank.ro/cariere",
+        "site": "",
+        "url": "https://tbibank.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://tbibank.ro/cariere"
+    ],
+    "host": "https://tbibank.ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Teneo",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "teneo",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "teneo",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/teneo"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "teneo",
+        "host": "",
+        "site": "",
+        "url": "https://teneo.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/teneo",
+      "https://teneo.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Trade Republic",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "traderepublic",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "traderepublic",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/traderepublic"
+      },
+      {
+        "ats": "personio",
+        "token": "traderepublic",
+        "host": "",
+        "site": "",
+        "url": "https://traderepublic.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Trade Republic",
+        "host": "https://traderepublic.com/careers",
+        "site": "",
+        "url": "https://traderepublic.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/traderepublic",
+      "https://traderepublic.jobs.personio.com/",
+      "https://traderepublic.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "UBS",
+    "category": "finance",
+    "ats": "careers",
+    "token": "ubs",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "ubs",
+        "host": "https://www.ubs.com/global/en/careers.html",
+        "site": "",
+        "url": "https://www.ubs.com/global/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://www.ubs.com/global/en/careers.html"
+    ],
+    "host": "https://www.ubs.com/global/en/careers.html",
+    "site": ""
+  },
+  {
+    "name": "UniCredit",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "UniCredit",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "UniCredit",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/UniCredit"
+      },
+      {
+        "ats": "careers",
+        "token": "UniCredit",
+        "host": "https://www.unicredit.ro/ro/institutional/Cariere.html",
+        "site": "",
+        "url": "https://www.unicredit.ro/ro/institutional/Cariere.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/UniCredit",
+      "https://www.unicredit.ro/ro/institutional/Cariere.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Visa",
+    "category": "finance",
+    "ats": "smartrecruiters",
+    "token": "Visa",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Visa",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Visa"
+      },
+      {
+        "ats": "careers",
+        "token": "Visa",
+        "host": "https://usa.visa.com/careers.html",
+        "site": "",
+        "url": "https://usa.visa.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Visa",
+      "https://usa.visa.com/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Western Union",
+    "category": "finance",
+    "ats": "workday",
+    "token": "westernunion",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "westernunion",
+        "host": "westernunion.wd1.myworkdayjobs.com",
+        "site": "westernunionsite",
+        "url": "https://westernunion.wd1.myworkdayjobs.com/westernunionsite"
+      },
+      {
+        "ats": "careers",
+        "token": "Western Union",
+        "host": "https://careers.westernunion.com/",
+        "site": "",
+        "url": "https://careers.westernunion.com/"
+      }
+    ],
+    "urls": [
+      "https://westernunion.wd1.myworkdayjobs.com/westernunionsite",
+      "https://careers.westernunion.com/"
+    ],
+    "host": "westernunion.wd1.myworkdayjobs.com",
+    "site": "westernunionsite"
+  },
+  {
+    "name": "William Blair",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "williamblair",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "williamblair",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/williamblair"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/williamblair"
+    ]
+  },
+  {
+    "name": "Wise",
+    "category": "finance",
+    "ats": "greenhouse",
+    "token": "wise",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "wise",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/wise"
+      },
+      {
+        "ats": "ashby",
+        "token": "wise",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/wise"
+      },
+      {
+        "ats": "careers",
+        "token": "Wise",
+        "host": "https://wise.jobs/",
+        "site": "",
+        "url": "https://wise.jobs/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/wise",
+      "https://jobs.ashbyhq.com/wise",
+      "https://wise.jobs/"
+    ],
+    "host": "",
+    "site": ""
+  }
+]

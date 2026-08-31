@@ -1,0 +1,28 @@
+{
+  "queries": [
+    {
+      "id": "discover-ats",
+      "actor": "apify/google-search-scraper",
+      "category": "discovered",
+      "bucket": "discovery",
+      "max_items": 200,
+      "input": {
+        "maxPagesPerQuery": 2,
+        "resultsPerPage": 10
+      }
+    },
+    {
+      "id": "wellfound",
+      "actor": "memo23/wellfound-jobs-scraper",
+      "category": "product",
+      "bucket": "wellfound",
+      "max_items": 40,
+      "input": {
+        "startUrls": [
+          {"url": "https://wellfound.com/role/l/software-engineer/romania"},
+          {"url": "https://wellfound.com/role/r/software-engineer/europe"}
+        ]
+      }
+    }
+  ]
+}

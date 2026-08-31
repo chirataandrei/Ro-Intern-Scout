@@ -1,16 +1,12 @@
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass, field
-from pathlib import Path
 from typing import Any
 
-from internscout.career_sites import board_public_url, official_urls, site_key
+from internscout.catalog.naming import board_public_url, official_urls, site_key
 
-
-ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
-COMPANIES_PATH = DATA_DIR / "companies.json"
-SEEN_PATH = DATA_DIR / "seen.json"
+# Re-exported for backward compatibility — paths now live in config.py.
+from internscout.config import COMPANIES_PATH, DATA_DIR, ROOT, SEEN_PATH  # noqa: F401
 
 
 def _board_from_fields(

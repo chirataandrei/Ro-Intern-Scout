@@ -1,0 +1,169 @@
+[
+  {
+    "name": "Cargus",
+    "category": "other",
+    "ats": "careers",
+    "token": "cargus",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "cargus",
+        "host": "https://www.cargus.ro/cariere/",
+        "site": "",
+        "url": "https://www.cargus.ro/cariere"
+      },
+      {
+        "ats": "careers",
+        "token": "Cargus",
+        "host": "https://www.cargus.ro/cariere/",
+        "site": "",
+        "url": "https://www.cargus.ro/cariere/"
+      }
+    ],
+    "urls": [
+      "https://www.cargus.ro/cariere",
+      "https://www.cargus.ro/cariere/"
+    ],
+    "host": "https://www.cargus.ro/cariere/"
+  },
+  {
+    "name": "DPD Romania",
+    "category": "other",
+    "ats": "recruitee",
+    "token": "dpd",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "dpd",
+        "host": "",
+        "site": "",
+        "url": "https://dpd.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://dpd.recruitee.com/"
+    ]
+  },
+  {
+    "name": "E.ON",
+    "category": "other",
+    "ats": "careers",
+    "token": "eon",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "eon",
+        "host": "https://www.eon.ro/cariere",
+        "site": "",
+        "url": "https://www.eon.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.eon.ro/cariere"
+    ],
+    "host": "https://www.eon.ro/cariere"
+  },
+  {
+    "name": "Engie",
+    "category": "other",
+    "ats": "careers",
+    "token": "engie",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "engie",
+        "host": "https://www.engie.ro/cariere",
+        "site": "",
+        "url": "https://www.engie.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.engie.ro/cariere"
+    ],
+    "host": "https://www.engie.ro/cariere"
+  },
+  {
+    "name": "FAN Courier",
+    "category": "other",
+    "ats": "careers",
+    "token": "fancourier",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "fancourier",
+        "host": "https://www.fancourier.ro/cariere/",
+        "site": "",
+        "url": "https://www.fancourier.ro/cariere"
+      },
+      {
+        "ats": "careers",
+        "token": "FAN Courier",
+        "host": "https://www.fancourier.ro/cariere/",
+        "site": "",
+        "url": "https://www.fancourier.ro/cariere/"
+      }
+    ],
+    "urls": [
+      "https://www.fancourier.ro/cariere",
+      "https://www.fancourier.ro/cariere/"
+    ],
+    "host": "https://www.fancourier.ro/cariere/"
+  },
+  {
+    "name": "PPC Romania",
+    "category": "other",
+    "ats": "careers",
+    "token": "ppcromania",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "ppcromania",
+        "host": "https://www.ppcenergy.ro/cariere",
+        "site": "",
+        "url": "https://www.ppcenergy.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.ppcenergy.ro/cariere"
+    ],
+    "host": "https://www.ppcenergy.ro/cariere"
+  },
+  {
+    "name": "Procter & Gamble",
+    "category": "other",
+    "ats": "workday",
+    "token": "pg",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "pg",
+        "host": "pg.wd5.myworkdayjobs.com",
+        "site": "PG_Careers",
+        "url": "https://pg.wd5.myworkdayjobs.com/PG_Careers"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "ProcterGamble",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/ProcterGamble"
+      },
+      {
+        "ats": "careers",
+        "token": "Procter & Gamble",
+        "host": "https://www.pgcareers.com/",
+        "site": "",
+        "url": "https://www.pgcareers.com/"
+      }
+    ],
+    "urls": [
+      "https://pg.wd5.myworkdayjobs.com/PG_Careers",
+      "https://careers.smartrecruiters.com/ProcterGamble",
+      "https://www.pgcareers.com/"
+    ],
+    "host": "pg.wd5.myworkdayjobs.com",
+    "site": "PG_Careers"
+  }
+]

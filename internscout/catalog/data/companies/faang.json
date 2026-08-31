@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "Adobe",
+    "category": "faang",
+    "ats": "workday",
+    "token": "adobe",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "adobe",
+        "host": "adobe.wd5.myworkdayjobs.com",
+        "site": "external_experienced",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
+      },
+      {
+        "ats": "workday",
+        "token": "adobe",
+        "host": "adobe.wd5.myworkdayjobs.com",
+        "site": "external_university",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_university"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "adobe",
+        "host": "",
+        "site": "",
+        "url": "https://adobe.bamboohr.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Adobe",
+        "host": "https://careers.adobe.com/",
+        "site": "",
+        "url": "https://careers.adobe.com/"
+      }
+    ],
+    "urls": [
+      "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+      "https://adobe.wd5.myworkdayjobs.com/external_university",
+      "https://adobe.bamboohr.com/careers",
+      "https://careers.adobe.com/"
+    ],
+    "host": "adobe.wd5.myworkdayjobs.com",
+    "site": "external_experienced"
+  },
+  {
+    "name": "Airbnb",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "airbnb",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "airbnb",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/airbnb"
+      },
+      {
+        "ats": "careers",
+        "token": "Airbnb",
+        "host": "https://careers.airbnb.com/",
+        "site": "",
+        "url": "https://careers.airbnb.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/airbnb",
+      "https://careers.airbnb.com/"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "category": "faang",
+    "ats": "amazon",
+    "token": "amazon",
+    "sites": [
+      {
+        "ats": "amazon",
+        "token": "amazon",
+        "host": "",
+        "site": "",
+        "url": "https://www.amazon.jobs/"
+      },
+      {
+        "ats": "icims",
+        "token": "amazon",
+        "host": "amazon.jobs",
+        "site": "",
+        "url": "https://amazon.jobs/jobs/search"
+      }
+    ],
+    "urls": [
+      "https://www.amazon.jobs/",
+      "https://amazon.jobs/jobs/search"
+    ]
+  },
+  {
+    "name": "Anduril",
+    "category": "faang",
+    "ats": "lever",
+    "token": "andurilindustries",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "andurilindustries",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/andurilindustries"
+      },
+      {
+        "ats": "careers",
+        "token": "Anduril",
+        "host": "https://www.anduril.com/careers/",
+        "site": "",
+        "url": "https://www.anduril.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/andurilindustries",
+      "https://www.anduril.com/careers/"
+    ]
+  },
+  {
+    "name": "Anthropic",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "anthropic",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "anthropic",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/anthropic"
+      },
+      {
+        "ats": "careers",
+        "token": "Anthropic",
+        "host": "https://www.anthropic.com/careers",
+        "site": "",
+        "url": "https://www.anthropic.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/anthropic",
+      "https://www.anthropic.com/careers"
+    ]
+  },
+  {
+    "name": "Apple",
+    "category": "faang",
+    "ats": "apple",
+    "token": "apple",
+    "sites": [
+      {
+        "ats": "apple",
+        "token": "apple",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.apple.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.apple.com/"
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "atlassian",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "atlassian",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/atlassian"
+      },
+      {
+        "ats": "careers",
+        "token": "Atlassian",
+        "host": "https://www.atlassian.com/company/careers",
+        "site": "",
+        "url": "https://www.atlassian.com/company/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/atlassian",
+      "https://www.atlassian.com/company/careers"
+    ]
+  },
+  {
+    "name": "Booking.com",
+    "category": "faang",
+    "ats": "workday",
+    "token": "booking",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "booking",
+        "host": "booking.wd3.myworkdayjobs.com",
+        "site": "Booking_Careers",
+        "url": "https://booking.wd3.myworkdayjobs.com/Booking_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Booking.com",
+        "host": "https://jobs.booking.com/",
+        "site": "",
+        "url": "https://jobs.booking.com/"
+      }
+    ],
+    "urls": [
+      "https://booking.wd3.myworkdayjobs.com/Booking_Careers",
+      "https://jobs.booking.com/"
+    ],
+    "host": "booking.wd3.myworkdayjobs.com",
+    "site": "Booking_Careers"
+  },
+  {
+    "name": "Cisco",
+    "category": "faang",
+    "ats": "smartrecruiters",
+    "token": "Cisco",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Cisco",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Cisco"
+      },
+      {
+        "ats": "eightfold",
+        "token": "cisco",
+        "host": "jobs.cisco.com",
+        "site": "",
+        "extra": {
+          "domain": "cisco.com"
+        },
+        "url": "https://jobs.cisco.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Cisco",
+        "host": "https://jobs.cisco.com/",
+        "site": "",
+        "url": "https://jobs.cisco.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Cisco",
+      "https://jobs.cisco.com/careers",
+      "https://jobs.cisco.com/"
+    ]
+  },
+  {
+    "name": "Cloudflare",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "cloudflare",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "cloudflare",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/cloudflare"
+      },
+      {
+        "ats": "careers",
+        "token": "Cloudflare",
+        "host": "https://www.cloudflare.com/careers/",
+        "site": "",
+        "url": "https://www.cloudflare.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/cloudflare",
+      "https://www.cloudflare.com/careers/"
+    ]
+  },
+  {
+    "name": "CrowdStrike",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "crowdstrike",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "crowdstrike",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/crowdstrike"
+      },
+      {
+        "ats": "careers",
+        "token": "CrowdStrike",
+        "host": "https://www.crowdstrike.com/careers/",
+        "site": "",
+        "url": "https://www.crowdstrike.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/crowdstrike",
+      "https://www.crowdstrike.com/careers/"
+    ]
+  },
+  {
+    "name": "Databricks",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "databricks",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/databricks"
+      },
+      {
+        "ats": "careers",
+        "token": "Databricks",
+        "host": "https://www.databricks.com/company/careers",
+        "site": "",
+        "url": "https://www.databricks.com/company/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/databricks",
+      "https://www.databricks.com/company/careers"
+    ]
+  },
+  {
+    "name": "DeepMind",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "deepmind",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "deepmind",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/deepmind"
+      },
+      {
+        "ats": "careers",
+        "token": "DeepMind",
+        "host": "https://deepmind.google/careers/",
+        "site": "",
+        "url": "https://deepmind.google/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/deepmind",
+      "https://deepmind.google/careers/"
+    ]
+  },
+  {
+    "name": "Dell",
+    "category": "faang",
+    "ats": "workday",
+    "token": "dell",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "dell",
+        "host": "dell.wd1.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://dell.wd1.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Dell",
+        "host": "https://jobs.dell.com/",
+        "site": "",
+        "url": "https://jobs.dell.com/"
+      }
+    ],
+    "urls": [
+      "https://dell.wd1.myworkdayjobs.com/External",
+      "https://jobs.dell.com/"
+    ],
+    "host": "dell.wd1.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Elastic",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "elastic",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "elastic",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/elastic"
+      },
+      {
+        "ats": "careers",
+        "token": "Elastic",
+        "host": "https://www.elastic.co/careers",
+        "site": "",
+        "url": "https://www.elastic.co/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/elastic",
+      "https://www.elastic.co/careers"
+    ]
+  },
+  {
+    "name": "Figma",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "figma",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "figma",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/figma"
+      },
+      {
+        "ats": "careers",
+        "token": "Figma",
+        "host": "https://www.figma.com/careers/",
+        "site": "",
+        "url": "https://www.figma.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/figma",
+      "https://www.figma.com/careers/"
+    ]
+  },
+  {
+    "name": "GitHub",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "github",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "github",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/github"
+      },
+      {
+        "ats": "careers",
+        "token": "GitHub",
+        "host": "https://www.github.careers/",
+        "site": "",
+        "url": "https://www.github.careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/github",
+      "https://www.github.careers/"
+    ]
+  },
+  {
+    "name": "GitLab",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "gitlab",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "gitlab",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/gitlab"
+      },
+      {
+        "ats": "careers",
+        "token": "GitLab",
+        "host": "https://about.gitlab.com/jobs/",
+        "site": "",
+        "url": "https://about.gitlab.com/jobs/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/gitlab",
+      "https://about.gitlab.com/jobs/"
+    ]
+  },
+  {
+    "name": "Google",
+    "category": "faang",
+    "ats": "google",
+    "token": "google",
+    "sites": [
+      {
+        "ats": "google",
+        "token": "google",
+        "host": "",
+        "site": "",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/"
+      }
+    ],
+    "urls": [
+      "https://www.google.com/about/careers/applications/jobs/results/"
+    ]
+  },
+  {
+    "name": "HashiCorp",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "hashicorp",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "hashicorp",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/hashicorp"
+      },
+      {
+        "ats": "careers",
+        "token": "HashiCorp",
+        "host": "https://www.hashicorp.com/careers",
+        "site": "",
+        "url": "https://www.hashicorp.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/hashicorp",
+      "https://www.hashicorp.com/careers"
+    ]
+  },
+  {
+    "name": "HP",
+    "category": "faang",
+    "ats": "workday",
+    "token": "hp",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "hp",
+        "host": "hp.wd5.myworkdayjobs.com",
+        "site": "ExternalCareerSite",
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "HP",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/HP"
+      },
+      {
+        "ats": "careers",
+        "token": "HP",
+        "host": "https://jobs.hp.com/",
+        "site": "",
+        "url": "https://jobs.hp.com/"
+      }
+    ],
+    "urls": [
+      "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+      "https://careers.smartrecruiters.com/HP",
+      "https://jobs.hp.com/"
+    ],
+    "host": "hp.wd5.myworkdayjobs.com",
+    "site": "ExternalCareerSite"
+  },
+  {
+    "name": "IBM",
+    "category": "faang",
+    "ats": "workday",
+    "token": "ibm",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "ibm",
+        "host": "ibm.wd1.myworkdayjobs.com",
+        "site": "IBM_Careers",
+        "url": "https://ibm.wd1.myworkdayjobs.com/IBM_Careers"
+      },
+      {
+        "ats": "icims",
+        "token": "ibm",
+        "host": "careers-ibm.icims.com",
+        "site": "",
+        "url": "https://careers-ibm.icims.com/jobs/search"
+      },
+      {
+        "ats": "careers",
+        "token": "IBM",
+        "host": "https://www.ibm.com/careers",
+        "site": "",
+        "url": "https://www.ibm.com/careers"
+      }
+    ],
+    "urls": [
+      "https://ibm.wd1.myworkdayjobs.com/IBM_Careers",
+      "https://careers-ibm.icims.com/jobs/search",
+      "https://www.ibm.com/careers"
+    ],
+    "host": "ibm.wd1.myworkdayjobs.com",
+    "site": "IBM_Careers"
+  },
+  {
+    "name": "Intel",
+    "category": "faang",
+    "ats": "workday",
+    "token": "intel",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "intel",
+        "host": "intel.wd1.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://intel.wd1.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Intel",
+        "host": "https://jobs.intel.com/",
+        "site": "",
+        "url": "https://jobs.intel.com/"
+      }
+    ],
+    "urls": [
+      "https://intel.wd1.myworkdayjobs.com/External",
+      "https://jobs.intel.com/"
+    ],
+    "host": "intel.wd1.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "LinkedIn",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "linkedin",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "linkedin",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/linkedin"
+      },
+      {
+        "ats": "careers",
+        "token": "LinkedIn",
+        "host": "https://careers.linkedin.com/",
+        "site": "",
+        "url": "https://careers.linkedin.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/linkedin",
+      "https://careers.linkedin.com/"
+    ]
+  },
+  {
+    "name": "Meta",
+    "category": "faang",
+    "ats": "meta",
+    "token": "meta",
+    "sites": [
+      {
+        "ats": "meta",
+        "token": "meta",
+        "host": "",
+        "site": "",
+        "url": "https://www.metacareers.com/"
+      }
+    ],
+    "urls": [
+      "https://www.metacareers.com/"
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "category": "faang",
+    "ats": "microsoft",
+    "token": "microsoft",
+    "sites": [
+      {
+        "ats": "microsoft",
+        "token": "microsoft",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.careers.microsoft.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.careers.microsoft.com/"
+    ]
+  },
+  {
+    "name": "MongoDB",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "mongodb",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "mongodb",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/mongodb"
+      },
+      {
+        "ats": "careers",
+        "token": "MongoDB",
+        "host": "https://www.mongodb.com/careers",
+        "site": "",
+        "url": "https://www.mongodb.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/mongodb",
+      "https://www.mongodb.com/careers"
+    ]
+  },
+  {
+    "name": "Netflix",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "netflix",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "netflix",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/netflix"
+      },
+      {
+        "ats": "careers",
+        "token": "Netflix",
+        "host": "https://jobs.netflix.com/",
+        "site": "",
+        "url": "https://jobs.netflix.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/netflix",
+      "https://jobs.netflix.com/"
+    ]
+  },
+  {
+    "name": "Notion",
+    "category": "faang",
+    "ats": "ashby",
+    "token": "notion",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "notion",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/notion"
+      },
+      {
+        "ats": "careers",
+        "token": "Notion",
+        "host": "https://www.notion.com/careers",
+        "site": "",
+        "url": "https://www.notion.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/notion",
+      "https://www.notion.com/careers"
+    ]
+  },
+  {
+    "name": "NVIDIA",
+    "category": "faang",
+    "ats": "workday",
+    "token": "nvidia",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "nvidia",
+        "host": "nvidia.wd5.myworkdayjobs.com",
+        "site": "NVIDIAExternalCareerSite",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+      },
+      {
+        "ats": "eightfold",
+        "token": "nvidia",
+        "host": "nvidia.eightfold.ai",
+        "site": "",
+        "extra": {
+          "domain": "nvidia.com"
+        },
+        "url": "https://nvidia.eightfold.ai/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "NVIDIA",
+        "host": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "site": "",
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+      }
+    ],
+    "urls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+      "https://nvidia.eightfold.ai/careers",
+      "https://www.nvidia.com/en-us/about-nvidia/careers/"
+    ],
+    "host": "nvidia.wd5.myworkdayjobs.com",
+    "site": "NVIDIAExternalCareerSite"
+  },
+  {
+    "name": "Okta",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "okta",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "okta",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/okta"
+      },
+      {
+        "ats": "careers",
+        "token": "Okta",
+        "host": "https://www.okta.com/company/careers/",
+        "site": "",
+        "url": "https://www.okta.com/company/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/okta",
+      "https://www.okta.com/company/careers/"
+    ]
+  },
+  {
+    "name": "OpenAI",
+    "category": "faang",
+    "ats": "ashby",
+    "token": "openai",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "openai",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/openai"
+      },
+      {
+        "ats": "careers",
+        "token": "OpenAI",
+        "host": "https://openai.com/careers",
+        "site": "",
+        "url": "https://openai.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/openai",
+      "https://openai.com/careers"
+    ]
+  },
+  {
+    "name": "Oracle",
+    "category": "faang",
+    "ats": "workday",
+    "token": "oracle",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "oracle",
+        "host": "oracle.wd5.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://oracle.wd5.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Oracle",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Oracle"
+      },
+      {
+        "ats": "careers",
+        "token": "Oracle",
+        "host": "https://careers.oracle.com/",
+        "site": "",
+        "url": "https://careers.oracle.com/"
+      }
+    ],
+    "urls": [
+      "https://oracle.wd5.myworkdayjobs.com/External",
+      "https://careers.smartrecruiters.com/Oracle",
+      "https://careers.oracle.com/"
+    ],
+    "host": "oracle.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Palantir",
+    "category": "faang",
+    "ats": "lever",
+    "token": "palantir",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "palantir",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/palantir"
+      },
+      {
+        "ats": "careers",
+        "token": "Palantir",
+        "host": "https://www.palantir.com/careers/",
+        "site": "",
+        "url": "https://www.palantir.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/palantir",
+      "https://www.palantir.com/careers/"
+    ]
+  },
+  {
+    "name": "Red Hat",
+    "category": "faang",
+    "ats": "workday",
+    "token": "redhat",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "redhat",
+        "host": "redhat.wd5.myworkdayjobs.com",
+        "site": "Redhat_jobs",
+        "url": "https://redhat.wd5.myworkdayjobs.com/Redhat_jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Red Hat",
+        "host": "https://www.redhat.com/en/jobs",
+        "site": "",
+        "url": "https://www.redhat.com/en/jobs"
+      }
+    ],
+    "urls": [
+      "https://redhat.wd5.myworkdayjobs.com/Redhat_jobs",
+      "https://www.redhat.com/en/jobs"
+    ],
+    "host": "redhat.wd5.myworkdayjobs.com",
+    "site": "Redhat_jobs"
+  },
+  {
+    "name": "Salesforce",
+    "category": "faang",
+    "ats": "workday",
+    "token": "salesforce",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "salesforce",
+        "host": "salesforce.wd12.myworkdayjobs.com",
+        "site": "External_Career_Site",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+      },
+      {
+        "ats": "careers",
+        "token": "Salesforce",
+        "host": "https://careers.salesforce.com/",
+        "site": "",
+        "url": "https://careers.salesforce.com/"
+      }
+    ],
+    "urls": [
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+      "https://careers.salesforce.com/"
+    ],
+    "host": "salesforce.wd12.myworkdayjobs.com",
+    "site": "External_Career_Site"
+  },
+  {
+    "name": "SAP",
+    "category": "faang",
+    "ats": "workday",
+    "token": "sap",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "sap",
+        "host": "sap.wd3.myworkdayjobs.com",
+        "site": "SAP_Careers",
+        "url": "https://sap.wd3.myworkdayjobs.com/SAP_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "SAP",
+        "host": "https://jobs.sap.com/",
+        "site": "",
+        "url": "https://jobs.sap.com/"
+      }
+    ],
+    "urls": [
+      "https://sap.wd3.myworkdayjobs.com/SAP_Careers",
+      "https://jobs.sap.com/"
+    ],
+    "host": "sap.wd3.myworkdayjobs.com",
+    "site": "SAP_Careers"
+  },
+  {
+    "name": "Scale AI",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "scaleai",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "scaleai",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/scaleai"
+      },
+      {
+        "ats": "careers",
+        "token": "Scale AI",
+        "host": "https://scale.com/careers",
+        "site": "",
+        "url": "https://scale.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/scaleai",
+      "https://scale.com/careers"
+    ]
+  },
+  {
+    "name": "ServiceNow",
+    "category": "faang",
+    "ats": "workday",
+    "token": "servicenow",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "servicenow",
+        "host": "servicenow.wd1.myworkdayjobs.com",
+        "site": "Now_Careers",
+        "url": "https://servicenow.wd1.myworkdayjobs.com/Now_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "ServiceNow",
+        "host": "https://careers.servicenow.com/",
+        "site": "",
+        "url": "https://careers.servicenow.com/"
+      }
+    ],
+    "urls": [
+      "https://servicenow.wd1.myworkdayjobs.com/Now_Careers",
+      "https://careers.servicenow.com/"
+    ],
+    "host": "servicenow.wd1.myworkdayjobs.com",
+    "site": "Now_Careers"
+  },
+  {
+    "name": "Shopify",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "shopify",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "shopify",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/shopify"
+      },
+      {
+        "ats": "careers",
+        "token": "Shopify",
+        "host": "https://www.shopify.com/careers",
+        "site": "",
+        "url": "https://www.shopify.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/shopify",
+      "https://www.shopify.com/careers"
+    ]
+  },
+  {
+    "name": "Snowflake",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "snowflakecomputing",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "snowflakecomputing",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/snowflakecomputing"
+      },
+      {
+        "ats": "careers",
+        "token": "Snowflake",
+        "host": "https://careers.snowflake.com/",
+        "site": "",
+        "url": "https://careers.snowflake.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/snowflakecomputing",
+      "https://careers.snowflake.com/"
+    ]
+  },
+  {
+    "name": "SpaceX",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "spacex",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "spacex",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/spacex"
+      },
+      {
+        "ats": "careers",
+        "token": "SpaceX",
+        "host": "https://www.spacex.com/careers",
+        "site": "",
+        "url": "https://www.spacex.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/spacex",
+      "https://www.spacex.com/careers"
+    ]
+  },
+  {
+    "name": "Spotify",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "spotifyjobs",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "spotifyjobs",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/spotifyjobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Spotify",
+        "host": "https://www.lifeatspotify.com/",
+        "site": "",
+        "url": "https://www.lifeatspotify.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/spotifyjobs",
+      "https://www.lifeatspotify.com/"
+    ]
+  },
+  {
+    "name": "Stripe",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "stripe",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "stripe",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/stripe"
+      },
+      {
+        "ats": "careers",
+        "token": "Stripe",
+        "host": "https://stripe.com/jobs",
+        "site": "",
+        "url": "https://stripe.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/stripe",
+      "https://stripe.com/jobs"
+    ]
+  },
+  {
+    "name": "Twilio",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "twilio",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "twilio",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/twilio"
+      },
+      {
+        "ats": "careers",
+        "token": "Twilio",
+        "host": "https://www.twilio.com/company/jobs",
+        "site": "",
+        "url": "https://www.twilio.com/company/jobs"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/twilio",
+      "https://www.twilio.com/company/jobs"
+    ]
+  },
+  {
+    "name": "Uber",
+    "category": "faang",
+    "ats": "greenhouse",
+    "token": "uber",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "uber",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/uber"
+      },
+      {
+        "ats": "careers",
+        "token": "Uber",
+        "host": "https://www.uber.com/careers/",
+        "site": "",
+        "url": "https://www.uber.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/uber",
+      "https://www.uber.com/careers/"
+    ]
+  }
+]

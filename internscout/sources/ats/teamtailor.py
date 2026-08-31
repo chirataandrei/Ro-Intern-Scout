@@ -5,7 +5,7 @@ import re
 from internscout.http import HttpClient
 from internscout.models import Company, Job
 from internscout.sources import uid
-from internscout.sources.careers import _loc_text
+from internscout.sources.ats.careers import _loc_text
 
 JOB_RE = re.compile(
     r'<item>.*?<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>.*?'

@@ -210,6 +210,49 @@ FOREIGN_HINT_RE = re.compile(
     _IX,
 )
 
+# Countries / cities used to recognize a "remote, but based in the EU" role.
+# Deliberately broader than FOREIGN_HINT_RE since it only gates the new
+# remote-EU internship branch, which already requires an explicit "remote"
+# keyword and is checked *after* the US/Canada block in keep_job.
+EU_LOCATION_RE = re.compile(
+    r"""
+    \b(
+        europe|europa|emea|eea
+        | united[\s-]?kingdom|\buk\b|england|scotland|wales
+        | ireland|germany|deutschland|france|netherlands|holland
+        | belgium|luxembourg|switzerland|austria|spain|portugal
+        | italy|poland|czech|slovakia|hungary|croatia|slovenia
+        | denmark|sweden|norway|finland|iceland|estonia|latvia
+        | lithuania|greece|cyprus|malta|bulgaria|serbia
+        | london|londra|amsterdam|berlin|paris|dublin|madrid
+        | barcelona|lisbon|lisboa|zurich|zürich|geneva|vienna
+        | wien|prague|praha|warsaw|warszawa|krakow|budapest
+        | copenhagen|stockholm|oslo|helsinki|tallinn|riga
+        | vilnius|athens|milan|milano|rome|roma|munich|münchen
+        | frankfurt|hamburg|brussels|bruxelles|antwerp|rotterdam
+    )\b
+    """,
+    _IX,
+)
+
+REMOTE_KEYWORD_RE = re.compile(r"\bremote\b", re.I)
+
+# Internship-uri postate ca "remote" cu un semnal explicit de UE/Europa, sau
+# "fully remote" / "work from anywhere" fara tara. Firmele straine nu ruleaza
+# spring weeks, deci fara aceasta ramura un catalog de startup-uri europene nu
+# ar produce niciun rezultat (vezi keep_job). is_america ramane blocant
+# inaintea acestei verificari.
+REMOTE_EU_RE = re.compile(
+    r"""
+    \b remote \s*[-,/(]?\s* (eu|europe|europa|emea|eea|cet|cest) \b
+  | \b (eu|europe|europa|emea) \s*[-,/]?\s* remote \b
+  | \b (fully|100\%|full) [\s-]? remote \b
+  | \b work \s* from \s* anywhere \b
+  | \b anywhere \s* in \s* (the\s*)? (eu|europe) \b
+    """,
+    _IX,
+)
+
 
 def _fold(text: str) -> str:
     nfkd = unicodedata.normalize("NFKD", text or "")
@@ -261,6 +304,18 @@ def is_foreign_hint(location: str, extra: str = "") -> bool:
     return bool(FOREIGN_HINT_RE.search(blob) or FOREIGN_HINT_RE.search(_fold(blob)))
 
 
+def is_remote_eu(location: str, extra: str = "") -> bool:
+    blob = f"{location} {extra}"
+    folded = _fold(blob)
+    if REMOTE_EU_RE.search(blob) or REMOTE_EU_RE.search(folded):
+        return True
+    if REMOTE_KEYWORD_RE.search(blob) and (
+        EU_LOCATION_RE.search(blob) or EU_LOCATION_RE.search(folded)
+    ):
+        return True
+    return False
+
+
 def is_tech_role(title: str, extra: str = "") -> bool:
     blob = f"{title} {extra}"
     folded = _fold(blob)
@@ -297,7 +352,12 @@ def keep_job(
     if is_america(location) and not romania:
         return False
 
-    if not romania:
+    # Firmele straine nu ruleaza spring weeks, dar startup-urile europene
+    # angajeaza remote-EU. is_america a rulat deja mai sus, deci "Remote - US"
+    # e blocat inainte sa ajunga aici.
+    remote_eu = intern and not romania and is_remote_eu(location, extra)
+
+    if not romania and not remote_eu:
         return spring
 
     blob = f"{title} {extra} {company}"

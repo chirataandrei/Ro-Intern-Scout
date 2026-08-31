@@ -1,0 +1,3202 @@
+[
+  {
+    "name": "ABB",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "ABB",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "ABB",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/ABB"
+      },
+      {
+        "ats": "careers",
+        "token": "ABB",
+        "host": "https://careers.abb/",
+        "site": "",
+        "url": "https://careers.abb/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/ABB",
+      "https://careers.abb/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Airbus",
+    "category": "rd",
+    "ats": "workday",
+    "token": "airbus",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "airbus",
+        "host": "airbus.wd3.myworkdayjobs.com",
+        "site": "airbus",
+        "url": "https://airbus.wd3.myworkdayjobs.com/airbus"
+      },
+      {
+        "ats": "careers",
+        "token": "Airbus",
+        "host": "https://www.airbus.com/en/careers",
+        "site": "",
+        "url": "https://www.airbus.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://airbus.wd3.myworkdayjobs.com/airbus",
+      "https://www.airbus.com/en/careers"
+    ],
+    "host": "airbus.wd3.myworkdayjobs.com",
+    "site": "airbus"
+  },
+  {
+    "name": "Alstom",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Alstom",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Alstom",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Alstom"
+      },
+      {
+        "ats": "careers",
+        "token": "Alstom",
+        "host": "https://www.alstom.com/careers",
+        "site": "",
+        "url": "https://www.alstom.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Alstom",
+      "https://www.alstom.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Analog Devices",
+    "category": "rd",
+    "ats": "workday",
+    "token": "analogdevices",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "analogdevices",
+        "host": "analogdevices.wd1.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Analog Devices",
+        "host": "https://www.analog.com/en/careers.html",
+        "site": "",
+        "url": "https://www.analog.com/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://analogdevices.wd1.myworkdayjobs.com/External",
+      "https://www.analog.com/en/careers.html"
+    ],
+    "host": "analogdevices.wd1.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Applied Materials",
+    "category": "rd",
+    "ats": "workday",
+    "token": "appliedmaterials",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "appliedmaterials",
+        "host": "appliedmaterials.wd5.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://appliedmaterials.wd5.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Applied Materials",
+        "host": "https://www.appliedmaterials.com/us/en/careers.html",
+        "site": "",
+        "url": "https://www.appliedmaterials.com/us/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://appliedmaterials.wd5.myworkdayjobs.com/External",
+      "https://www.appliedmaterials.com/us/en/careers.html"
+    ],
+    "host": "appliedmaterials.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Aptiv",
+    "category": "rd",
+    "ats": "workable",
+    "token": "aptiv",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "aptiv",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/aptiv/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Aptiv",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Aptiv"
+      },
+      {
+        "ats": "careers",
+        "token": "Aptiv",
+        "host": "https://www.aptiv.com/en/careers",
+        "site": "",
+        "url": "https://www.aptiv.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/aptiv/",
+      "https://careers.smartrecruiters.com/Aptiv",
+      "https://www.aptiv.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "ARM",
+    "category": "rd",
+    "ats": "workday",
+    "token": "arm",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "arm",
+        "host": "arm.wd1.myworkdayjobs.com",
+        "site": "Careers",
+        "url": "https://arm.wd1.myworkdayjobs.com/Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "ARM",
+        "host": "https://careers.arm.com/",
+        "site": "",
+        "url": "https://careers.arm.com/"
+      }
+    ],
+    "urls": [
+      "https://arm.wd1.myworkdayjobs.com/Careers",
+      "https://careers.arm.com/"
+    ],
+    "host": "arm.wd1.myworkdayjobs.com",
+    "site": "Careers"
+  },
+  {
+    "name": "ASML",
+    "category": "rd",
+    "ats": "workday",
+    "token": "asml",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "asml",
+        "host": "asml.wd3.myworkdayjobs.com",
+        "site": "asml_careers",
+        "url": "https://asml.wd3.myworkdayjobs.com/asml_careers"
+      },
+      {
+        "ats": "careers",
+        "token": "ASML",
+        "host": "https://www.asml.com/en/careers",
+        "site": "",
+        "url": "https://www.asml.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://asml.wd3.myworkdayjobs.com/asml_careers",
+      "https://www.asml.com/en/careers"
+    ],
+    "host": "asml.wd3.myworkdayjobs.com",
+    "site": "asml_careers"
+  },
+  {
+    "name": "Audi",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Audi",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Audi",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Audi"
+      },
+      {
+        "ats": "careers",
+        "token": "Audi",
+        "host": "https://www.audi.com/en/careers.html",
+        "site": "",
+        "url": "https://www.audi.com/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Audi",
+      "https://www.audi.com/en/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "AUMOVIO",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "AUMOVIO",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "AUMOVIO",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/AUMOVIO"
+      },
+      {
+        "ats": "careers",
+        "token": "AUMOVIO",
+        "host": "https://www.aumovio.com/en/career",
+        "site": "",
+        "url": "https://www.aumovio.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/AUMOVIO",
+      "https://www.aumovio.com/en/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Autoliv",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Autoliv",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Autoliv",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Autoliv"
+      },
+      {
+        "ats": "careers",
+        "token": "Autoliv",
+        "host": "https://www.autoliv.com/career",
+        "site": "",
+        "url": "https://www.autoliv.com/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Autoliv",
+      "https://www.autoliv.com/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "AVL",
+    "category": "rd",
+    "ats": "workable",
+    "token": "avl",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "avl",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/avl/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "AVL",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/AVL"
+      },
+      {
+        "ats": "careers",
+        "token": "AVL",
+        "host": "https://www.avl.com/en/career",
+        "site": "",
+        "url": "https://www.avl.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/avl/",
+      "https://careers.smartrecruiters.com/AVL",
+      "https://www.avl.com/en/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Bertrandt",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Bertrandt",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Bertrandt",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Bertrandt"
+      },
+      {
+        "ats": "careers",
+        "token": "Bertrandt",
+        "host": "https://www.bertrandt.com/en/career/",
+        "site": "",
+        "url": "https://www.bertrandt.com/en/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Bertrandt",
+      "https://www.bertrandt.com/en/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "BlackBerry",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "BlackBerry",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BlackBerry",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BlackBerry"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BlackBerry"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "BMW",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "BMWGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BMWGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BMWGroup"
+      },
+      {
+        "ats": "careers",
+        "token": "BMW",
+        "host": "https://www.bmwgroup.jobs/",
+        "site": "",
+        "url": "https://www.bmwgroup.jobs/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BMWGroup",
+      "https://www.bmwgroup.jobs/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Bosch",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "BoschGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "BoschGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/BoschGroup"
+      },
+      {
+        "ats": "workable",
+        "token": "boschromania",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/boschromania/"
+      },
+      {
+        "ats": "careers",
+        "token": "Bosch",
+        "host": "https://www.bosch.com/careers/",
+        "site": "",
+        "url": "https://www.bosch.com/careers/"
+      },
+      {
+        "ats": "careers",
+        "token": "Bosch",
+        "host": "https://www.bosch.ro/cariera/",
+        "site": "",
+        "url": "https://www.bosch.ro/cariera/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/BoschGroup",
+      "https://apply.workable.com/boschromania/",
+      "https://www.bosch.com/careers/",
+      "https://www.bosch.ro/cariera/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Broadcom",
+    "category": "rd",
+    "ats": "workday",
+    "token": "broadcom",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "broadcom",
+        "host": "broadcom.wd1.myworkdayjobs.com",
+        "site": "External_Career",
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+      },
+      {
+        "ats": "careers",
+        "token": "Broadcom",
+        "host": "https://www.broadcom.com/company/careers",
+        "site": "",
+        "url": "https://www.broadcom.com/company/careers"
+      }
+    ],
+    "urls": [
+      "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+      "https://www.broadcom.com/company/careers"
+    ],
+    "host": "broadcom.wd1.myworkdayjobs.com",
+    "site": "External_Career"
+  },
+  {
+    "name": "Brose",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Brose",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Brose",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Brose"
+      },
+      {
+        "ats": "careers",
+        "token": "Brose",
+        "host": "https://www.brose.com/de-en/career/",
+        "site": "",
+        "url": "https://www.brose.com/de-en/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Brose",
+      "https://www.brose.com/de-en/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Caterpillar",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Caterpillar",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Caterpillar",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Caterpillar"
+      },
+      {
+        "ats": "careers",
+        "token": "Caterpillar",
+        "host": "https://careers.caterpillar.com/",
+        "site": "",
+        "url": "https://careers.caterpillar.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Caterpillar",
+      "https://careers.caterpillar.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "CNH",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "CNH",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "CNH",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/CNH"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/CNH"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Continental",
+    "category": "rd",
+    "ats": "workday",
+    "token": "continental",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "continental",
+        "host": "continental.wd3.myworkdayjobs.com",
+        "site": "continental_career",
+        "url": "https://continental.wd3.myworkdayjobs.com/continental_career"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Continental",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Continental"
+      },
+      {
+        "ats": "careers",
+        "token": "Continental",
+        "host": "https://career.continental.com/",
+        "site": "",
+        "url": "https://career.continental.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Continental",
+        "host": "https://www.continental.com/en/career/",
+        "site": "",
+        "url": "https://www.continental.com/en/career/"
+      }
+    ],
+    "urls": [
+      "https://continental.wd3.myworkdayjobs.com/continental_career",
+      "https://careers.smartrecruiters.com/Continental",
+      "https://career.continental.com/",
+      "https://www.continental.com/en/career/"
+    ],
+    "host": "continental.wd3.myworkdayjobs.com",
+    "site": "continental_career"
+  },
+  {
+    "name": "Cummins",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Cummins",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Cummins",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Cummins"
+      },
+      {
+        "ats": "careers",
+        "token": "Cummins",
+        "host": "https://www.cummins.com/careers",
+        "site": "",
+        "url": "https://www.cummins.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Cummins",
+      "https://www.cummins.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Draexlmaier",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Draexlmaier",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Draexlmaier",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Draexlmaier"
+      },
+      {
+        "ats": "careers",
+        "token": "Draexlmaier",
+        "host": "https://www.draexlmaier.com/career/",
+        "site": "",
+        "url": "https://www.draexlmaier.com/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Draexlmaier",
+      "https://www.draexlmaier.com/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "dSPACE",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "dSPACE",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "dSPACE",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/dSPACE"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/dSPACE"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Eaton",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Eaton",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Eaton",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Eaton"
+      },
+      {
+        "ats": "careers",
+        "token": "Eaton",
+        "host": "https://www.eaton.com/us/en-us/company/careers.html",
+        "site": "",
+        "url": "https://www.eaton.com/us/en-us/company/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Eaton",
+      "https://www.eaton.com/us/en-us/company/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "EDAG",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "EDAG",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "EDAG",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/EDAG"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/EDAG"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Elektrobit",
+    "category": "rd",
+    "ats": "successfactors",
+    "token": "elektrobit",
+    "sites": [
+      {
+        "ats": "successfactors",
+        "token": "elektrobit",
+        "host": "https://jobs.elektrobit.com/jobs",
+        "site": "",
+        "url": "https://jobs.elektrobit.com/jobs"
+      },
+      {
+        "ats": "careers",
+        "token": "Elektrobit",
+        "host": "https://www.elektrobit.com/careers/",
+        "site": "",
+        "url": "https://www.elektrobit.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.elektrobit.com/jobs",
+      "https://www.elektrobit.com/careers/"
+    ],
+    "host": "https://jobs.elektrobit.com/jobs",
+    "site": ""
+  },
+  {
+    "name": "Emerson",
+    "category": "rd",
+    "ats": "workday",
+    "token": "emerson",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "emerson",
+        "host": "emerson.wd5.myworkdayjobs.com",
+        "site": "EmersonCareers",
+        "url": "https://emerson.wd5.myworkdayjobs.com/EmersonCareers"
+      },
+      {
+        "ats": "careers",
+        "token": "Emerson",
+        "host": "https://www.emerson.com/en-us/careers",
+        "site": "",
+        "url": "https://www.emerson.com/en-us/careers"
+      }
+    ],
+    "urls": [
+      "https://emerson.wd5.myworkdayjobs.com/EmersonCareers",
+      "https://www.emerson.com/en-us/careers"
+    ],
+    "host": "emerson.wd5.myworkdayjobs.com",
+    "site": "EmersonCareers"
+  },
+  {
+    "name": "Ericsson",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Ericsson",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Ericsson",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Ericsson"
+      },
+      {
+        "ats": "workable",
+        "token": "ericsson",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/ericsson/"
+      },
+      {
+        "ats": "workday",
+        "token": "ericsson",
+        "host": "ericsson.wd3.myworkdayjobs.com",
+        "site": "career",
+        "url": "https://ericsson.wd3.myworkdayjobs.com/career"
+      },
+      {
+        "ats": "careers",
+        "token": "Ericsson",
+        "host": "https://www.ericsson.com/en/careers",
+        "site": "",
+        "url": "https://www.ericsson.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Ericsson",
+      "https://apply.workable.com/ericsson/",
+      "https://ericsson.wd3.myworkdayjobs.com/career",
+      "https://www.ericsson.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "ETAS",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "ETAS",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "ETAS",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/ETAS"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/ETAS"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "FEV",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "FEV",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "FEV",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/FEV"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/FEV"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Flex",
+    "category": "rd",
+    "ats": "greenhouse",
+    "token": "flex",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "flex",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/flex"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/flex"
+    ]
+  },
+  {
+    "name": "Ford Romania",
+    "category": "rd",
+    "ats": "workday",
+    "token": "ford",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "ford",
+        "host": "ford.wd1.myworkdayjobs.com",
+        "site": "Ford",
+        "url": "https://ford.wd1.myworkdayjobs.com/Ford"
+      },
+      {
+        "ats": "careers",
+        "token": "Ford Romania",
+        "host": "https://corporate.ford.com/careers.html",
+        "site": "",
+        "url": "https://corporate.ford.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://ford.wd1.myworkdayjobs.com/Ford",
+      "https://corporate.ford.com/careers.html"
+    ],
+    "host": "ford.wd1.myworkdayjobs.com",
+    "site": "Ford"
+  },
+  {
+    "name": "Forvia",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "FORVIA",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "FORVIA",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/FORVIA"
+      },
+      {
+        "ats": "careers",
+        "token": "Forvia",
+        "host": "https://www.forvia.com/en/talent",
+        "site": "",
+        "url": "https://www.forvia.com/en/talent"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/FORVIA",
+      "https://www.forvia.com/en/talent"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Frequentis",
+    "category": "rd",
+    "ats": "recruitee",
+    "token": "frequentis",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "frequentis",
+        "host": "",
+        "site": "",
+        "url": "https://frequentis.recruitee.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Frequentis",
+        "host": "https://www.frequentis.com/career",
+        "site": "",
+        "url": "https://www.frequentis.com/career"
+      }
+    ],
+    "urls": [
+      "https://frequentis.recruitee.com/",
+      "https://www.frequentis.com/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Garmin",
+    "category": "rd",
+    "ats": "workday",
+    "token": "garmin",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "garmin",
+        "host": "garmin.wd5.myworkdayjobs.com",
+        "site": "Garmin",
+        "url": "https://garmin.wd5.myworkdayjobs.com/Garmin"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Garmin",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Garmin"
+      },
+      {
+        "ats": "careers",
+        "token": "Garmin",
+        "host": "https://careers.garmin.com/",
+        "site": "",
+        "url": "https://careers.garmin.com/"
+      }
+    ],
+    "urls": [
+      "https://garmin.wd5.myworkdayjobs.com/Garmin",
+      "https://careers.smartrecruiters.com/Garmin",
+      "https://careers.garmin.com/"
+    ],
+    "host": "garmin.wd5.myworkdayjobs.com",
+    "site": "Garmin"
+  },
+  {
+    "name": "GE Vernova",
+    "category": "rd",
+    "ats": "workday",
+    "token": "gevernova",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "gevernova",
+        "host": "gevernova.wd103.myworkdayjobs.com",
+        "site": "GEV_External",
+        "url": "https://gevernova.wd103.myworkdayjobs.com/GEV_External"
+      },
+      {
+        "ats": "careers",
+        "token": "GE Vernova",
+        "host": "https://careers.gevernova.com/",
+        "site": "",
+        "url": "https://careers.gevernova.com/"
+      }
+    ],
+    "urls": [
+      "https://gevernova.wd103.myworkdayjobs.com/GEV_External",
+      "https://careers.gevernova.com/"
+    ],
+    "host": "gevernova.wd103.myworkdayjobs.com",
+    "site": "GEV_External"
+  },
+  {
+    "name": "HARMAN",
+    "category": "rd",
+    "ats": "workable",
+    "token": "harman",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "harman",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/harman/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "HARMAN",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/HARMAN"
+      },
+      {
+        "ats": "careers",
+        "token": "HARMAN",
+        "host": "https://www.harman.com/careers",
+        "site": "",
+        "url": "https://www.harman.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/harman/",
+      "https://careers.smartrecruiters.com/HARMAN",
+      "https://www.harman.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Hella",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Hella",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Hella",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Hella"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Hella"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Hitachi",
+    "category": "rd",
+    "ats": "workable",
+    "token": "hitachi",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "hitachi",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/hitachi/"
+      },
+      {
+        "ats": "careers",
+        "token": "Hitachi",
+        "host": "https://careers.hitachi.com/",
+        "site": "",
+        "url": "https://careers.hitachi.com/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/hitachi/",
+      "https://careers.hitachi.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Honda",
+    "category": "rd",
+    "ats": "careers",
+    "token": "honda",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "honda",
+        "host": "https://www.honda.ro/cariere",
+        "site": "",
+        "url": "https://www.honda.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://www.honda.ro/cariere"
+    ],
+    "host": "https://www.honda.ro/cariere",
+    "site": ""
+  },
+  {
+    "name": "Honeywell",
+    "category": "rd",
+    "ats": "workday",
+    "token": "honeywell",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "honeywell",
+        "host": "honeywell.wd1.myworkdayjobs.com",
+        "site": "HON",
+        "url": "https://honeywell.wd1.myworkdayjobs.com/HON"
+      },
+      {
+        "ats": "careers",
+        "token": "Honeywell",
+        "host": "https://careers.honeywell.com/",
+        "site": "",
+        "url": "https://careers.honeywell.com/"
+      }
+    ],
+    "urls": [
+      "https://honeywell.wd1.myworkdayjobs.com/HON",
+      "https://careers.honeywell.com/"
+    ],
+    "host": "honeywell.wd1.myworkdayjobs.com",
+    "site": "HON"
+  },
+  {
+    "name": "Huf",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "HufGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "HufGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/HufGroup"
+      },
+      {
+        "ats": "careers",
+        "token": "Huf",
+        "host": "https://www.huf-group.com/en/career",
+        "site": "",
+        "url": "https://www.huf-group.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/HufGroup",
+      "https://www.huf-group.com/en/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Hyundai",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Hyundai",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Hyundai",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Hyundai"
+      },
+      {
+        "ats": "careers",
+        "token": "Hyundai",
+        "host": "https://www.hyundai.com/worldwide/en/company/careers",
+        "site": "",
+        "url": "https://www.hyundai.com/worldwide/en/company/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Hyundai",
+      "https://www.hyundai.com/worldwide/en/company/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "IAV",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "IAV",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "IAV",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/IAV"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/IAV"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Imagination Technologies",
+    "category": "rd",
+    "ats": "pinpoint",
+    "token": "imagination",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "imagination",
+        "host": "",
+        "site": "",
+        "url": "https://imagination.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://imagination.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Infineon",
+    "category": "rd",
+    "ats": "workday",
+    "token": "infineon",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "infineon",
+        "host": "infineon.wd3.myworkdayjobs.com",
+        "site": "IFX_Careers",
+        "url": "https://infineon.wd3.myworkdayjobs.com/IFX_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Infineon",
+        "host": "https://www.infineon.com/cms/en/careers/",
+        "site": "",
+        "url": "https://www.infineon.com/cms/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://infineon.wd3.myworkdayjobs.com/IFX_Careers",
+      "https://www.infineon.com/cms/en/careers/"
+    ],
+    "host": "infineon.wd3.myworkdayjobs.com",
+    "site": "IFX_Careers"
+  },
+  {
+    "name": "Iveco",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Iveco",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Iveco",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Iveco"
+      },
+      {
+        "ats": "careers",
+        "token": "Iveco",
+        "host": "https://www.ivecogroup.com/careers",
+        "site": "",
+        "url": "https://www.ivecogroup.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Iveco",
+      "https://www.ivecogroup.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Jaguar Land Rover",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "JaguarLandRover",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "JaguarLandRover",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/JaguarLandRover"
+      },
+      {
+        "ats": "careers",
+        "token": "Jaguar Land Rover",
+        "host": "https://www.jaguarlandrovercareers.com/",
+        "site": "",
+        "url": "https://www.jaguarlandrovercareers.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/JaguarLandRover",
+      "https://www.jaguarlandrovercareers.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "John Deere",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "JohnDeere",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "JohnDeere",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/JohnDeere"
+      },
+      {
+        "ats": "careers",
+        "token": "John Deere",
+        "host": "https://www.deere.com/en/our-company/john-deere-careers/",
+        "site": "",
+        "url": "https://www.deere.com/en/our-company/john-deere-careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/JohnDeere",
+      "https://www.deere.com/en/our-company/john-deere-careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Keysight",
+    "category": "rd",
+    "ats": "workday",
+    "token": "keysight",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "keysight",
+        "host": "keysight.wd1.myworkdayjobs.com",
+        "site": "Keysight_Careers",
+        "url": "https://keysight.wd1.myworkdayjobs.com/Keysight_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Keysight",
+        "host": "https://jobs.keysight.com/",
+        "site": "",
+        "url": "https://jobs.keysight.com/"
+      }
+    ],
+    "urls": [
+      "https://keysight.wd1.myworkdayjobs.com/Keysight_Careers",
+      "https://jobs.keysight.com/"
+    ],
+    "host": "keysight.wd1.myworkdayjobs.com",
+    "site": "Keysight_Careers"
+  },
+  {
+    "name": "KLA",
+    "category": "rd",
+    "ats": "workday",
+    "token": "kla",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "kla",
+        "host": "kla.wd1.myworkdayjobs.com",
+        "site": "KLA_Careers",
+        "url": "https://kla.wd1.myworkdayjobs.com/KLA_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "KLA",
+        "host": "https://www.kla.com/careers",
+        "site": "",
+        "url": "https://www.kla.com/careers"
+      }
+    ],
+    "urls": [
+      "https://kla.wd1.myworkdayjobs.com/KLA_Careers",
+      "https://www.kla.com/careers"
+    ],
+    "host": "kla.wd1.myworkdayjobs.com",
+    "site": "KLA_Careers"
+  },
+  {
+    "name": "Knorr-Bremse",
+    "category": "rd",
+    "ats": "pinpoint",
+    "token": "knorr-bremse",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "knorr-bremse",
+        "host": "",
+        "site": "",
+        "url": "https://knorr-bremse.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://knorr-bremse.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Kostal",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Kostal",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Kostal",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Kostal"
+      },
+      {
+        "ats": "careers",
+        "token": "Kostal",
+        "host": "https://www.kostal.com/en-gb/career",
+        "site": "",
+        "url": "https://www.kostal.com/en-gb/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Kostal",
+      "https://www.kostal.com/en-gb/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Lam Research",
+    "category": "rd",
+    "ats": "workday",
+    "token": "lamresearch",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "lamresearch",
+        "host": "lamresearch.wd1.myworkdayjobs.com",
+        "site": "Lam_External",
+        "url": "https://lamresearch.wd1.myworkdayjobs.com/Lam_External"
+      },
+      {
+        "ats": "careers",
+        "token": "Lam Research",
+        "host": "https://careers.lamresearch.com/",
+        "site": "",
+        "url": "https://careers.lamresearch.com/"
+      }
+    ],
+    "urls": [
+      "https://lamresearch.wd1.myworkdayjobs.com/Lam_External",
+      "https://careers.lamresearch.com/"
+    ],
+    "host": "lamresearch.wd1.myworkdayjobs.com",
+    "site": "Lam_External"
+  },
+  {
+    "name": "Lattice",
+    "category": "rd",
+    "ats": "greenhouse",
+    "token": "lattice",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "lattice",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/lattice"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/lattice"
+    ]
+  },
+  {
+    "name": "Lear",
+    "category": "rd",
+    "ats": "workable",
+    "token": "lear",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "lear",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/lear/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Lear",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Lear"
+      },
+      {
+        "ats": "careers",
+        "token": "Lear",
+        "host": "https://www.lear.com/careers",
+        "site": "",
+        "url": "https://www.lear.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/lear/",
+      "https://careers.smartrecruiters.com/Lear",
+      "https://www.lear.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Leoni",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Leoni",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Leoni",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Leoni"
+      },
+      {
+        "ats": "careers",
+        "token": "Leoni",
+        "host": "https://www.leoni.com/en/career/",
+        "site": "",
+        "url": "https://www.leoni.com/en/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Leoni",
+      "https://www.leoni.com/en/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "LG",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "LG",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "LG",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/LG"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/LG"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Magna",
+    "category": "rd",
+    "ats": "workable",
+    "token": "magna",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "magna",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/magna/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "MagnaInternational",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/MagnaInternational"
+      },
+      {
+        "ats": "careers",
+        "token": "Magna",
+        "host": "https://www.magna.com/careers",
+        "site": "",
+        "url": "https://www.magna.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/magna/",
+      "https://careers.smartrecruiters.com/MagnaInternational",
+      "https://www.magna.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "MAHLE",
+    "category": "rd",
+    "ats": "workable",
+    "token": "mahle",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "mahle",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/mahle/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "MAHLE",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/MAHLE"
+      },
+      {
+        "ats": "careers",
+        "token": "MAHLE",
+        "host": "https://www.mahle.com/en/careers/",
+        "site": "",
+        "url": "https://www.mahle.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/mahle/",
+      "https://careers.smartrecruiters.com/MAHLE",
+      "https://www.mahle.com/en/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Marelli",
+    "category": "rd",
+    "ats": "workable",
+    "token": "marelli",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "marelli",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/marelli/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Marelli",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Marelli"
+      },
+      {
+        "ats": "careers",
+        "token": "Marelli",
+        "host": "https://www.marelli.com/careers/",
+        "site": "",
+        "url": "https://www.marelli.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/marelli/",
+      "https://careers.smartrecruiters.com/Marelli",
+      "https://www.marelli.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Marvell",
+    "category": "rd",
+    "ats": "workday",
+    "token": "marvell",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "marvell",
+        "host": "marvell.wd1.myworkdayjobs.com",
+        "site": "Marvell_Careers",
+        "url": "https://marvell.wd1.myworkdayjobs.com/Marvell_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Marvell",
+        "host": "https://www.marvell.com/company/careers.html",
+        "site": "",
+        "url": "https://www.marvell.com/company/careers.html"
+      }
+    ],
+    "urls": [
+      "https://marvell.wd1.myworkdayjobs.com/Marvell_Careers",
+      "https://www.marvell.com/company/careers.html"
+    ],
+    "host": "marvell.wd1.myworkdayjobs.com",
+    "site": "Marvell_Careers"
+  },
+  {
+    "name": "Melexis",
+    "category": "rd",
+    "ats": "join",
+    "token": "melexis",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "melexis",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/melexis"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/melexis"
+    ]
+  },
+  {
+    "name": "Mercedes-Benz",
+    "category": "rd",
+    "ats": "workday",
+    "token": "daimler",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "daimler",
+        "host": "daimler.wd3.myworkdayjobs.com",
+        "site": "Daimler",
+        "url": "https://daimler.wd3.myworkdayjobs.com/Daimler"
+      },
+      {
+        "ats": "careers",
+        "token": "Mercedes-Benz",
+        "host": "https://group.mercedes-benz.com/careers/",
+        "site": "",
+        "url": "https://group.mercedes-benz.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://daimler.wd3.myworkdayjobs.com/Daimler",
+      "https://group.mercedes-benz.com/careers/"
+    ],
+    "host": "daimler.wd3.myworkdayjobs.com",
+    "site": "Daimler"
+  },
+  {
+    "name": "Michelin",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Michelin",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Michelin",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Michelin"
+      },
+      {
+        "ats": "careers",
+        "token": "Michelin",
+        "host": "https://www.michelin.com/en/careers",
+        "site": "",
+        "url": "https://www.michelin.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Michelin",
+      "https://www.michelin.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Microchip",
+    "category": "rd",
+    "ats": "workday",
+    "token": "microchip",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "microchip",
+        "host": "microchip.wd5.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://microchip.wd5.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Microchip",
+        "host": "https://careers.microchip.com/",
+        "site": "",
+        "url": "https://careers.microchip.com/"
+      }
+    ],
+    "urls": [
+      "https://microchip.wd5.myworkdayjobs.com/External",
+      "https://careers.microchip.com/"
+    ],
+    "host": "microchip.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Micron",
+    "category": "rd",
+    "ats": "workday",
+    "token": "micron",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "micron",
+        "host": "micron.wd1.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://micron.wd1.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Micron",
+        "host": "https://www.micron.com/careers",
+        "site": "",
+        "url": "https://www.micron.com/careers"
+      }
+    ],
+    "urls": [
+      "https://micron.wd1.myworkdayjobs.com/External",
+      "https://www.micron.com/careers"
+    ],
+    "host": "micron.wd1.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "NEC",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "NEC",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "NEC",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/NEC"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/NEC"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Nidec",
+    "category": "rd",
+    "ats": "teamtailor",
+    "token": "nidec",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "nidec",
+        "host": "",
+        "site": "",
+        "url": "https://nidec.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://nidec.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Nokia",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Nokia",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Nokia",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Nokia"
+      },
+      {
+        "ats": "workable",
+        "token": "nokia",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/nokia/"
+      },
+      {
+        "ats": "workday",
+        "token": "nokia",
+        "host": "nokia.wd3.myworkdayjobs.com",
+        "site": "Careers",
+        "url": "https://nokia.wd3.myworkdayjobs.com/Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Nokia",
+        "host": "https://www.nokia.com/careers/",
+        "site": "",
+        "url": "https://www.nokia.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Nokia",
+      "https://apply.workable.com/nokia/",
+      "https://nokia.wd3.myworkdayjobs.com/Careers",
+      "https://www.nokia.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Nordic Semiconductor",
+    "category": "rd",
+    "ats": "teamtailor",
+    "token": "nordicsemiconductor",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "nordicsemiconductor",
+        "host": "",
+        "site": "",
+        "url": "https://nordicsemiconductor.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://nordicsemiconductor.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Novo Nordisk",
+    "category": "rd",
+    "ats": "pinpoint",
+    "token": "novonordisk",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "novonordisk",
+        "host": "",
+        "site": "",
+        "url": "https://novonordisk.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://novonordisk.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "NXP",
+    "category": "rd",
+    "ats": "workday",
+    "token": "nxp",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "nxp",
+        "host": "nxp.wd3.myworkdayjobs.com",
+        "site": "careers",
+        "url": "https://nxp.wd3.myworkdayjobs.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "NXP",
+        "host": "https://www.nxp.com/company/about-nxp/careers:CAREERS",
+        "site": "",
+        "url": "https://www.nxp.com/company/about-nxp/careers:CAREERS"
+      }
+    ],
+    "urls": [
+      "https://nxp.wd3.myworkdayjobs.com/careers",
+      "https://www.nxp.com/company/about-nxp/careers:CAREERS"
+    ],
+    "host": "nxp.wd3.myworkdayjobs.com",
+    "site": "careers"
+  },
+  {
+    "name": "OMV Petrom",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "OMVPetrom",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "OMVPetrom",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/OMVPetrom"
+      },
+      {
+        "ats": "careers",
+        "token": "OMV Petrom",
+        "host": "https://www.omvpetrom.com/ro/cariere",
+        "site": "",
+        "url": "https://www.omvpetrom.com/ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/OMVPetrom",
+      "https://www.omvpetrom.com/ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "onsemi",
+    "category": "rd",
+    "ats": "workday",
+    "token": "onsemi",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "onsemi",
+        "host": "onsemi.wd3.myworkdayjobs.com",
+        "site": "OnsemiCareers",
+        "url": "https://onsemi.wd3.myworkdayjobs.com/OnsemiCareers"
+      },
+      {
+        "ats": "careers",
+        "token": "onsemi",
+        "host": "https://www.onsemi.com/careers",
+        "site": "",
+        "url": "https://www.onsemi.com/careers"
+      }
+    ],
+    "urls": [
+      "https://onsemi.wd3.myworkdayjobs.com/OnsemiCareers",
+      "https://www.onsemi.com/careers"
+    ],
+    "host": "onsemi.wd3.myworkdayjobs.com",
+    "site": "OnsemiCareers"
+  },
+  {
+    "name": "Panasonic",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Panasonic",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Panasonic",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Panasonic"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Panasonic"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Phoenix Contact",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "PhoenixContact",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "PhoenixContact",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/PhoenixContact"
+      },
+      {
+        "ats": "careers",
+        "token": "Phoenix Contact",
+        "host": "https://www.phoenixcontact.com/en/career",
+        "site": "",
+        "url": "https://www.phoenixcontact.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/PhoenixContact",
+      "https://www.phoenixcontact.com/en/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Plastic Omnium",
+    "category": "rd",
+    "ats": "rippling",
+    "token": "plastic",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "rippling",
+        "token": "plastic",
+        "host": "",
+        "site": "",
+        "url": "https://ats.rippling.com/plastic/jobs"
+      }
+    ],
+    "urls": [
+      "https://ats.rippling.com/plastic/jobs"
+    ]
+  },
+  {
+    "name": "Plexus",
+    "category": "rd",
+    "ats": "lever",
+    "token": "plexus",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "plexus",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/plexus"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "plexus",
+        "host": "",
+        "site": "",
+        "url": "https://plexus.pinpointhq.com/"
+      },
+      {
+        "ats": "rippling",
+        "token": "plexus",
+        "host": "",
+        "site": "",
+        "url": "https://ats.rippling.com/plexus/jobs"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/plexus",
+      "https://plexus.pinpointhq.com/",
+      "https://ats.rippling.com/plexus/jobs"
+    ]
+  },
+  {
+    "name": "Porsche",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Porsche",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Porsche",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Porsche"
+      },
+      {
+        "ats": "careers",
+        "token": "Porsche",
+        "host": "https://www.porsche.com/international/aboutporsche/jobs/",
+        "site": "",
+        "url": "https://www.porsche.com/international/aboutporsche/jobs/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Porsche",
+      "https://www.porsche.com/international/aboutporsche/jobs/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Porsche Engineering",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "PorscheEngineering",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "PorscheEngineering",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/PorscheEngineering"
+      },
+      {
+        "ats": "careers",
+        "token": "Porsche Engineering",
+        "host": "https://www.porscheengineering.com/peg/en/career/",
+        "site": "",
+        "url": "https://www.porscheengineering.com/peg/en/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/PorscheEngineering",
+      "https://www.porscheengineering.com/peg/en/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Preh",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Preh",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Preh",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Preh"
+      },
+      {
+        "ats": "careers",
+        "token": "Preh",
+        "host": "https://www.preh.com/en/career",
+        "site": "",
+        "url": "https://www.preh.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Preh",
+      "https://www.preh.com/en/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Prysmian",
+    "category": "rd",
+    "ats": "teamtailor",
+    "token": "prysmian",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "prysmian",
+        "host": "",
+        "site": "",
+        "url": "https://prysmian.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://prysmian.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Qualcomm",
+    "category": "rd",
+    "ats": "workday",
+    "token": "qualcomm",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "qualcomm",
+        "host": "qualcomm.wd5.myworkdayjobs.com",
+        "site": "External",
+        "url": "https://qualcomm.wd5.myworkdayjobs.com/External"
+      },
+      {
+        "ats": "careers",
+        "token": "Qualcomm",
+        "host": "https://careers.qualcomm.com/",
+        "site": "",
+        "url": "https://careers.qualcomm.com/"
+      }
+    ],
+    "urls": [
+      "https://qualcomm.wd5.myworkdayjobs.com/External",
+      "https://careers.qualcomm.com/"
+    ],
+    "host": "qualcomm.wd5.myworkdayjobs.com",
+    "site": "External"
+  },
+  {
+    "name": "Renault",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "RenaultGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "RenaultGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/RenaultGroup"
+      },
+      {
+        "ats": "careers",
+        "token": "Renault",
+        "host": "https://www.renaultgroup.com/en/our-group/careers/",
+        "site": "",
+        "url": "https://www.renaultgroup.com/en/our-group/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/RenaultGroup",
+      "https://www.renaultgroup.com/en/our-group/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Renesas",
+    "category": "rd",
+    "ats": "workday",
+    "token": "renesas",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "renesas",
+        "host": "renesas.wd1.myworkdayjobs.com",
+        "site": "careers",
+        "url": "https://renesas.wd1.myworkdayjobs.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Renesas",
+        "host": "https://www.renesas.com/us/en/about/careers",
+        "site": "",
+        "url": "https://www.renesas.com/us/en/about/careers"
+      }
+    ],
+    "urls": [
+      "https://renesas.wd1.myworkdayjobs.com/careers",
+      "https://www.renesas.com/us/en/about/careers"
+    ],
+    "host": "renesas.wd1.myworkdayjobs.com",
+    "site": "careers"
+  },
+  {
+    "name": "Rimac",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Rimac",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Rimac",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Rimac"
+      },
+      {
+        "ats": "careers",
+        "token": "Rimac",
+        "host": "https://www.rimac-technology.com/careers",
+        "site": "",
+        "url": "https://www.rimac-technology.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Rimac",
+      "https://www.rimac-technology.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Rohde Schwarz",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "RohdeSchwarz",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "RohdeSchwarz",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/RohdeSchwarz"
+      },
+      {
+        "ats": "careers",
+        "token": "Rohde Schwarz",
+        "host": "https://www.rohde-schwarz.com/career",
+        "site": "",
+        "url": "https://www.rohde-schwarz.com/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/RohdeSchwarz",
+      "https://www.rohde-schwarz.com/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "RTX",
+    "category": "rd",
+    "ats": "workday",
+    "token": "rtx",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "rtx",
+        "host": "rtx.wd5.myworkdayjobs.com",
+        "site": "RTX",
+        "url": "https://rtx.wd5.myworkdayjobs.com/RTX"
+      },
+      {
+        "ats": "careers",
+        "token": "RTX",
+        "host": "https://careers.rtx.com/",
+        "site": "",
+        "url": "https://careers.rtx.com/"
+      }
+    ],
+    "urls": [
+      "https://rtx.wd5.myworkdayjobs.com/RTX",
+      "https://careers.rtx.com/"
+    ],
+    "host": "rtx.wd5.myworkdayjobs.com",
+    "site": "RTX"
+  },
+  {
+    "name": "Samsung",
+    "category": "rd",
+    "ats": "workable",
+    "token": "samsung",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "samsung",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/samsung/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "SamsungElectronics",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SamsungElectronics"
+      },
+      {
+        "ats": "careers",
+        "token": "Samsung",
+        "host": "https://www.samsung.com/ro/about-us/careers/",
+        "site": "",
+        "url": "https://www.samsung.com/ro/about-us/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/samsung/",
+      "https://careers.smartrecruiters.com/SamsungElectronics",
+      "https://www.samsung.com/ro/about-us/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Scania",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Scania",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Scania",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Scania"
+      },
+      {
+        "ats": "careers",
+        "token": "Scania",
+        "host": "https://www.scania.com/group/en/home/career.html",
+        "site": "",
+        "url": "https://www.scania.com/group/en/home/career.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Scania",
+      "https://www.scania.com/group/en/home/career.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Schaeffler",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Schaeffler",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Schaeffler",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Schaeffler"
+      },
+      {
+        "ats": "careers",
+        "token": "Schaeffler",
+        "host": "https://www.schaeffler.com/en/career/",
+        "site": "",
+        "url": "https://www.schaeffler.com/en/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Schaeffler",
+      "https://www.schaeffler.com/en/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Schneider Electric",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "SchneiderElectric",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SchneiderElectric",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SchneiderElectric"
+      },
+      {
+        "ats": "careers",
+        "token": "Schneider Electric",
+        "host": "https://www.se.com/ww/en/about-us/careers/",
+        "site": "",
+        "url": "https://www.se.com/ww/en/about-us/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SchneiderElectric",
+      "https://www.se.com/ww/en/about-us/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Siemens",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Siemens",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Siemens",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Siemens"
+      },
+      {
+        "ats": "workable",
+        "token": "siemens",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/siemens/"
+      },
+      {
+        "ats": "successfactors",
+        "token": "siemens",
+        "host": "https://jobs.siemens.com/careers",
+        "site": "",
+        "url": "https://jobs.siemens.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Siemens",
+        "host": "https://jobs.siemens.com/",
+        "site": "",
+        "url": "https://jobs.siemens.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Siemens",
+      "https://apply.workable.com/siemens/",
+      "https://jobs.siemens.com/careers",
+      "https://jobs.siemens.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "SKF",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "SKF",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SKF",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SKF"
+      },
+      {
+        "ats": "careers",
+        "token": "SKF",
+        "host": "https://www.skf.com/group/careers",
+        "site": "",
+        "url": "https://www.skf.com/group/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SKF",
+      "https://www.skf.com/group/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "SLB",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "SLB",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SLB",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SLB"
+      },
+      {
+        "ats": "careers",
+        "token": "SLB",
+        "host": "https://careers.slb.com/",
+        "site": "",
+        "url": "https://careers.slb.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SLB",
+      "https://careers.slb.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Stellantis",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Stellantis",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Stellantis",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Stellantis"
+      },
+      {
+        "ats": "careers",
+        "token": "Stellantis",
+        "host": "https://careers.stellantis.com/",
+        "site": "",
+        "url": "https://careers.stellantis.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Stellantis",
+      "https://careers.stellantis.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "STMicroelectronics",
+    "category": "rd",
+    "ats": "workday",
+    "token": "stmicroelectronics",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "stmicroelectronics",
+        "host": "stmicroelectronics.wd3.myworkdayjobs.com",
+        "site": "ST_Careers",
+        "url": "https://stmicroelectronics.wd3.myworkdayjobs.com/ST_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "STMicroelectronics",
+        "host": "https://www.st.com/content/st_com/en/about/careers.html",
+        "site": "",
+        "url": "https://www.st.com/content/st_com/en/about/careers.html"
+      }
+    ],
+    "urls": [
+      "https://stmicroelectronics.wd3.myworkdayjobs.com/ST_Careers",
+      "https://www.st.com/content/st_com/en/about/careers.html"
+    ],
+    "host": "stmicroelectronics.wd3.myworkdayjobs.com",
+    "site": "ST_Careers"
+  },
+  {
+    "name": "Synopsys",
+    "category": "rd",
+    "ats": "pinpoint",
+    "token": "synopsys",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "synopsys",
+        "host": "",
+        "site": "",
+        "url": "https://synopsys.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://synopsys.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Systematic",
+    "category": "rd",
+    "ats": "careers",
+    "token": "Systematic",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "Systematic",
+        "host": "https://systematic.com/int/careers",
+        "site": "",
+        "url": "https://systematic.com/int/careers"
+      }
+    ],
+    "urls": [
+      "https://systematic.com/int/careers"
+    ],
+    "host": "https://systematic.com/int/careers",
+    "site": ""
+  },
+  {
+    "name": "Tesla",
+    "category": "rd",
+    "ats": "careers",
+    "token": "tesla",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "tesla",
+        "host": "https://www.tesla.com/careers/search/?country=RO",
+        "site": "",
+        "url": "https://www.tesla.com/careers/search/?country=RO"
+      },
+      {
+        "ats": "careers",
+        "token": "Tesla",
+        "host": "https://www.tesla.com/careers",
+        "site": "",
+        "url": "https://www.tesla.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.tesla.com/careers/search/?country=RO",
+      "https://www.tesla.com/careers"
+    ],
+    "host": "https://www.tesla.com/careers/search/?country=RO",
+    "site": ""
+  },
+  {
+    "name": "Thales",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Thales",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Thales",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Thales"
+      },
+      {
+        "ats": "careers",
+        "token": "Thales",
+        "host": "https://careers.thalesgroup.com/",
+        "site": "",
+        "url": "https://careers.thalesgroup.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Thales",
+      "https://careers.thalesgroup.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "thyssenkrupp",
+    "category": "rd",
+    "ats": "pinpoint",
+    "token": "thyssenkrupp",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "thyssenkrupp",
+        "host": "",
+        "site": "",
+        "url": "https://thyssenkrupp.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://thyssenkrupp.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Toyota",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Toyota",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Toyota",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Toyota"
+      },
+      {
+        "ats": "careers",
+        "token": "Toyota",
+        "host": "https://www.toyota-europe.com/careers",
+        "site": "",
+        "url": "https://www.toyota-europe.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Toyota",
+      "https://www.toyota-europe.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "TTTech Auto",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "TTTech",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "TTTech",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/TTTech"
+      },
+      {
+        "ats": "careers",
+        "token": "TTTech Auto",
+        "host": "https://www.tttech-auto.com/career/",
+        "site": "",
+        "url": "https://www.tttech-auto.com/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/TTTech",
+      "https://www.tttech-auto.com/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Universal Alloy",
+    "category": "rd",
+    "ats": "greenhouse",
+    "token": "universal",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "universal",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/universal"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/universal"
+    ]
+  },
+  {
+    "name": "Valeo",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Valeo",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Valeo",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Valeo"
+      },
+      {
+        "ats": "careers",
+        "token": "Valeo",
+        "host": "https://www.valeo.com/en/join-us/",
+        "site": "",
+        "url": "https://www.valeo.com/en/join-us/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Valeo",
+      "https://www.valeo.com/en/join-us/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Vector Informatik",
+    "category": "rd",
+    "ats": "workable",
+    "token": "vector",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "vector",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/vector/"
+      },
+      {
+        "ats": "careers",
+        "token": "Vector Informatik",
+        "host": "https://www.vector.com/int/en/careers/",
+        "site": "",
+        "url": "https://www.vector.com/int/en/careers/"
+      },
+      {
+        "ats": "successfactors",
+        "token": "vector",
+        "host": "https://join.vector.com",
+        "site": "",
+        "url": "https://join.vector.com"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/vector/",
+      "https://www.vector.com/int/en/careers/",
+      "https://join.vector.com"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Visteon",
+    "category": "rd",
+    "ats": "workable",
+    "token": "visteon",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "visteon",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/visteon/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Visteon",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Visteon"
+      },
+      {
+        "ats": "careers",
+        "token": "Visteon",
+        "host": "https://www.visteon.com/careers/",
+        "site": "",
+        "url": "https://www.visteon.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/visteon/",
+      "https://careers.smartrecruiters.com/Visteon",
+      "https://www.visteon.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Volkswagen",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Volkswagen",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Volkswagen",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Volkswagen"
+      },
+      {
+        "ats": "careers",
+        "token": "Volkswagen",
+        "host": "https://www.volkswagen-group.com/en/careers",
+        "site": "",
+        "url": "https://www.volkswagen-group.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Volkswagen",
+      "https://www.volkswagen-group.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Volvo",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "VolvoGroup",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "VolvoGroup",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/VolvoGroup"
+      },
+      {
+        "ats": "careers",
+        "token": "Volvo",
+        "host": "https://www.volvogroup.com/en/careers.html",
+        "site": "",
+        "url": "https://www.volvogroup.com/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/VolvoGroup",
+      "https://www.volvogroup.com/en/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Webasto",
+    "category": "rd",
+    "ats": "pinpoint",
+    "token": "webasto",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "webasto",
+        "host": "",
+        "site": "",
+        "url": "https://webasto.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://webasto.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Wind River",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "WindRiver",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "WindRiver",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/WindRiver"
+      },
+      {
+        "ats": "careers",
+        "token": "Wind River",
+        "host": "https://www.windriver.com/company/careers",
+        "site": "",
+        "url": "https://www.windriver.com/company/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/WindRiver",
+      "https://www.windriver.com/company/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Yazaki",
+    "category": "rd",
+    "ats": "smartrecruiters",
+    "token": "Yazaki",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Yazaki",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Yazaki"
+      },
+      {
+        "ats": "careers",
+        "token": "Yazaki",
+        "host": "https://www.yazaki-europe.com/career",
+        "site": "",
+        "url": "https://www.yazaki-europe.com/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Yazaki",
+      "https://www.yazaki-europe.com/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Zollner",
+    "category": "rd",
+    "ats": "join",
+    "token": "zollner",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "zollner",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/zollner"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/zollner"
+    ]
+  }
+]

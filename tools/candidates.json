@@ -1,0 +1,3296 @@
+{
+  "candidates": [
+    {
+      "name": "Deepstash",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://deepstash.com/careers"
+    },
+    {
+      "name": "Planable",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://planable.io/careers"
+    },
+    {
+      "name": "Sessions",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Digitail",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://digitail.io/careers"
+    },
+    {
+      "name": "Vatis Tech",
+      "category": "product",
+      "slugs": [
+        "vatis"
+      ]
+    },
+    {
+      "name": "Machinations",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Kinderpedia",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://kinderpedia.co/careers"
+    },
+    {
+      "name": "Adservio",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Medicai",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "XVision",
+      "category": "product",
+      "slugs": [
+        "xvision"
+      ]
+    },
+    {
+      "name": "Ogre AI",
+      "category": "product",
+      "slugs": [
+        "ogreai",
+        "ogre"
+      ]
+    },
+    {
+      "name": "Nestor",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Bookster",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://www.bookster.ro/careers"
+    },
+    {
+      "name": "Flip.ro",
+      "category": "product",
+      "slugs": [
+        "flip",
+        "flipro"
+      ]
+    },
+    {
+      "name": "Frisbo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Innoship",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Tokinomo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Cyscale",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "CyberSwarm",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Instant Factoring",
+      "category": "product",
+      "slugs": [
+        "instantfactoring"
+      ]
+    },
+    {
+      "name": "Filbo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Salt Edge",
+      "category": "product",
+      "slugs": [
+        "saltedge"
+      ]
+    },
+    {
+      "name": "Pago",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Omniconvert",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Creatopy",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://www.creatopy.com/careers"
+    },
+    {
+      "name": "Squirrly",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Softescu",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Humans.ai",
+      "category": "product",
+      "slugs": [
+        "humansai",
+        "humans"
+      ]
+    },
+    {
+      "name": "Aggranda",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Neurolabs",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Safetech Innovations",
+      "category": "product",
+      "slugs": [
+        "safetech"
+      ]
+    },
+    {
+      "name": "certSIGN",
+      "category": "product",
+      "slugs": [
+        "certsign"
+      ]
+    },
+    {
+      "name": "Bit Sentinel",
+      "category": "product",
+      "slugs": [
+        "bitsentinel"
+      ]
+    },
+    {
+      "name": "Licenseware",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Genezio",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://genezio.com/careers"
+    },
+    {
+      "name": "Symphopay",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "MeetGeek",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://meetgeek.ai/careers"
+    },
+    {
+      "name": "YAROOMS",
+      "category": "product",
+      "slugs": [
+        "yarooms"
+      ]
+    },
+    {
+      "name": "Bware Labs",
+      "category": "product",
+      "slugs": [
+        "bwarelabs"
+      ]
+    },
+    {
+      "name": "Questo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Blackshell",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "parol",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Footprints AI",
+      "category": "product",
+      "slugs": [
+        "footprintsai"
+      ]
+    },
+    {
+      "name": "BookVitals",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Dexory",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://www.dexory.com/careers"
+    },
+    {
+      "name": "EntertainM",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Ronin",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Wyliodrin",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "SanoPass",
+      "category": "product",
+      "slugs": [
+        "sanopass"
+      ]
+    },
+    {
+      "name": "Telios Care",
+      "category": "product",
+      "slugs": [
+        "telioscare"
+      ]
+    },
+    {
+      "name": "PayByFace",
+      "category": "product",
+      "slugs": [
+        "paybyface"
+      ]
+    },
+    {
+      "name": "Lendrise",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Investimental",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "TradeVille",
+      "category": "product",
+      "slugs": [
+        "tradeville"
+      ]
+    },
+    {
+      "name": "Tokero",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Confidas",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Ascendia",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Ringhel",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Elefant.ro",
+      "category": "product",
+      "slugs": [
+        "elefant"
+      ]
+    },
+    {
+      "name": "Vola.ro",
+      "category": "product",
+      "slugs": [
+        "vola"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://supabase.com/careers"
+    },
+    {
+      "name": "Neon",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "PlanetScale",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Clerk",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Resend",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Railway",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Render",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Fly.io",
+      "category": "product",
+      "slugs": [
+        "fly",
+        "flyio"
+      ]
+    },
+    {
+      "name": "Grafana Labs",
+      "category": "product",
+      "slugs": [
+        "grafanalabs",
+        "grafana"
+      ],
+      "careers_url": "https://grafana.com/about/careers/"
+    },
+    {
+      "name": "n8n",
+      "category": "product",
+      "slugs": [
+        "n8n",
+        "n8nio"
+      ]
+    },
+    {
+      "name": "Weaviate",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Qdrant",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "LangChain",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Langfuse",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Hugging Face",
+      "category": "product",
+      "slugs": [
+        "huggingface"
+      ],
+      "careers_url": "https://huggingface.co/join"
+    },
+    {
+      "name": "Replit",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Sourcegraph",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Tabnine",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Framer",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Aiven",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Mollie",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Backbase",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Bird",
+      "category": "product",
+      "slugs": [
+        "messagebird",
+        "bird"
+      ]
+    },
+    {
+      "name": "Mistral AI",
+      "category": "product",
+      "slugs": [
+        "mistralai",
+        "mistral"
+      ],
+      "careers_url": "https://mistral.ai/careers"
+    },
+    {
+      "name": "Aleph Alpha",
+      "category": "product",
+      "slugs": [
+        "alephalpha"
+      ]
+    },
+    {
+      "name": "Synthesia",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "ElevenLabs",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://elevenlabs.io/careers"
+    },
+    {
+      "name": "Lovable",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "DeepL",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://jobs.deepl.com/"
+    },
+    {
+      "name": "Photoroom",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Dust",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Poolside",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "H Company",
+      "category": "product",
+      "slugs": [
+        "hcompany",
+        "helloh"
+      ]
+    },
+    {
+      "name": "Nabla",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Parloa",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Black Forest Labs",
+      "category": "product",
+      "slugs": [
+        "blackforestlabs"
+      ]
+    },
+    {
+      "name": "Sana Labs",
+      "category": "product",
+      "slugs": [
+        "sanalabs"
+      ]
+    },
+    {
+      "name": "Helsing",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Payhawk",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://payhawk.com/careers"
+    },
+    {
+      "name": "Nexo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Tide",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "GoCardless",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Checkout.com",
+      "category": "product",
+      "slugs": [
+        "checkout",
+        "checkoutcom"
+      ]
+    },
+    {
+      "name": "Rapyd",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Yapily",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "TrueLayer",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Modulr",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Form3",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Thought Machine",
+      "category": "product",
+      "slugs": [
+        "thoughtmachine"
+      ]
+    },
+    {
+      "name": "10x Banking",
+      "category": "product",
+      "slugs": [
+        "10xbanking",
+        "10x"
+      ]
+    },
+    {
+      "name": "Griffin",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Zilch",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Zopa",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Marshmallow",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Cleo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Plum",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Moneybox",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Curve",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Wagestream",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Lendable",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Onfido",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "ComplyAdvantage",
+      "category": "product",
+      "slugs": [
+        "complyadvantage"
+      ]
+    },
+    {
+      "name": "Quantexa",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Featurespace",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Solaris",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Scalable Capital",
+      "category": "product",
+      "slugs": [
+        "scalablecapital"
+      ]
+    },
+    {
+      "name": "Raisin",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Taxfix",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Anyfin",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Juni",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Tink",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Trustly",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Qonto",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Swile",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Payfit",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Spendesk",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Pennylane",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Alma",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Younited",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Shift Technology",
+      "category": "product",
+      "slugs": [
+        "shifttechnology"
+      ]
+    },
+    {
+      "name": "Vinted",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://www.vinted.com/careers"
+    },
+    {
+      "name": "Pipedrive",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Veriff",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Hostinger",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://www.hostinger.com/careers"
+    },
+    {
+      "name": "Nord Security",
+      "category": "product",
+      "slugs": [
+        "nordsecurity"
+      ],
+      "careers_url": "https://nordsecurity.com/careers"
+    },
+    {
+      "name": "Kilo Health",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Back Market",
+      "category": "product",
+      "slugs": [
+        "backmarket"
+      ]
+    },
+    {
+      "name": "Doctolib",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://careers.doctolib.com/"
+    },
+    {
+      "name": "Ankorstore",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Mirakl",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Malt",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Aircall",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Front",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Getaround",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Sorare",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Ledger",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Contentsquare",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Dataiku",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Algolia",
+      "category": "product",
+      "slugs": [],
+      "careers_url": "https://www.algolia.com/careers/"
+    },
+    {
+      "name": "Picnic",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Otrium",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Swappie",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Oura",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Smartly.io",
+      "category": "product",
+      "slugs": [
+        "smartly"
+      ]
+    },
+    {
+      "name": "Relex Solutions",
+      "category": "product",
+      "slugs": [
+        "relexsolutions",
+        "relex"
+      ]
+    },
+    {
+      "name": "Truecaller",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Voi",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Mentimeter",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Kry",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Epidemic Sound",
+      "category": "product",
+      "slugs": [
+        "epidemicsound"
+      ]
+    },
+    {
+      "name": "Instabee",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Supercell",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Babbel",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Blinkist",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Egym",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Urban Sports Club",
+      "category": "product",
+      "slugs": [
+        "urbansportsclub"
+      ]
+    },
+    {
+      "name": "Choco",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Grover",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Wefox",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Getsafe",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Clark",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Forto",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "sennder",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Enpal",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "1Komma5",
+      "category": "product",
+      "slugs": [
+        "1komma5"
+      ]
+    },
+    {
+      "name": "Einride",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Isar Aerospace",
+      "category": "product",
+      "slugs": [
+        "isaraerospace"
+      ]
+    },
+    {
+      "name": "The Exploration Company",
+      "category": "product",
+      "slugs": [
+        "explorationcompany"
+      ]
+    },
+    {
+      "name": "Volocopter",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Multiverse",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Yardi Romania",
+      "category": "ssc",
+      "slugs": [
+        "yardi"
+      ]
+    },
+    {
+      "name": "Levi9",
+      "category": "ssc",
+      "slugs": [
+        "levi9"
+      ]
+    },
+    {
+      "name": "NetRom Software",
+      "category": "ssc",
+      "slugs": [
+        "netrom"
+      ]
+    },
+    {
+      "name": "Telenav Romania",
+      "category": "ssc",
+      "slugs": [
+        "telenav"
+      ]
+    },
+    {
+      "name": "SCC Services Romania",
+      "category": "ssc",
+      "slugs": [
+        "scc"
+      ]
+    },
+    {
+      "name": "Centric IT Solutions",
+      "category": "ssc",
+      "slugs": [
+        "centric"
+      ]
+    },
+    {
+      "name": "Focality",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Signant Health",
+      "category": "ssc",
+      "slugs": [
+        "signanthealth"
+      ]
+    },
+    {
+      "name": "Basware",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Modular Services",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Red Point Software Solutions",
+      "category": "ssc",
+      "slugs": [
+        "redpoint"
+      ]
+    },
+    {
+      "name": "Nuvei",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Wolfpack Digital",
+      "category": "ssc",
+      "slugs": [
+        "wolfpackdigital"
+      ]
+    },
+    {
+      "name": "Halcyon Mobile",
+      "category": "ssc",
+      "slugs": [
+        "halcyonmobile"
+      ]
+    },
+    {
+      "name": "Nordlogic",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Zenitech",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Grapefruit",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Maxcode",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "RomSoft",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Assist Software",
+      "category": "ssc",
+      "slugs": [
+        "assistsoftware",
+        "assist"
+      ]
+    },
+    {
+      "name": "Sparktech Software",
+      "category": "ssc",
+      "slugs": [
+        "sparktech"
+      ]
+    },
+    {
+      "name": "Arnia Software",
+      "category": "ssc",
+      "slugs": [
+        "arnia"
+      ]
+    },
+    {
+      "name": "Star Storage",
+      "category": "ssc",
+      "slugs": [
+        "starstorage"
+      ]
+    },
+    {
+      "name": "Bittnet Systems",
+      "category": "ssc",
+      "slugs": [
+        "bittnet"
+      ]
+    },
+    {
+      "name": "Dendrio",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Simavi",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Wizrom",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Transart",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Class IT",
+      "category": "ssc",
+      "slugs": [
+        "classit"
+      ]
+    },
+    {
+      "name": "Reea",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Qubiz",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Recognos",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Small Footprint",
+      "category": "ssc",
+      "slugs": [
+        "smallfootprint"
+      ]
+    },
+    {
+      "name": "Bitstone",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Ropardo",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "msg systems",
+      "category": "ssc",
+      "slugs": [
+        "msgsystems",
+        "msg"
+      ]
+    },
+    {
+      "name": "adesso",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Concentrix",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Foundever",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Teleperformance",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Majorel",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Conduent",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "TTEC",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "WNS",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Inetum",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Expleo",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Devoteam",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Sopra Steria",
+      "category": "ssc",
+      "slugs": [
+        "soprasteria"
+      ]
+    },
+    {
+      "name": "Akkodis",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "N-iX",
+      "category": "ssc",
+      "slugs": [
+        "nix",
+        "n-ix"
+      ]
+    },
+    {
+      "name": "ELEKS",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Ciklum",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Sigma Software",
+      "category": "ssc",
+      "slugs": [
+        "sigmasoftware"
+      ]
+    },
+    {
+      "name": "Xebia",
+      "category": "ssc",
+      "slugs": []
+    },
+    {
+      "name": "Grid Dynamics",
+      "category": "ssc",
+      "slugs": [
+        "griddynamics"
+      ]
+    },
+    {
+      "name": "Orange Services",
+      "category": "ssc",
+      "slugs": [
+        "orangeservices"
+      ]
+    },
+    {
+      "name": "MSCI",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Finastra",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Mambu",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Worldline",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Nexi",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Paysafe",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "FIS",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Fiserv",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Global Payments",
+      "category": "finance",
+      "slugs": [
+        "globalpayments"
+      ]
+    },
+    {
+      "name": "SS&C",
+      "category": "finance",
+      "slugs": [
+        "ssctech",
+        "sscinc"
+      ]
+    },
+    {
+      "name": "FactSet",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Moody's",
+      "category": "finance",
+      "slugs": [
+        "moodys"
+      ]
+    },
+    {
+      "name": "S&P Global",
+      "category": "finance",
+      "slugs": [
+        "spglobal"
+      ]
+    },
+    {
+      "name": "BT Code Crafters",
+      "category": "finance",
+      "slugs": [
+        "btcodecrafters"
+      ]
+    },
+    {
+      "name": "Vista Bank",
+      "category": "finance",
+      "slugs": [
+        "vistabank"
+      ]
+    },
+    {
+      "name": "Patria Bank",
+      "category": "finance",
+      "slugs": [
+        "patriabank"
+      ]
+    },
+    {
+      "name": "ProCredit Bank",
+      "category": "finance",
+      "slugs": [
+        "procredit"
+      ]
+    },
+    {
+      "name": "Credit Europe Bank",
+      "category": "finance",
+      "slugs": [
+        "crediteurope"
+      ]
+    },
+    {
+      "name": "Exim Banca Romaneasca",
+      "category": "finance",
+      "slugs": [
+        "eximbank"
+      ]
+    },
+    {
+      "name": "Omniasig",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Asirom",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Uniqa",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Grawe",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Signal Iduna",
+      "category": "finance",
+      "slugs": [
+        "signaliduna"
+      ]
+    },
+    {
+      "name": "SAS Institute",
+      "category": "product",
+      "slugs": [
+        "sas"
+      ]
+    },
+    {
+      "name": "Temenos",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "OpenText",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Wolters Kluwer",
+      "category": "product",
+      "slugs": [
+        "wolterskluwer"
+      ]
+    },
+    {
+      "name": "Unit4",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "IFS",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Sage",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Freshworks",
+      "category": "product",
+      "slugs": [
+        "freshworks"
+      ]
+    },
+    {
+      "name": "Odoo",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "MathWorks",
+      "category": "product",
+      "slugs": [
+        "mathworks"
+      ]
+    },
+    {
+      "name": "Vertiv",
+      "category": "product",
+      "slugs": []
+    },
+    {
+      "name": "Synopsys",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Cadence",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Siemens EDA",
+      "category": "rd",
+      "slugs": [
+        "siemenseda"
+      ]
+    },
+    {
+      "name": "AMD",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Texas Instruments",
+      "category": "rd",
+      "slugs": [
+        "texasinstruments",
+        "ti"
+      ]
+    },
+    {
+      "name": "Melexis",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Nordic Semiconductor",
+      "category": "rd",
+      "slugs": [
+        "nordicsemi"
+      ]
+    },
+    {
+      "name": "Silicon Labs",
+      "category": "rd",
+      "slugs": [
+        "silabs"
+      ]
+    },
+    {
+      "name": "u-blox",
+      "category": "rd",
+      "slugs": [
+        "ublox",
+        "u-blox"
+      ]
+    },
+    {
+      "name": "Sensirion",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "ams OSRAM",
+      "category": "rd",
+      "slugs": [
+        "amsosram"
+      ]
+    },
+    {
+      "name": "Imagination Technologies",
+      "category": "rd",
+      "slugs": [
+        "imagination",
+        "imgtec"
+      ]
+    },
+    {
+      "name": "Skyworks",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Qorvo",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "MediaTek",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Ambarella",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Semtech",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Lattice",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Rambus",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Synaptics",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Cirrus Logic",
+      "category": "rd",
+      "slugs": [
+        "cirruslogic"
+      ]
+    },
+    {
+      "name": "Garrett Motion",
+      "category": "rd",
+      "slugs": [
+        "garrettmotion"
+      ]
+    },
+    {
+      "name": "Flex",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "ZF",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Knorr-Bremse",
+      "category": "rd",
+      "slugs": [
+        "knorrbremse"
+      ]
+    },
+    {
+      "name": "Marquardt",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "BorgWarner",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Adient",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Dana Incorporated",
+      "category": "rd",
+      "slugs": [
+        "dana"
+      ]
+    },
+    {
+      "name": "Pirelli",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Coficab",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "SEWS",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Kromberg & Schubert",
+      "category": "rd",
+      "slugs": [
+        "kromberg"
+      ]
+    },
+    {
+      "name": "Prettl",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Zollner",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Webasto",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Eberspächer",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Rheinmetall",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "thyssenkrupp",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "TE Connectivity",
+      "category": "rd",
+      "slugs": [
+        "teconnectivity"
+      ]
+    },
+    {
+      "name": "Veoneer",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Plastic Omnium",
+      "category": "rd",
+      "slugs": [
+        "plasticomnium"
+      ]
+    },
+    {
+      "name": "Sensata",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Littelfuse",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Molex",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Amphenol",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Nexans",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Prysmian",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Legrand",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Hager",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Kathrein",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Nidec",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Diehl",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Celestica",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Plexus",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Siemens Energy",
+      "category": "rd",
+      "slugs": [
+        "siemensenergy"
+      ]
+    },
+    {
+      "name": "Universal Alloy",
+      "category": "rd",
+      "slugs": [
+        "universalalloy"
+      ]
+    },
+    {
+      "name": "Aerostar",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Romaero",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "MB Telecom",
+      "category": "rd",
+      "slugs": [
+        "mbtelecom"
+      ]
+    },
+    {
+      "name": "Roche",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "AstraZeneca",
+      "category": "rd",
+      "slugs": [
+        "astrazeneca"
+      ]
+    },
+    {
+      "name": "GE HealthCare",
+      "category": "rd",
+      "slugs": [
+        "gehealthcare"
+      ]
+    },
+    {
+      "name": "Philips",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Medtronic",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Baxter",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Novo Nordisk",
+      "category": "rd",
+      "slugs": [
+        "novonordisk"
+      ]
+    },
+    {
+      "name": "Takeda",
+      "category": "rd",
+      "slugs": []
+    },
+    {
+      "name": "Pragmatic Play",
+      "category": "gaming",
+      "slugs": [
+        "pragmaticplay"
+      ]
+    },
+    {
+      "name": "Amusnet",
+      "category": "gaming",
+      "slugs": []
+    },
+    {
+      "name": "Sportradar",
+      "category": "gaming",
+      "slugs": [
+        "sportradar"
+      ]
+    },
+    {
+      "name": "Bally's Interactive",
+      "category": "gaming",
+      "slugs": [
+        "ballys"
+      ]
+    },
+    {
+      "name": "Green Horse Games",
+      "category": "gaming",
+      "slugs": [
+        "greenhorsegames"
+      ]
+    },
+    {
+      "name": "Those Awesome Guys",
+      "category": "gaming",
+      "slugs": [
+        "thoseawesomeguys"
+      ]
+    },
+    {
+      "name": "Fortis Games",
+      "category": "gaming",
+      "slugs": [
+        "fortisgames"
+      ]
+    },
+    {
+      "name": "Wizz Air",
+      "category": "telecom",
+      "slugs": [
+        "wizzair"
+      ]
+    },
+    {
+      "name": "TAROM",
+      "category": "telecom",
+      "slugs": []
+    },
+    {
+      "name": "DPD Romania",
+      "category": "other",
+      "slugs": [
+        "dpd"
+      ]
+    },
+    {
+      "name": "Autonom",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Just Eat Takeaway",
+      "category": "other",
+      "slugs": [
+        "justeattakeaway"
+      ]
+    },
+    {
+      "name": "eSky",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Dedeman",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Mega Image",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Carrefour Romania",
+      "category": "other",
+      "slugs": [
+        "carrefour"
+      ]
+    },
+    {
+      "name": "Auchan Romania",
+      "category": "other",
+      "slugs": [
+        "auchan"
+      ]
+    },
+    {
+      "name": "Altex",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Decathlon Romania",
+      "category": "other",
+      "slugs": [
+        "decathlon"
+      ]
+    },
+    {
+      "name": "IKEA Romania",
+      "category": "other",
+      "slugs": [
+        "ikea"
+      ]
+    },
+    {
+      "name": "MedLife",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Regina Maria",
+      "category": "other",
+      "slugs": [
+        "reginamaria"
+      ]
+    },
+    {
+      "name": "Electrica",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Hidroelectrica",
+      "category": "other",
+      "slugs": [
+        "hidroelectrica"
+      ]
+    },
+    {
+      "name": "Nuclearelectrica",
+      "category": "other",
+      "slugs": [
+        "nuclearelectrica"
+      ]
+    },
+    {
+      "name": "Transgaz",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "Transelectrica",
+      "category": "other",
+      "slugs": [
+        "transelectrica"
+      ]
+    },
+    {
+      "name": "Romgaz",
+      "category": "other",
+      "slugs": []
+    },
+    {
+      "name": "MOL Romania",
+      "category": "other",
+      "slugs": [
+        "mol"
+      ]
+    },
+    {
+      "name": "Premier Energy",
+      "category": "other",
+      "slugs": [
+        "premierenergy"
+      ]
+    },
+    {
+      "name": "Quadrature Capital",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Aspect Capital",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Systematica Investments",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Brevan Howard",
+      "category": "quant",
+      "slugs": [
+        "brevanhoward"
+      ]
+    },
+    {
+      "name": "Rokos Capital",
+      "category": "quant",
+      "slugs": [
+        "rokos"
+      ]
+    },
+    {
+      "name": "Eisler Capital",
+      "category": "quant",
+      "slugs": [
+        "eisler"
+      ]
+    },
+    {
+      "name": "BlueCrest Capital",
+      "category": "quant",
+      "slugs": [
+        "bluecrest"
+      ]
+    },
+    {
+      "name": "Cheyne Capital",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "CQS",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Garda Capital",
+      "category": "quant",
+      "slugs": [
+        "garda"
+      ]
+    },
+    {
+      "name": "Verition",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Symmetry Investments",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Florin Court Capital",
+      "category": "quant",
+      "slugs": [
+        "florincourt"
+      ]
+    },
+    {
+      "name": "Quantica Capital",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "GAM Systematic",
+      "category": "quant",
+      "slugs": [
+        "gam"
+      ]
+    },
+    {
+      "name": "H2O Asset Management",
+      "category": "quant",
+      "slugs": [
+        "h2o"
+      ]
+    },
+    {
+      "name": "Tudor Investment",
+      "category": "quant",
+      "slugs": [
+        "tudor"
+      ]
+    },
+    {
+      "name": "Caxton Associates",
+      "category": "quant",
+      "slugs": [
+        "caxton"
+      ]
+    },
+    {
+      "name": "Moore Capital",
+      "category": "quant",
+      "slugs": [
+        "moorecapital"
+      ]
+    },
+    {
+      "name": "Sculptor Capital",
+      "category": "quant",
+      "slugs": [
+        "sculptor"
+      ]
+    },
+    {
+      "name": "Fortress Investment Group",
+      "category": "quant",
+      "slugs": [
+        "fortress"
+      ]
+    },
+    {
+      "name": "Davidson Kempner",
+      "category": "quant",
+      "slugs": [
+        "davidsonkempner"
+      ]
+    },
+    {
+      "name": "King Street Capital",
+      "category": "quant",
+      "slugs": [
+        "kingstreet"
+      ]
+    },
+    {
+      "name": "Capital Fund Management",
+      "category": "quant",
+      "slugs": [
+        "cfm"
+      ]
+    },
+    {
+      "name": "Oxford Asset Management",
+      "category": "quant",
+      "slugs": [
+        "oxam"
+      ]
+    },
+    {
+      "name": "Record Financial Group",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Millburn Ridgefield",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Transtrend",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Robeco",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "APG Asset Management",
+      "category": "quant",
+      "slugs": [
+        "apg"
+      ]
+    },
+    {
+      "name": "Ortec Finance",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Quantitative Brokers",
+      "category": "quant",
+      "slugs": [
+        "quantitativebrokers"
+      ]
+    },
+    {
+      "name": "Mako Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Tibra Capital",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Liquid Capital",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "OSTC",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Futex",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Amplify Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Schneider Trading Group",
+      "category": "quant",
+      "slugs": [
+        "schneidertrading"
+      ]
+    },
+    {
+      "name": "Hehmeyer",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Geneva Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "XR Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Quantlab",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Volant Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Simplex Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Kershner Trading",
+      "category": "quant",
+      "slugs": [
+        "kershner"
+      ]
+    },
+    {
+      "name": "Headlands Technologies",
+      "category": "quant",
+      "slugs": [
+        "headlands"
+      ]
+    },
+    {
+      "name": "Vatic Investments",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Vivienne Court Trading",
+      "category": "quant",
+      "slugs": [
+        "viviennecourt"
+      ]
+    },
+    {
+      "name": "All Options",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Webb Traders",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Nyenburgh",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Eclipse Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Grasshopper",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Tsuru Capital",
+      "category": "quant",
+      "slugs": [
+        "tsuru"
+      ]
+    },
+    {
+      "name": "Sunrise Trading",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Deep Blue Capital",
+      "category": "quant",
+      "slugs": [
+        "deepbluecapital"
+      ]
+    },
+    {
+      "name": "Auros Global",
+      "category": "quant",
+      "slugs": [
+        "auros"
+      ]
+    },
+    {
+      "name": "Keyrock",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "B2C2",
+      "category": "quant",
+      "slugs": [
+        "b2c2"
+      ]
+    },
+    {
+      "name": "GSR Markets",
+      "category": "quant",
+      "slugs": [
+        "gsr"
+      ]
+    },
+    {
+      "name": "Flowdesk",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Wincent",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Enigma Securities",
+      "category": "quant",
+      "slugs": [
+        "enigma"
+      ]
+    },
+    {
+      "name": "Woorton",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Portofino Technologies",
+      "category": "quant",
+      "slugs": [
+        "portofino"
+      ]
+    },
+    {
+      "name": "Amber Group",
+      "category": "quant",
+      "slugs": [
+        "ambergroup"
+      ]
+    },
+    {
+      "name": "Nickel Digital",
+      "category": "quant",
+      "slugs": [
+        "nickeldigital"
+      ]
+    },
+    {
+      "name": "Hidden Road",
+      "category": "quant",
+      "slugs": [
+        "hiddenroad"
+      ]
+    },
+    {
+      "name": "Copper.co",
+      "category": "quant",
+      "slugs": [
+        "copper",
+        "copperco"
+      ]
+    },
+    {
+      "name": "Elwood Technologies",
+      "category": "quant",
+      "slugs": [
+        "elwood"
+      ]
+    },
+    {
+      "name": "Zodia Markets",
+      "category": "quant",
+      "slugs": [
+        "zodia"
+      ]
+    },
+    {
+      "name": "LMAX Group",
+      "category": "quant",
+      "slugs": [
+        "lmax"
+      ]
+    },
+    {
+      "name": "Cboe Europe",
+      "category": "quant",
+      "slugs": [
+        "cboe"
+      ]
+    },
+    {
+      "name": "Euronext",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "Deutsche Börse",
+      "category": "quant",
+      "slugs": [
+        "deutscheboerse"
+      ]
+    },
+    {
+      "name": "SIX Group",
+      "category": "quant",
+      "slugs": [
+        "six-group",
+        "sixgroup"
+      ]
+    },
+    {
+      "name": "Nasdaq",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "ICE",
+      "category": "quant",
+      "slugs": [
+        "theice"
+      ]
+    },
+    {
+      "name": "CME Group",
+      "category": "quant",
+      "slugs": [
+        "cmegroup",
+        "cme"
+      ]
+    },
+    {
+      "name": "Tradeweb",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "MarketAxess",
+      "category": "quant",
+      "slugs": []
+    },
+    {
+      "name": "TP ICAP",
+      "category": "quant",
+      "slugs": [
+        "tpicap"
+      ]
+    },
+    {
+      "name": "BGC Partners",
+      "category": "quant",
+      "slugs": [
+        "bgcpartners"
+      ]
+    },
+    {
+      "name": "Kepler Cheuvreux",
+      "category": "quant",
+      "slugs": [
+        "keplercheuvreux"
+      ]
+    },
+    {
+      "name": "Jefferies",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Blackstone",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Evercore",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Lazard",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Rothschild & Co",
+      "category": "finance",
+      "slugs": [
+        "rothschild",
+        "rothschildandco"
+      ]
+    },
+    {
+      "name": "Houlihan Lokey",
+      "category": "finance",
+      "slugs": [
+        "houlihanlokey"
+      ]
+    },
+    {
+      "name": "Moelis",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "PJT Partners",
+      "category": "finance",
+      "slugs": [
+        "pjtpartners"
+      ]
+    },
+    {
+      "name": "Centerview",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Perella Weinberg",
+      "category": "finance",
+      "slugs": [
+        "pwpartners",
+        "perellaweinberg"
+      ]
+    },
+    {
+      "name": "Piper Sandler",
+      "category": "finance",
+      "slugs": [
+        "pipersandler"
+      ]
+    },
+    {
+      "name": "William Blair",
+      "category": "finance",
+      "slugs": [
+        "williamblair"
+      ]
+    },
+    {
+      "name": "Baird",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "RBC Capital Markets",
+      "category": "finance",
+      "slugs": [
+        "rbc",
+        "rbccm"
+      ]
+    },
+    {
+      "name": "Wells Fargo",
+      "category": "finance",
+      "slugs": [
+        "wellsfargo"
+      ]
+    },
+    {
+      "name": "Mizuho",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "MUFG",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "SMBC",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Santander CIB",
+      "category": "finance",
+      "slugs": [
+        "santander"
+      ]
+    },
+    {
+      "name": "Rabobank",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "ABN AMRO",
+      "category": "finance",
+      "slugs": [
+        "abnamro"
+      ]
+    },
+    {
+      "name": "Commerzbank",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Nordea",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "SEB",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Danske Bank",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Investec",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Cantor Fitzgerald",
+      "category": "finance",
+      "slugs": [
+        "cantor"
+      ]
+    },
+    {
+      "name": "Stifel",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Canaccord Genuity",
+      "category": "finance",
+      "slugs": [
+        "canaccord"
+      ]
+    },
+    {
+      "name": "Peel Hunt",
+      "category": "finance",
+      "slugs": [
+        "peelhunt"
+      ]
+    },
+    {
+      "name": "Panmure Liberum",
+      "category": "finance",
+      "slugs": [
+        "panmureliberum"
+      ]
+    },
+    {
+      "name": "Erste Group",
+      "category": "finance",
+      "slugs": [
+        "erstegroup"
+      ]
+    },
+    {
+      "name": "KBC",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Crédit Agricole CIB",
+      "category": "finance",
+      "slugs": [
+        "creditagricole",
+        "cacib"
+      ]
+    },
+    {
+      "name": "Natixis",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Julius Baer",
+      "category": "finance",
+      "slugs": [
+        "juliusbaer"
+      ]
+    },
+    {
+      "name": "Pictet",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Vontobel",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Lombard Odier",
+      "category": "finance",
+      "slugs": [
+        "lombardodier"
+      ]
+    },
+    {
+      "name": "Baillie Gifford",
+      "category": "finance",
+      "slugs": [
+        "bailliegifford"
+      ]
+    },
+    {
+      "name": "Legal & General",
+      "category": "finance",
+      "slugs": [
+        "legalandgeneral",
+        "landg"
+      ]
+    },
+    {
+      "name": "M&G",
+      "category": "finance",
+      "slugs": [
+        "mandg"
+      ]
+    },
+    {
+      "name": "abrdn",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Janus Henderson",
+      "category": "finance",
+      "slugs": [
+        "janushenderson"
+      ]
+    },
+    {
+      "name": "Insight Investment",
+      "category": "finance",
+      "slugs": [
+        "insightinvestment"
+      ]
+    },
+    {
+      "name": "PIMCO Europe",
+      "category": "finance",
+      "slugs": [
+        "pimco"
+      ]
+    },
+    {
+      "name": "Amundi",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Invesco",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Franklin Templeton",
+      "category": "finance",
+      "slugs": [
+        "franklintempleton"
+      ]
+    },
+    {
+      "name": "T. Rowe Price",
+      "category": "finance",
+      "slugs": [
+        "troweprice"
+      ]
+    },
+    {
+      "name": "Wellington Management",
+      "category": "finance",
+      "slugs": [
+        "wellington"
+      ]
+    },
+    {
+      "name": "Capital Group",
+      "category": "finance",
+      "slugs": [
+        "capitalgroup"
+      ]
+    },
+    {
+      "name": "Barings",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Columbia Threadneedle",
+      "category": "finance",
+      "slugs": [
+        "columbiathreadneedle"
+      ]
+    },
+    {
+      "name": "Jupiter",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Ninety One",
+      "category": "finance",
+      "slugs": [
+        "ninetyone"
+      ]
+    },
+    {
+      "name": "Ruffer",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Rathbones",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Quilter",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "St James's Place",
+      "category": "finance",
+      "slugs": [
+        "sjp",
+        "stjamessplace"
+      ]
+    },
+    {
+      "name": "Hargreaves Lansdown",
+      "category": "finance",
+      "slugs": [
+        "hargreaveslansdown"
+      ]
+    },
+    {
+      "name": "AJ Bell",
+      "category": "finance",
+      "slugs": [
+        "ajbell"
+      ]
+    },
+    {
+      "name": "IG Group",
+      "category": "finance",
+      "slugs": [
+        "iggroup"
+      ]
+    },
+    {
+      "name": "CMC Markets",
+      "category": "finance",
+      "slugs": [
+        "cmcmarkets"
+      ]
+    },
+    {
+      "name": "Plus500",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "eToro",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Interactive Brokers",
+      "category": "finance",
+      "slugs": [
+        "interactivebrokers"
+      ]
+    },
+    {
+      "name": "Saxo Bank",
+      "category": "finance",
+      "slugs": [
+        "saxobank"
+      ]
+    },
+    {
+      "name": "Freetrade",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Lloyd's of London",
+      "category": "finance",
+      "slugs": [
+        "lloyds"
+      ]
+    },
+    {
+      "name": "Beazley",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Hiscox",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Chubb",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "AIG",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Zurich Insurance",
+      "category": "finance",
+      "slugs": [
+        "zurich"
+      ]
+    },
+    {
+      "name": "Swiss Re",
+      "category": "finance",
+      "slugs": [
+        "swissre"
+      ]
+    },
+    {
+      "name": "Munich Re",
+      "category": "finance",
+      "slugs": [
+        "munichre"
+      ]
+    },
+    {
+      "name": "SCOR",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Aon",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "WTW",
+      "category": "finance",
+      "slugs": [
+        "willistowerswatson",
+        "wtw"
+      ]
+    },
+    {
+      "name": "Marsh McLennan",
+      "category": "finance",
+      "slugs": [
+        "mmc",
+        "marshmclennan"
+      ]
+    },
+    {
+      "name": "Gallagher",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Howden",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Grant Thornton",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "BDO",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Forvis Mazars",
+      "category": "finance",
+      "slugs": [
+        "mazars",
+        "forvismazars"
+      ]
+    },
+    {
+      "name": "RSM",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Alvarez & Marsal",
+      "category": "finance",
+      "slugs": [
+        "alvarezmarsal"
+      ]
+    },
+    {
+      "name": "FTI Consulting",
+      "category": "finance",
+      "slugs": [
+        "fticonsulting"
+      ]
+    },
+    {
+      "name": "AlixPartners",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Teneo",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "L.E.K. Consulting",
+      "category": "finance",
+      "slugs": [
+        "lek",
+        "lekconsulting"
+      ]
+    },
+    {
+      "name": "OC&C",
+      "category": "finance",
+      "slugs": [
+        "occstrategy"
+      ]
+    },
+    {
+      "name": "Frontier Economics",
+      "category": "finance",
+      "slugs": [
+        "frontiereconomics"
+      ]
+    },
+    {
+      "name": "Charles River Associates",
+      "category": "finance",
+      "slugs": [
+        "crai"
+      ]
+    },
+    {
+      "name": "NERA",
+      "category": "finance",
+      "slugs": []
+    },
+    {
+      "name": "Analysis Group",
+      "category": "finance",
+      "slugs": [
+        "analysisgroup"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+[
+  {
+    "name": "888 Holdings",
+    "category": "gaming",
+    "ats": "smartrecruiters",
+    "token": "888",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "888",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/888"
+      },
+      {
+        "ats": "careers",
+        "token": "888 Holdings",
+        "host": "https://www.888holdingsplc.com/careers/",
+        "site": "",
+        "url": "https://www.888holdingsplc.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/888",
+      "https://www.888holdingsplc.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Amber Studio",
+    "category": "gaming",
+    "ats": "workable",
+    "token": "amberstudio",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "amberstudio",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/amberstudio/"
+      },
+      {
+        "ats": "recruitee",
+        "token": "amberstudio",
+        "host": "",
+        "site": "",
+        "url": "https://amberstudio.recruitee.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Amber Studio",
+        "host": "https://amberstudio.com/careers/",
+        "site": "",
+        "url": "https://amberstudio.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/amberstudio/",
+      "https://amberstudio.recruitee.com/",
+      "https://amberstudio.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Bally's Interactive",
+    "category": "gaming",
+    "ats": "pinpoint",
+    "token": "ballys",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "ballys",
+        "host": "",
+        "site": "",
+        "url": "https://ballys.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://ballys.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Betano",
+    "category": "gaming",
+    "ats": "workable",
+    "token": "betano",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "betano",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/betano/"
+      },
+      {
+        "ats": "careers",
+        "token": "Betano",
+        "host": "https://www.betano.ro/",
+        "site": "",
+        "url": "https://www.betano.ro/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/betano/",
+      "https://www.betano.ro/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Electronic Arts",
+    "category": "gaming",
+    "ats": "workday",
+    "token": "electronicarts",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "electronicarts",
+        "host": "ea.wd5.myworkdayjobs.com",
+        "site": "EA_Careers",
+        "url": "https://ea.wd5.myworkdayjobs.com/EA_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Electronic Arts",
+        "host": "https://www.ea.com/careers",
+        "site": "",
+        "url": "https://www.ea.com/careers"
+      }
+    ],
+    "urls": [
+      "https://ea.wd5.myworkdayjobs.com/EA_Careers",
+      "https://www.ea.com/careers"
+    ],
+    "host": "ea.wd5.myworkdayjobs.com",
+    "site": "EA_Careers"
+  },
+  {
+    "name": "Epic Games",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "epicgames",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "epicgames",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/epicgames"
+      },
+      {
+        "ats": "careers",
+        "token": "Epic Games",
+        "host": "https://www.epicgames.com/site/en-US/careers",
+        "site": "",
+        "url": "https://www.epicgames.com/site/en-US/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/epicgames",
+      "https://www.epicgames.com/site/en-US/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Evolution",
+    "category": "gaming",
+    "ats": "workable",
+    "token": "evolution",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "evolution",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/evolution/"
+      },
+      {
+        "ats": "careers",
+        "token": "Evolution",
+        "host": "https://www.evolution.com/careers/",
+        "site": "",
+        "url": "https://www.evolution.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/evolution/",
+      "https://www.evolution.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Fortis Games",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "fortisgames",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "fortisgames",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/fortisgames"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/fortisgames"
+    ]
+  },
+  {
+    "name": "Gameloft",
+    "category": "gaming",
+    "ats": "smartrecruiters",
+    "token": "Gameloft",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Gameloft",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Gameloft"
+      },
+      {
+        "ats": "workable",
+        "token": "gameloft",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/gameloft/"
+      },
+      {
+        "ats": "careers",
+        "token": "Gameloft",
+        "host": "https://www.gameloft.com/corporate/jobs",
+        "site": "",
+        "url": "https://www.gameloft.com/corporate/jobs"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Gameloft",
+      "https://apply.workable.com/gameloft/",
+      "https://www.gameloft.com/corporate/jobs"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kaizen Gaming",
+    "category": "gaming",
+    "ats": "workable",
+    "token": "kaizengaming",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "kaizengaming",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/kaizengaming/"
+      },
+      {
+        "ats": "careers",
+        "token": "Kaizen Gaming",
+        "host": "https://kaizengaming.com/careers/",
+        "site": "",
+        "url": "https://kaizengaming.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/kaizengaming/",
+      "https://kaizengaming.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kindred",
+    "category": "gaming",
+    "ats": "workday",
+    "token": "kindred",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "kindred",
+        "host": "kindredgroup.wd3.myworkdayjobs.com",
+        "site": "Kindred",
+        "url": "https://kindredgroup.wd3.myworkdayjobs.com/Kindred"
+      },
+      {
+        "ats": "careers",
+        "token": "Kindred",
+        "host": "https://www.kindredgroup.com/careers/",
+        "site": "",
+        "url": "https://www.kindredgroup.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://kindredgroup.wd3.myworkdayjobs.com/Kindred",
+      "https://www.kindredgroup.com/careers/"
+    ],
+    "host": "kindredgroup.wd3.myworkdayjobs.com",
+    "site": "Kindred"
+  },
+  {
+    "name": "King",
+    "category": "gaming",
+    "ats": "workday",
+    "token": "king",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "king",
+        "host": "king.wd3.myworkdayjobs.com",
+        "site": "King",
+        "url": "https://king.wd3.myworkdayjobs.com/King"
+      },
+      {
+        "ats": "careers",
+        "token": "King",
+        "host": "https://careers.king.com/",
+        "site": "",
+        "url": "https://careers.king.com/"
+      }
+    ],
+    "urls": [
+      "https://king.wd3.myworkdayjobs.com/King",
+      "https://careers.king.com/"
+    ],
+    "host": "king.wd3.myworkdayjobs.com",
+    "site": "King"
+  },
+  {
+    "name": "MaxBet",
+    "category": "gaming",
+    "ats": "workable",
+    "token": "maxbet",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "maxbet",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/maxbet/"
+      },
+      {
+        "ats": "careers",
+        "token": "MaxBet",
+        "host": "https://www.maxbet.ro/",
+        "site": "",
+        "url": "https://www.maxbet.ro/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/maxbet/",
+      "https://www.maxbet.ro/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Playtech",
+    "category": "gaming",
+    "ats": "smartrecruiters",
+    "token": "Playtech",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Playtech",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Playtech"
+      },
+      {
+        "ats": "careers",
+        "token": "Playtech",
+        "host": "https://www.playtech.com/careers/",
+        "site": "",
+        "url": "https://www.playtech.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Playtech",
+      "https://www.playtech.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Playtika",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "playtika",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "playtika",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/playtika"
+      },
+      {
+        "ats": "careers",
+        "token": "Playtika",
+        "host": "https://www.playtika.com/careers/",
+        "site": "",
+        "url": "https://www.playtika.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/playtika",
+      "https://www.playtika.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Pragmatic Play",
+    "category": "gaming",
+    "ats": "teamtailor",
+    "token": "pragmatic",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "pragmatic",
+        "host": "",
+        "site": "",
+        "url": "https://pragmatic.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://pragmatic.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Riot Games",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "riotgames",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "riotgames",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/riotgames"
+      },
+      {
+        "ats": "careers",
+        "token": "Riot Games",
+        "host": "https://www.riotgames.com/en/work-with-us",
+        "site": "",
+        "url": "https://www.riotgames.com/en/work-with-us"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/riotgames",
+      "https://www.riotgames.com/en/work-with-us"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Roblox",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "roblox",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "roblox",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/roblox"
+      },
+      {
+        "ats": "careers",
+        "token": "Roblox",
+        "host": "https://careers.roblox.com/",
+        "site": "",
+        "url": "https://careers.roblox.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/roblox",
+      "https://careers.roblox.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Soft2Bet",
+    "category": "gaming",
+    "ats": "lever",
+    "token": "soft2bet",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "soft2bet",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/soft2bet"
+      },
+      {
+        "ats": "careers",
+        "token": "Soft2Bet",
+        "host": "https://soft2bet.com/careers/",
+        "site": "",
+        "url": "https://soft2bet.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/soft2bet",
+      "https://soft2bet.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Sportradar",
+    "category": "gaming",
+    "ats": "breezy",
+    "token": "sportradar",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "breezy",
+        "token": "sportradar",
+        "host": "",
+        "site": "",
+        "url": "https://sportradar.breezy.hr/"
+      }
+    ],
+    "urls": [
+      "https://sportradar.breezy.hr/"
+    ]
+  },
+  {
+    "name": "Stillfront",
+    "category": "gaming",
+    "ats": "greenhouse",
+    "token": "stillfront",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "stillfront",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/stillfront"
+      },
+      {
+        "ats": "careers",
+        "token": "Stillfront",
+        "host": "https://stillfront.com/en/career/",
+        "site": "",
+        "url": "https://stillfront.com/en/career/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/stillfront",
+      "https://stillfront.com/en/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Ubisoft",
+    "category": "gaming",
+    "ats": "workday",
+    "token": "ubisoft",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "ubisoft",
+        "host": "ubisoft.wd3.myworkdayjobs.com",
+        "site": "UbiCareers",
+        "url": "https://ubisoft.wd3.myworkdayjobs.com/UbiCareers"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Ubisoft",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Ubisoft"
+      },
+      {
+        "ats": "careers",
+        "token": "Ubisoft",
+        "host": "https://www.ubisoft.com/en-us/company/careers",
+        "site": "",
+        "url": "https://www.ubisoft.com/en-us/company/careers"
+      }
+    ],
+    "urls": [
+      "https://ubisoft.wd3.myworkdayjobs.com/UbiCareers",
+      "https://careers.smartrecruiters.com/Ubisoft",
+      "https://www.ubisoft.com/en-us/company/careers"
+    ],
+    "host": "ubisoft.wd3.myworkdayjobs.com",
+    "site": "UbiCareers"
+  },
+  {
+    "name": "Unity",
+    "category": "gaming",
+    "ats": "careers",
+    "token": "unity",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "unity",
+        "host": "https://careers.unity.com/",
+        "site": "",
+        "url": "https://careers.unity.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Unity",
+        "host": "https://careers.unity.com/",
+        "site": "",
+        "url": "https://careers.unity.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.unity.com",
+      "https://careers.unity.com/"
+    ],
+    "host": "https://careers.unity.com/",
+    "site": ""
+  }
+]

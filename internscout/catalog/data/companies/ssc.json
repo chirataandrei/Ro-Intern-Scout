@@ -1,0 +1,2602 @@
+[
+  {
+    "name": "3Pillar Global",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "3pillarglobal",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "3pillarglobal",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/3pillarglobal"
+      },
+      {
+        "ats": "careers",
+        "token": "3Pillar Global",
+        "host": "https://www.3pillarglobal.com/careers/",
+        "site": "",
+        "url": "https://www.3pillarglobal.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/3pillarglobal",
+      "https://www.3pillarglobal.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Accenture",
+    "category": "ssc",
+    "ats": "workday",
+    "token": "accenture",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "accenture",
+        "host": "accenture.wd1.myworkdayjobs.com",
+        "site": "AccentureCareers",
+        "url": "https://accenture.wd1.myworkdayjobs.com/AccentureCareers"
+      },
+      {
+        "ats": "personio",
+        "token": "accenture",
+        "host": "",
+        "site": "",
+        "url": "https://accenture.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Accenture",
+        "host": "https://www.accenture.com/careers",
+        "site": "",
+        "url": "https://www.accenture.com/careers"
+      }
+    ],
+    "urls": [
+      "https://accenture.wd1.myworkdayjobs.com/AccentureCareers",
+      "https://accenture.jobs.personio.com/",
+      "https://www.accenture.com/careers"
+    ],
+    "host": "accenture.wd1.myworkdayjobs.com",
+    "site": "AccentureCareers"
+  },
+  {
+    "name": "Accesa",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Accesa",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Accesa",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Accesa"
+      },
+      {
+        "ats": "careers",
+        "token": "Accesa",
+        "host": "https://www.accesa.eu/careers",
+        "site": "",
+        "url": "https://www.accesa.eu/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Accesa",
+      "https://www.accesa.eu/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "adesso",
+    "category": "ssc",
+    "ats": "recruitee",
+    "token": "adesso",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "adesso",
+        "host": "",
+        "site": "",
+        "url": "https://adesso.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://adesso.recruitee.com/"
+    ]
+  },
+  {
+    "name": "ADP",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "ADP",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "ADP",
+        "host": "https://jobs.adp.com/en/",
+        "site": "",
+        "url": "https://jobs.adp.com/en/"
+      }
+    ],
+    "urls": [
+      "https://jobs.adp.com/en/"
+    ],
+    "host": "https://jobs.adp.com/en/",
+    "site": ""
+  },
+  {
+    "name": "AKKA",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "AKKA",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "AKKA",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/AKKA"
+      },
+      {
+        "ats": "careers",
+        "token": "AKKA",
+        "host": "https://www.akkamc.com/careers",
+        "site": "",
+        "url": "https://www.akkamc.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/AKKA",
+      "https://www.akkamc.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Alten",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Alten",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Alten",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Alten"
+      },
+      {
+        "ats": "workable",
+        "token": "alten",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/alten/"
+      },
+      {
+        "ats": "careers",
+        "token": "Alten",
+        "host": "https://www.alten.com/careers/",
+        "site": "",
+        "url": "https://www.alten.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Alten",
+      "https://apply.workable.com/alten/",
+      "https://www.alten.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Amdocs",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "Amdocs",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "Amdocs",
+        "host": "https://jobs.amdocs.com/careers",
+        "site": "",
+        "url": "https://jobs.amdocs.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Amdocs",
+        "host": "https://www.amdocs.com/careers",
+        "site": "",
+        "url": "https://www.amdocs.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.amdocs.com/careers",
+      "https://www.amdocs.com/careers"
+    ],
+    "host": "https://jobs.amdocs.com/careers",
+    "site": ""
+  },
+  {
+    "name": "AROBS",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "arobs",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "arobs",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/arobs/"
+      },
+      {
+        "ats": "careers",
+        "token": "AROBS",
+        "host": "https://arobs.com/careers-at-arobs/",
+        "site": "",
+        "url": "https://arobs.com/careers-at-arobs/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/arobs/",
+      "https://arobs.com/careers-at-arobs/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Assist Software",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "assistsoftware",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "assistsoftware",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/assistsoftware"
+      },
+      {
+        "ats": "recruitee",
+        "token": "assist",
+        "host": "",
+        "site": "",
+        "url": "https://assist.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/assistsoftware",
+      "https://assist.recruitee.com/"
+    ]
+  },
+  {
+    "name": "Azimut",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "azimut",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "azimut",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/azimut/"
+      },
+      {
+        "ats": "careers",
+        "token": "Azimut",
+        "host": "https://www.azimut-advantage.com/careers",
+        "site": "",
+        "url": "https://www.azimut-advantage.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/azimut/",
+      "https://www.azimut-advantage.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Bain",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "bain",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "bain",
+        "host": "https://www.bain.com/careers/",
+        "site": "",
+        "url": "https://www.bain.com/careers"
+      },
+      {
+        "ats": "careers",
+        "token": "Bain",
+        "host": "https://www.bain.com/careers/",
+        "site": "",
+        "url": "https://www.bain.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://www.bain.com/careers",
+      "https://www.bain.com/careers/"
+    ],
+    "host": "https://www.bain.com/careers/",
+    "site": ""
+  },
+  {
+    "name": "BCG",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "bcg",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "bcg",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bcg"
+      },
+      {
+        "ats": "careers",
+        "token": "BCG",
+        "host": "https://careers.bcg.com/",
+        "site": "",
+        "url": "https://careers.bcg.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/bcg",
+      "https://careers.bcg.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "BearingPoint",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "bearingpoint",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "bearingpoint",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bearingpoint"
+      },
+      {
+        "ats": "careers",
+        "token": "BearingPoint",
+        "host": "https://www.bearingpoint.com/en/careers/",
+        "site": "",
+        "url": "https://www.bearingpoint.com/en/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/bearingpoint",
+      "https://www.bearingpoint.com/en/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Capgemini",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Capgemini",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Capgemini",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Capgemini"
+      },
+      {
+        "ats": "personio",
+        "token": "capgemini",
+        "host": "",
+        "site": "",
+        "url": "https://capgemini.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Capgemini",
+        "host": "https://www.capgemini.com/careers/",
+        "site": "",
+        "url": "https://www.capgemini.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Capgemini",
+      "https://capgemini.jobs.personio.com/",
+      "https://www.capgemini.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Cegedim",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Cegedim",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Cegedim",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Cegedim"
+      },
+      {
+        "ats": "careers",
+        "token": "Cegedim",
+        "host": "https://www.cegedim.com/careers",
+        "site": "",
+        "url": "https://www.cegedim.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Cegedim",
+      "https://www.cegedim.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Cegeka",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Cegeka",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Cegeka",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Cegeka"
+      },
+      {
+        "ats": "workable",
+        "token": "cegeka",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/cegeka/"
+      },
+      {
+        "ats": "careers",
+        "token": "Cegeka",
+        "host": "https://www.cegeka.com/en/careers",
+        "site": "",
+        "url": "https://www.cegeka.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Cegeka",
+      "https://apply.workable.com/cegeka/",
+      "https://www.cegeka.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Centric IT Solutions",
+    "category": "ssc",
+    "ats": "recruitee",
+    "token": "centric",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "centric",
+        "host": "",
+        "site": "",
+        "url": "https://centric.recruitee.com/"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "centric",
+        "host": "",
+        "site": "",
+        "url": "https://centric.bamboohr.com/careers"
+      },
+      {
+        "ats": "rippling",
+        "token": "centric",
+        "host": "",
+        "site": "",
+        "url": "https://ats.rippling.com/centric/jobs"
+      }
+    ],
+    "urls": [
+      "https://centric.recruitee.com/",
+      "https://centric.bamboohr.com/careers",
+      "https://ats.rippling.com/centric/jobs"
+    ]
+  },
+  {
+    "name": "CGI",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "cgi",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "cgi",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/cgi/"
+      },
+      {
+        "ats": "careers",
+        "token": "CGI",
+        "host": "https://www.cgi.com/en/careers",
+        "site": "",
+        "url": "https://www.cgi.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/cgi/",
+      "https://www.cgi.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Ciklum",
+    "category": "ssc",
+    "ats": "pinpoint",
+    "token": "ciklum",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "ciklum",
+        "host": "",
+        "site": "",
+        "url": "https://ciklum.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://ciklum.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Codezilla",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "codezilla",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "codezilla",
+        "host": "https://codezilla.ro/careers",
+        "site": "",
+        "url": "https://codezilla.ro/careers"
+      }
+    ],
+    "urls": [
+      "https://codezilla.ro/careers"
+    ],
+    "host": "https://codezilla.ro/careers",
+    "site": ""
+  },
+  {
+    "name": "Cognizant",
+    "category": "ssc",
+    "ats": "workday",
+    "token": "cognizant",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "cognizant",
+        "host": "cognizant.wd3.myworkdayjobs.com",
+        "site": "Cognizant_Careers",
+        "url": "https://cognizant.wd3.myworkdayjobs.com/Cognizant_Careers"
+      },
+      {
+        "ats": "personio",
+        "token": "cognizant",
+        "host": "",
+        "site": "",
+        "url": "https://cognizant.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Cognizant",
+        "host": "https://careers.cognizant.com/",
+        "site": "",
+        "url": "https://careers.cognizant.com/"
+      }
+    ],
+    "urls": [
+      "https://cognizant.wd3.myworkdayjobs.com/Cognizant_Careers",
+      "https://cognizant.jobs.personio.com/",
+      "https://careers.cognizant.com/"
+    ],
+    "host": "cognizant.wd3.myworkdayjobs.com",
+    "site": "Cognizant_Careers"
+  },
+  {
+    "name": "Computacenter",
+    "category": "ssc",
+    "ats": "successfactors",
+    "token": "computacenter",
+    "sites": [
+      {
+        "ats": "successfactors",
+        "token": "computacenter",
+        "host": "https://jobs.computacenter.com/",
+        "site": "",
+        "url": "https://jobs.computacenter.com/"
+      }
+    ],
+    "urls": [
+      "https://jobs.computacenter.com/"
+    ],
+    "host": "https://jobs.computacenter.com/",
+    "site": ""
+  },
+  {
+    "name": "Conduent",
+    "category": "ssc",
+    "ats": "breezy",
+    "token": "conduent",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "breezy",
+        "token": "conduent",
+        "host": "",
+        "site": "",
+        "url": "https://conduent.breezy.hr/"
+      }
+    ],
+    "urls": [
+      "https://conduent.breezy.hr/"
+    ]
+  },
+  {
+    "name": "Crossover",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "crossover",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "crossover",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/crossover/"
+      },
+      {
+        "ats": "careers",
+        "token": "Crossover",
+        "host": "https://www.crossover.com/jobs",
+        "site": "",
+        "url": "https://www.crossover.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/crossover/",
+      "https://www.crossover.com/jobs"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Deloitte",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Deloitte",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Deloitte",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Deloitte"
+      },
+      {
+        "ats": "careers",
+        "token": "Deloitte",
+        "host": "https://www.deloitte.com/ro/en/careers.html",
+        "site": "",
+        "url": "https://www.deloitte.com/ro/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Deloitte",
+      "https://www.deloitte.com/ro/en/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "DXC",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "dxc",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "dxc",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/dxc/"
+      },
+      {
+        "ats": "careers",
+        "token": "DXC",
+        "host": "https://careers.dxc.com/",
+        "site": "",
+        "url": "https://careers.dxc.com/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/dxc/",
+      "https://careers.dxc.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "ELEKS",
+    "category": "ssc",
+    "ats": "lever",
+    "token": "eleks",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "eleks",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/eleks"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/eleks"
+    ]
+  },
+  {
+    "name": "Endava",
+    "category": "ssc",
+    "ats": "workday",
+    "token": "endava",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "endava",
+        "host": "endava.wd3.myworkdayjobs.com",
+        "site": "Endava_Careers",
+        "url": "https://endava.wd3.myworkdayjobs.com/Endava_Careers"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "endava",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/endava"
+      },
+      {
+        "ats": "personio",
+        "token": "endava",
+        "host": "",
+        "site": "",
+        "url": "https://endava.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Endava",
+        "host": "https://www.endava.com/careers",
+        "site": "",
+        "url": "https://www.endava.com/careers"
+      }
+    ],
+    "urls": [
+      "https://endava.wd3.myworkdayjobs.com/Endava_Careers",
+      "https://job-boards.greenhouse.io/endava",
+      "https://endava.jobs.personio.com/",
+      "https://www.endava.com/careers"
+    ],
+    "host": "endava.wd3.myworkdayjobs.com",
+    "site": "Endava_Careers"
+  },
+  {
+    "name": "EPAM",
+    "category": "ssc",
+    "ats": "workday",
+    "token": "epam",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "epam",
+        "host": "epam.wd5.myworkdayjobs.com",
+        "site": "EPAM_Careers",
+        "url": "https://epam.wd5.myworkdayjobs.com/EPAM_Careers"
+      },
+      {
+        "ats": "personio",
+        "token": "epam",
+        "host": "",
+        "site": "",
+        "url": "https://epam.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "EPAM",
+        "host": "https://www.epam.com/careers",
+        "site": "",
+        "url": "https://www.epam.com/careers"
+      }
+    ],
+    "urls": [
+      "https://epam.wd5.myworkdayjobs.com/EPAM_Careers",
+      "https://epam.jobs.personio.com/",
+      "https://www.epam.com/careers"
+    ],
+    "host": "epam.wd5.myworkdayjobs.com",
+    "site": "EPAM_Careers"
+  },
+  {
+    "name": "Eviden",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Eviden",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Eviden",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Eviden"
+      },
+      {
+        "ats": "careers",
+        "token": "Eviden",
+        "host": "https://eviden.com/careers/",
+        "site": "",
+        "url": "https://eviden.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Eviden",
+      "https://eviden.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "EY",
+    "category": "ssc",
+    "ats": "workday",
+    "token": "ey",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "ey",
+        "host": "ey.wd3.myworkdayjobs.com",
+        "site": "EY_Careers",
+        "url": "https://ey.wd3.myworkdayjobs.com/EY_Careers"
+      },
+      {
+        "ats": "careers",
+        "token": "EY",
+        "host": "https://careers.ey.com/",
+        "site": "",
+        "url": "https://careers.ey.com/"
+      }
+    ],
+    "urls": [
+      "https://ey.wd3.myworkdayjobs.com/EY_Careers",
+      "https://careers.ey.com/"
+    ],
+    "host": "ey.wd3.myworkdayjobs.com",
+    "site": "EY_Careers"
+  },
+  {
+    "name": "Fortech",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "fortech",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "fortech",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/fortech/"
+      },
+      {
+        "ats": "recruitee",
+        "token": "fortech",
+        "host": "",
+        "site": "",
+        "url": "https://fortech.recruitee.com/"
+      },
+      {
+        "ats": "personio",
+        "token": "fortech",
+        "host": "",
+        "site": "",
+        "url": "https://fortech.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Fortech",
+        "host": "https://www.fortech.ro/careers/",
+        "site": "",
+        "url": "https://www.fortech.ro/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/fortech/",
+      "https://fortech.recruitee.com/",
+      "https://fortech.jobs.personio.com/",
+      "https://www.fortech.ro/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Foundever",
+    "category": "ssc",
+    "ats": "bamboohr",
+    "token": "foundever",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "foundever",
+        "host": "",
+        "site": "",
+        "url": "https://foundever.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://foundever.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Fujitsu",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "fujitsu",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "fujitsu",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/fujitsu/"
+      },
+      {
+        "ats": "careers",
+        "token": "Fujitsu",
+        "host": "https://www.fujitsu.com/global/about/careers/",
+        "site": "",
+        "url": "https://www.fujitsu.com/global/about/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/fujitsu/",
+      "https://www.fujitsu.com/global/about/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Genpact",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Genpact",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Genpact",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Genpact"
+      },
+      {
+        "ats": "personio",
+        "token": "genpact",
+        "host": "",
+        "site": "",
+        "url": "https://genpact.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Genpact",
+        "host": "https://www.genpact.com/careers",
+        "site": "",
+        "url": "https://www.genpact.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Genpact",
+      "https://genpact.jobs.personio.com/",
+      "https://www.genpact.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "GFT",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "gft",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "gft",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/gft/"
+      },
+      {
+        "ats": "careers",
+        "token": "GFT",
+        "host": "https://www.gft.com/int/en/careers",
+        "site": "",
+        "url": "https://www.gft.com/int/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/gft/",
+      "https://www.gft.com/int/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Globant",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Globant",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Globant",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Globant"
+      },
+      {
+        "ats": "personio",
+        "token": "globant",
+        "host": "",
+        "site": "",
+        "url": "https://globant.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Globant",
+        "host": "https://www.globant.com/careers",
+        "site": "",
+        "url": "https://www.globant.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Globant",
+      "https://globant.jobs.personio.com/",
+      "https://www.globant.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Grid Dynamics",
+    "category": "ssc",
+    "ats": "bamboohr",
+    "token": "griddynamics",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "griddynamics",
+        "host": "",
+        "site": "",
+        "url": "https://griddynamics.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://griddynamics.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Halcyon Mobile",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "halcyon",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "halcyon",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/halcyon"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/halcyon"
+    ]
+  },
+  {
+    "name": "HCLTech",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "HCLTech",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "HCLTech",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/HCLTech"
+      },
+      {
+        "ats": "personio",
+        "token": "hcltech",
+        "host": "",
+        "site": "",
+        "url": "https://hcltech.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "HCLTech",
+        "host": "https://www.hcltech.com/careers",
+        "site": "",
+        "url": "https://www.hcltech.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/HCLTech",
+      "https://hcltech.jobs.personio.com/",
+      "https://www.hcltech.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Infosys",
+    "category": "ssc",
+    "ats": "workday",
+    "token": "infosys",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "infosys",
+        "host": "infosys.wd3.myworkdayjobs.com",
+        "site": "Infosys_Careers",
+        "url": "https://infosys.wd3.myworkdayjobs.com/Infosys_Careers"
+      },
+      {
+        "ats": "personio",
+        "token": "infosys",
+        "host": "",
+        "site": "",
+        "url": "https://infosys.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Infosys",
+        "host": "https://www.infosys.com/careers/",
+        "site": "",
+        "url": "https://www.infosys.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://infosys.wd3.myworkdayjobs.com/Infosys_Careers",
+      "https://infosys.jobs.personio.com/",
+      "https://www.infosys.com/careers/"
+    ],
+    "host": "infosys.wd3.myworkdayjobs.com",
+    "site": "Infosys_Careers"
+  },
+  {
+    "name": "iQuest",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "iquest",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "iquest",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/iquest/"
+      },
+      {
+        "ats": "careers",
+        "token": "iQuest",
+        "host": "https://www.iquestgroup.com/careers/",
+        "site": "",
+        "url": "https://www.iquestgroup.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/iquest/",
+      "https://www.iquestgroup.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "IQVIA",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "IQVIA",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "IQVIA",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/IQVIA"
+      },
+      {
+        "ats": "careers",
+        "token": "IQVIA",
+        "host": "https://jobs.iqvia.com/",
+        "site": "",
+        "url": "https://jobs.iqvia.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/IQVIA",
+      "https://jobs.iqvia.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "ISDC",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "isdc",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "isdc",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/isdc/"
+      },
+      {
+        "ats": "recruitee",
+        "token": "isdc",
+        "host": "",
+        "site": "",
+        "url": "https://isdc.recruitee.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "ISDC",
+        "host": "https://www.isdc.eu/careers/",
+        "site": "",
+        "url": "https://www.isdc.eu/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/isdc/",
+      "https://isdc.recruitee.com/",
+      "https://www.isdc.eu/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kaufland",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Kaufland",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Kaufland",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Kaufland"
+      },
+      {
+        "ats": "careers",
+        "token": "Kaufland",
+        "host": "https://cariere.kaufland.ro/",
+        "site": "",
+        "url": "https://cariere.kaufland.ro/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Kaufland",
+      "https://cariere.kaufland.ro/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kearney",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "kearney",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "kearney",
+        "host": "https://www.kearney.com/careers",
+        "site": "",
+        "url": "https://www.kearney.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.kearney.com/careers"
+    ],
+    "host": "https://www.kearney.com/careers",
+    "site": ""
+  },
+  {
+    "name": "KPMG",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "KPMG",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "KPMG",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/KPMG"
+      },
+      {
+        "ats": "careers",
+        "token": "KPMG",
+        "host": "https://kpmg.com/ro/en/home/careers.html",
+        "site": "",
+        "url": "https://kpmg.com/ro/en/home/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/KPMG",
+      "https://kpmg.com/ro/en/home/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kyndryl",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "kyndryl",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "kyndryl",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/kyndryl/"
+      },
+      {
+        "ats": "careers",
+        "token": "Kyndryl",
+        "host": "https://www.kyndryl.com/careers",
+        "site": "",
+        "url": "https://www.kyndryl.com/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/kyndryl/",
+      "https://www.kyndryl.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Lidl",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Lidl",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Lidl",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Lidl"
+      },
+      {
+        "ats": "careers",
+        "token": "Lidl",
+        "host": "https://cariere.lidl.ro/",
+        "site": "",
+        "url": "https://cariere.lidl.ro/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Lidl",
+      "https://cariere.lidl.ro/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Luxoft",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Luxoft",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Luxoft",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Luxoft"
+      },
+      {
+        "ats": "workable",
+        "token": "luxoft",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/luxoft/"
+      },
+      {
+        "ats": "personio",
+        "token": "luxoft",
+        "host": "",
+        "site": "",
+        "url": "https://luxoft.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Luxoft",
+        "host": "https://career.luxoft.com/",
+        "site": "",
+        "url": "https://career.luxoft.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Luxoft",
+      "https://apply.workable.com/luxoft/",
+      "https://luxoft.jobs.personio.com/",
+      "https://career.luxoft.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "McKinsey",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "mckinsey",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "mckinsey",
+        "host": "https://www.mckinsey.com/careers",
+        "site": "",
+        "url": "https://www.mckinsey.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.mckinsey.com/careers"
+    ],
+    "host": "https://www.mckinsey.com/careers",
+    "site": ""
+  },
+  {
+    "name": "METRO.digital",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "METROdigital",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "METROdigital",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/METROdigital"
+      },
+      {
+        "ats": "careers",
+        "token": "METRO.digital",
+        "host": "https://digital.metro.global/career/",
+        "site": "",
+        "url": "https://digital.metro.global/career/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/METROdigital",
+      "https://digital.metro.global/career/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "MHP",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "MHP",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "MHP",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/MHP"
+      },
+      {
+        "ats": "careers",
+        "token": "MHP",
+        "host": "https://www.mhp.com/en/career",
+        "site": "",
+        "url": "https://www.mhp.com/en/career"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/MHP",
+      "https://www.mhp.com/en/career"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Mindera",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "mindera",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "mindera",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/mindera"
+      },
+      {
+        "ats": "careers",
+        "token": "Mindera",
+        "host": "https://mindera.com/careers/",
+        "site": "",
+        "url": "https://mindera.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/mindera",
+      "https://mindera.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Modex",
+    "category": "ssc",
+    "ats": "lever",
+    "token": "modex",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "modex",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/modex"
+      },
+      {
+        "ats": "careers",
+        "token": "Modex",
+        "host": "https://modex.tech/careers/",
+        "site": "",
+        "url": "https://modex.tech/careers/"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/modex",
+      "https://modex.tech/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Modus Create",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "moduscreate",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "moduscreate",
+        "host": "https://moduscreate.com/careers/",
+        "site": "",
+        "url": "https://moduscreate.com/careers"
+      }
+    ],
+    "urls": [
+      "https://moduscreate.com/careers"
+    ],
+    "host": "https://moduscreate.com/careers/",
+    "site": ""
+  },
+  {
+    "name": "msg systems",
+    "category": "ssc",
+    "ats": "jazzhr",
+    "token": "msg",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "jazzhr",
+        "token": "msg",
+        "host": "",
+        "site": "",
+        "url": "https://msg.applytojob.com/"
+      }
+    ],
+    "urls": [
+      "https://msg.applytojob.com/"
+    ]
+  },
+  {
+    "name": "N-iX",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "nix",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "nix",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/nix"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "nix",
+        "host": "",
+        "site": "",
+        "url": "https://nix.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/nix",
+      "https://nix.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Nagarro",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "nagarro",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "nagarro",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/nagarro/"
+      },
+      {
+        "ats": "smartrecruiters",
+        "token": "Nagarro",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Nagarro"
+      },
+      {
+        "ats": "careers",
+        "token": "Nagarro",
+        "host": "https://www.nagarro.com/en/careers",
+        "site": "",
+        "url": "https://www.nagarro.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/nagarro/",
+      "https://careers.smartrecruiters.com/Nagarro",
+      "https://www.nagarro.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Ness Digital",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Ness",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Ness",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Ness"
+      },
+      {
+        "ats": "careers",
+        "token": "Ness Digital",
+        "host": "https://www.ness.com/careers/",
+        "site": "",
+        "url": "https://www.ness.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Ness",
+      "https://www.ness.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "NTT DATA",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "NTTDATA",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "NTTDATA",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/NTTDATA"
+      },
+      {
+        "ats": "workable",
+        "token": "nttdata",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/nttdata/"
+      },
+      {
+        "ats": "personio",
+        "token": "nttdata",
+        "host": "",
+        "site": "",
+        "url": "https://nttdata.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "NTT DATA",
+        "host": "https://careers.nttdata.com/",
+        "site": "",
+        "url": "https://careers.nttdata.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/NTTDATA",
+      "https://apply.workable.com/nttdata/",
+      "https://nttdata.jobs.personio.com/",
+      "https://careers.nttdata.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Nuvei",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "nuvei",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "nuvei",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/nuvei/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/nuvei/"
+    ]
+  },
+  {
+    "name": "Oliver Wyman",
+    "category": "ssc",
+    "ats": "lever",
+    "token": "oliverwyman",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "oliverwyman",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/oliverwyman"
+      },
+      {
+        "ats": "careers",
+        "token": "Oliver Wyman",
+        "host": "https://www.oliverwyman.com/careers.html",
+        "site": "",
+        "url": "https://www.oliverwyman.com/careers.html"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/oliverwyman",
+      "https://www.oliverwyman.com/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Penny Romania",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Penny",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Penny",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Penny"
+      },
+      {
+        "ats": "careers",
+        "token": "Penny Romania",
+        "host": "https://www.penny.ro/cariere",
+        "site": "",
+        "url": "https://www.penny.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Penny",
+      "https://www.penny.ro/cariere"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Pentalog",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Pentalog",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Pentalog",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Pentalog"
+      },
+      {
+        "ats": "careers",
+        "token": "Pentalog",
+        "host": "https://www.pentalog.com/careers/",
+        "site": "",
+        "url": "https://www.pentalog.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Pentalog",
+      "https://www.pentalog.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "PitechPlus",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "pitechplus",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "pitechplus",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/pitechplus/"
+      },
+      {
+        "ats": "recruitee",
+        "token": "pitechplus",
+        "host": "",
+        "site": "",
+        "url": "https://pitechplus.recruitee.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "PitechPlus",
+        "host": "https://pitechplus.com/careers/",
+        "site": "",
+        "url": "https://pitechplus.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/pitechplus/",
+      "https://pitechplus.recruitee.com/",
+      "https://pitechplus.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Publicis Sapient",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "publicissapient",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "publicissapient",
+        "host": "https://careers.publicissapient.com/",
+        "site": "",
+        "url": "https://careers.publicissapient.com"
+      },
+      {
+        "ats": "careers",
+        "token": "Publicis Sapient",
+        "host": "https://careers.publicissapient.com/",
+        "site": "",
+        "url": "https://careers.publicissapient.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.publicissapient.com",
+      "https://careers.publicissapient.com/"
+    ],
+    "host": "https://careers.publicissapient.com/",
+    "site": ""
+  },
+  {
+    "name": "PwC",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "PwC",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "PwC",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/PwC"
+      },
+      {
+        "ats": "careers",
+        "token": "PwC",
+        "host": "https://www.pwc.com/ro/en/careers.html",
+        "site": "",
+        "url": "https://www.pwc.com/ro/en/careers.html"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/PwC",
+      "https://www.pwc.com/ro/en/careers.html"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Reply",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "reply",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "reply",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/reply/"
+      },
+      {
+        "ats": "careers",
+        "token": "Reply",
+        "host": "https://www.reply.com/en/careers",
+        "site": "",
+        "url": "https://www.reply.com/en/careers"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/reply/",
+      "https://www.reply.com/en/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Rinf",
+    "category": "ssc",
+    "ats": "recruitee",
+    "token": "rinftech",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "rinftech",
+        "host": "",
+        "site": "",
+        "url": "https://rinftech.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://rinftech.recruitee.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Rinf.tech",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "rinftech",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "rinftech",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/rinftech/"
+      },
+      {
+        "ats": "careers",
+        "token": "Rinf.tech",
+        "host": "https://www.rinf.tech/careers/",
+        "site": "",
+        "url": "https://www.rinf.tech/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/rinftech/",
+      "https://www.rinf.tech/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Roland Berger",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "RolandBerger",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "RolandBerger",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/RolandBerger"
+      },
+      {
+        "ats": "careers",
+        "token": "Roland Berger",
+        "host": "https://www.rolandberger.com/en/Join/",
+        "site": "",
+        "url": "https://www.rolandberger.com/en/Join/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/RolandBerger",
+      "https://www.rolandberger.com/en/Join/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Roweb",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "roweb",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "roweb",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/roweb/"
+      },
+      {
+        "ats": "careers",
+        "token": "Roweb",
+        "host": "https://www.roweb.ro/careers/",
+        "site": "",
+        "url": "https://www.roweb.ro/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/roweb/",
+      "https://www.roweb.ro/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "SCC Services Romania",
+    "category": "ssc",
+    "ats": "pinpoint",
+    "token": "scc",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "scc",
+        "host": "",
+        "site": "",
+        "url": "https://scc.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://scc.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Segula",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "SEGULA",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SEGULA",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SEGULA"
+      },
+      {
+        "ats": "careers",
+        "token": "Segula",
+        "host": "https://www.segulatechnologies.com/en/join-us/",
+        "site": "",
+        "url": "https://www.segulatechnologies.com/en/join-us/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SEGULA",
+      "https://www.segulatechnologies.com/en/join-us/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Sigma Software",
+    "category": "ssc",
+    "ats": "teamtailor",
+    "token": "sigma",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "sigma",
+        "host": "",
+        "site": "",
+        "url": "https://sigma.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://sigma.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "SII",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "SII",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SII",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SII"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SII"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "SoftServe",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "SoftServe",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "SoftServe",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/SoftServe"
+      },
+      {
+        "ats": "careers",
+        "token": "SoftServe",
+        "host": "https://career.softserveinc.com/",
+        "site": "",
+        "url": "https://career.softserveinc.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/SoftServe",
+      "https://career.softserveinc.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Sopra Steria",
+    "category": "ssc",
+    "ats": "pinpoint",
+    "token": "soprasteria",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "soprasteria",
+        "host": "",
+        "site": "",
+        "url": "https://soprasteria.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://soprasteria.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Stefanini",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "Stefanini",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "Stefanini",
+        "host": "https://jobs2.smartsearchonline.com/stefanini/jobs",
+        "site": "",
+        "url": "https://jobs2.smartsearchonline.com/stefanini/jobs"
+      }
+    ],
+    "urls": [
+      "https://jobs2.smartsearchonline.com/stefanini/jobs"
+    ],
+    "host": "https://jobs2.smartsearchonline.com/stefanini/jobs",
+    "site": ""
+  },
+  {
+    "name": "Strategy&",
+    "category": "ssc",
+    "ats": "careers",
+    "token": "strategyand",
+    "sites": [
+      {
+        "ats": "careers",
+        "token": "strategyand",
+        "host": "https://www.strategyand.pwc.com/careers",
+        "site": "",
+        "url": "https://www.strategyand.pwc.com/careers"
+      }
+    ],
+    "urls": [
+      "https://www.strategyand.pwc.com/careers"
+    ],
+    "host": "https://www.strategyand.pwc.com/careers",
+    "site": ""
+  },
+  {
+    "name": "TCS",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "TataConsultancyServices",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "TataConsultancyServices",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/TataConsultancyServices"
+      },
+      {
+        "ats": "personio",
+        "token": "tcs",
+        "host": "",
+        "site": "",
+        "url": "https://tcs.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "TCS",
+        "host": "https://www.tcs.com/careers",
+        "site": "",
+        "url": "https://www.tcs.com/careers"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/TataConsultancyServices",
+      "https://tcs.jobs.personio.com/",
+      "https://www.tcs.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Teleperformance",
+    "category": "ssc",
+    "ats": "recruitee",
+    "token": "teleperformance",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "teleperformance",
+        "host": "",
+        "site": "",
+        "url": "https://teleperformance.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://teleperformance.recruitee.com/"
+    ]
+  },
+  {
+    "name": "Thinslices",
+    "category": "ssc",
+    "ats": "lever",
+    "token": "thinslices",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "thinslices",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/thinslices"
+      },
+      {
+        "ats": "careers",
+        "token": "Thinslices",
+        "host": "https://www.thinslices.com/careers",
+        "site": "",
+        "url": "https://www.thinslices.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/thinslices",
+      "https://www.thinslices.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Thoughtworks",
+    "category": "ssc",
+    "ats": "greenhouse",
+    "token": "thoughtworks",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "thoughtworks",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/thoughtworks"
+      },
+      {
+        "ats": "careers",
+        "token": "Thoughtworks",
+        "host": "https://www.thoughtworks.com/careers",
+        "site": "",
+        "url": "https://www.thoughtworks.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/thoughtworks",
+      "https://www.thoughtworks.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Tremend",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "tremend",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "tremend",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/tremend/"
+      },
+      {
+        "ats": "recruitee",
+        "token": "tremend",
+        "host": "",
+        "site": "",
+        "url": "https://tremend.recruitee.com/"
+      },
+      {
+        "ats": "personio",
+        "token": "tremend",
+        "host": "",
+        "site": "",
+        "url": "https://tremend.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Tremend",
+        "host": "https://www.tremend.com/careers/",
+        "site": "",
+        "url": "https://www.tremend.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/tremend/",
+      "https://tremend.recruitee.com/",
+      "https://tremend.jobs.personio.com/",
+      "https://www.tremend.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Unisys",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "unisys",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "unisys",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/unisys/"
+      },
+      {
+        "ats": "careers",
+        "token": "Unisys",
+        "host": "https://www.unisys.com/careers/",
+        "site": "",
+        "url": "https://www.unisys.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/unisys/",
+      "https://www.unisys.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Wipro",
+    "category": "ssc",
+    "ats": "smartrecruiters",
+    "token": "Wipro",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Wipro",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Wipro"
+      },
+      {
+        "ats": "personio",
+        "token": "wipro",
+        "host": "",
+        "site": "",
+        "url": "https://wipro.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Wipro",
+        "host": "https://careers.wipro.com/",
+        "site": "",
+        "url": "https://careers.wipro.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Wipro",
+      "https://wipro.jobs.personio.com/",
+      "https://careers.wipro.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Yardi Romania",
+    "category": "ssc",
+    "ats": "breezy",
+    "token": "yardiromania",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "breezy",
+        "token": "yardiromania",
+        "host": "",
+        "site": "",
+        "url": "https://yardiromania.breezy.hr/"
+      }
+    ],
+    "urls": [
+      "https://yardiromania.breezy.hr/"
+    ]
+  },
+  {
+    "name": "Yonder",
+    "category": "ssc",
+    "ats": "workable",
+    "token": "yonder",
+    "sites": [
+      {
+        "ats": "workable",
+        "token": "yonder",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/yonder/"
+      },
+      {
+        "ats": "recruitee",
+        "token": "yonder",
+        "host": "",
+        "site": "",
+        "url": "https://yonder.recruitee.com/"
+      },
+      {
+        "ats": "personio",
+        "token": "yonder",
+        "host": "",
+        "site": "",
+        "url": "https://yonder.jobs.personio.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Yonder",
+        "host": "https://www.yonder.ro/careers/",
+        "site": "",
+        "url": "https://www.yonder.ro/careers/"
+      }
+    ],
+    "urls": [
+      "https://apply.workable.com/yonder/",
+      "https://yonder.recruitee.com/",
+      "https://yonder.jobs.personio.com/",
+      "https://www.yonder.ro/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Zenitech",
+    "category": "ssc",
+    "ats": "teamtailor",
+    "token": "zenitech",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "zenitech",
+        "host": "",
+        "site": "",
+        "url": "https://zenitech.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://zenitech.teamtailor.com/jobs"
+    ]
+  }
+]

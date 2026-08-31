@@ -5,7 +5,7 @@ import re
 from internscout.http import HttpClient
 from internscout.models import Job
 from internscout.sources import uid
-from internscout.sources.careers import jobs_from_jsonld
+from internscout.sources.ats.careers import jobs_from_jsonld
 
 SITEMAP_URL = "https://www.undelucram.ro/sitemaps/jobs-sitemap-ro-1.xml"
 JSONLD_RE = re.compile(

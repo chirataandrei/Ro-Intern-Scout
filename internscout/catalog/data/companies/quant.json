@@ -1,0 +1,2230 @@
+[
+  {
+    "name": "Akuna Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "akunacapital",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "akunacapital",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/akunacapital"
+      },
+      {
+        "ats": "careers",
+        "token": "Akuna Capital",
+        "host": "https://akunacapital.com/careers",
+        "site": "",
+        "url": "https://akunacapital.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/akunacapital",
+      "https://akunacapital.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "All Options",
+    "category": "quant",
+    "ats": "bamboohr",
+    "token": "alloptions",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "alloptions",
+        "host": "",
+        "site": "",
+        "url": "https://alloptions.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://alloptions.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Amber Group",
+    "category": "quant",
+    "ats": "lever",
+    "token": "ambergroup",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "ambergroup",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/ambergroup"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "ambergroup",
+        "host": "",
+        "site": "",
+        "url": "https://ambergroup.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/ambergroup",
+      "https://ambergroup.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Amplify Trading",
+    "category": "quant",
+    "ats": "ashby",
+    "token": "amplify",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "amplify",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/amplify"
+      },
+      {
+        "ats": "rippling",
+        "token": "amplify",
+        "host": "",
+        "site": "",
+        "url": "https://ats.rippling.com/amplify/jobs"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/amplify",
+      "https://ats.rippling.com/amplify/jobs"
+    ]
+  },
+  {
+    "name": "AQR",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "aqr",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "aqr",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/aqr"
+      },
+      {
+        "ats": "careers",
+        "token": "AQR",
+        "host": "https://www.aqr.com/careers",
+        "site": "",
+        "url": "https://www.aqr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/aqr",
+      "https://www.aqr.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Aquatic Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "aquaticcapitalmanagement",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "aquaticcapitalmanagement",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement"
+      },
+      {
+        "ats": "careers",
+        "token": "Aquatic Capital",
+        "host": "https://aquaticcapital.com/careers",
+        "site": "",
+        "url": "https://aquaticcapital.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/aquaticcapitalmanagement",
+      "https://aquaticcapital.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Auros Global",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "aurosglobal",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "aurosglobal",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/aurosglobal"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/aurosglobal"
+    ]
+  },
+  {
+    "name": "AXQ Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "axq",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "axq",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/axq"
+      },
+      {
+        "ats": "careers",
+        "token": "AXQ Capital",
+        "host": "https://www.axqcapital.com/",
+        "site": "",
+        "url": "https://www.axqcapital.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/axq",
+      "https://www.axqcapital.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "B2C2",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "b2c2",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "b2c2",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/b2c2"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/b2c2"
+    ]
+  },
+  {
+    "name": "Balyasny",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "bamfunds",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "bamfunds",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/bamfunds"
+      },
+      {
+        "ats": "careers",
+        "token": "Balyasny",
+        "host": "https://www.bamfunds.com/careers",
+        "site": "",
+        "url": "https://www.bamfunds.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/bamfunds",
+      "https://www.bamfunds.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Belvedere Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "belvederetrading",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "belvederetrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/belvederetrading"
+      },
+      {
+        "ats": "careers",
+        "token": "Belvedere Trading",
+        "host": "https://www.belvederetrading.com/careers/",
+        "site": "",
+        "url": "https://www.belvederetrading.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/belvederetrading",
+      "https://www.belvederetrading.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Capital Fund Management",
+    "category": "quant",
+    "ats": "lever",
+    "token": "capital",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "capital",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/capital"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/capital"
+    ]
+  },
+  {
+    "name": "Capula",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "capula",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "capula",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/capula"
+      },
+      {
+        "ats": "careers",
+        "token": "Capula",
+        "host": "https://www.capulaglobal.com/careers/",
+        "site": "",
+        "url": "https://www.capulaglobal.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/capula",
+      "https://www.capulaglobal.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Chicago Trading Company",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "chicagotrading",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "chicagotrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/chicagotrading"
+      },
+      {
+        "ats": "careers",
+        "token": "Chicago Trading Company",
+        "host": "https://www.chicagotrading.com/careers",
+        "site": "",
+        "url": "https://www.chicagotrading.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/chicagotrading",
+      "https://www.chicagotrading.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Citadel",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "citadelsecurities",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "citadelsecurities",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/citadelsecurities"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "citadel",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/citadel"
+      },
+      {
+        "ats": "ashby",
+        "token": "citadel",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/citadel"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "citadel",
+        "host": "",
+        "site": "",
+        "url": "https://citadel.pinpointhq.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Citadel",
+        "host": "https://www.citadel.com/careers/",
+        "site": "",
+        "url": "https://www.citadel.com/careers/"
+      },
+      {
+        "ats": "careers",
+        "token": "Citadel",
+        "host": "https://www.citadelsecurities.com/careers/",
+        "site": "",
+        "url": "https://www.citadelsecurities.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/citadelsecurities",
+      "https://job-boards.greenhouse.io/citadel",
+      "https://jobs.ashbyhq.com/citadel",
+      "https://citadel.pinpointhq.com/",
+      "https://www.citadel.com/careers/",
+      "https://www.citadelsecurities.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "CME Group",
+    "category": "quant",
+    "ats": "jazzhr",
+    "token": "cme",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "jazzhr",
+        "token": "cme",
+        "host": "",
+        "site": "",
+        "url": "https://cme.applytojob.com/"
+      }
+    ],
+    "urls": [
+      "https://cme.applytojob.com/"
+    ]
+  },
+  {
+    "name": "Copper.co",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "copperco",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "copperco",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/copperco"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/copperco"
+    ]
+  },
+  {
+    "name": "Cubist",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "cubist",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "cubist",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/cubist"
+      },
+      {
+        "ats": "careers",
+        "token": "Cubist",
+        "host": "https://www.cubistsystematic.com/",
+        "site": "",
+        "url": "https://www.cubistsystematic.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/cubist",
+      "https://www.cubistsystematic.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "D. E. Shaw",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "deshaw",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "deshaw",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/deshaw"
+      },
+      {
+        "ats": "careers",
+        "token": "D. E. Shaw",
+        "host": "https://www.deshaw.com/careers",
+        "site": "",
+        "url": "https://www.deshaw.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/deshaw",
+      "https://www.deshaw.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Da Vinci Derivatives",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "davinciderivatives",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "davinciderivatives",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives"
+      },
+      {
+        "ats": "careers",
+        "token": "Da Vinci Derivatives",
+        "host": "https://davincitrading.com/careers/",
+        "site": "",
+        "url": "https://davincitrading.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.eu.greenhouse.io/davinciderivatives",
+      "https://davincitrading.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "DRW",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "drweng",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "drweng",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/drweng"
+      },
+      {
+        "ats": "careers",
+        "token": "DRW",
+        "host": "https://drw.com/careers",
+        "site": "",
+        "url": "https://drw.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/drweng",
+      "https://drw.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Eclipse Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "eclipsetrading",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "eclipsetrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/eclipsetrading"
+      },
+      {
+        "ats": "teamtailor",
+        "token": "eclipse",
+        "host": "",
+        "site": "",
+        "url": "https://eclipse.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/eclipsetrading",
+      "https://eclipse.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Elwood Technologies",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "elwoodtechnologies",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "elwoodtechnologies",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/elwoodtechnologies"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/elwoodtechnologies"
+    ]
+  },
+  {
+    "name": "Engineers Gate",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "engineersgate",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "engineersgate",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/engineersgate"
+      },
+      {
+        "ats": "careers",
+        "token": "Engineers Gate",
+        "host": "https://www.eglp.com/careers",
+        "site": "",
+        "url": "https://www.eglp.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/engineersgate",
+      "https://www.eglp.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "ExodusPoint",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "exoduspoint",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "exoduspoint",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/exoduspoint"
+      },
+      {
+        "ats": "careers",
+        "token": "ExodusPoint",
+        "host": "https://www.exoduspoint.com/careers/",
+        "site": "",
+        "url": "https://www.exoduspoint.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/exoduspoint",
+      "https://www.exoduspoint.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Five Rings",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "fiverings",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "fiverings",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/fiverings"
+      },
+      {
+        "ats": "careers",
+        "token": "Five Rings",
+        "host": "https://fiverings.com/careers/",
+        "site": "",
+        "url": "https://fiverings.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/fiverings",
+      "https://fiverings.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Flow Traders",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "flowtraders",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "flowtraders",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/flowtraders"
+      },
+      {
+        "ats": "workable",
+        "token": "flowtraders",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/flowtraders/"
+      },
+      {
+        "ats": "careers",
+        "token": "Flow Traders",
+        "host": "https://www.flowtraders.com/careers",
+        "site": "",
+        "url": "https://www.flowtraders.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/flowtraders",
+      "https://apply.workable.com/flowtraders/",
+      "https://www.flowtraders.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Fortress Investment Group",
+    "category": "quant",
+    "ats": "lever",
+    "token": "fortress",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "fortress",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/fortress"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/fortress"
+    ]
+  },
+  {
+    "name": "G-Research",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "gresearch",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "gresearch",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/gresearch"
+      },
+      {
+        "ats": "ashby",
+        "token": "gresearch",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/gresearch"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "gresearch",
+        "host": "",
+        "site": "",
+        "url": "https://gresearch.pinpointhq.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "G-Research",
+        "host": "https://www.gresearch.com/join-us/",
+        "site": "",
+        "url": "https://www.gresearch.com/join-us/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/gresearch",
+      "https://jobs.ashbyhq.com/gresearch",
+      "https://gresearch.pinpointhq.com/",
+      "https://www.gresearch.com/join-us/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Geneva Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "genevatrading",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "genevatrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/genevatrading"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/genevatrading"
+    ]
+  },
+  {
+    "name": "Grasshopper",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "grasshopper",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "grasshopper",
+        "host": "",
+        "site": "",
+        "url": "https://grasshopper.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://grasshopper.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "GSA Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "gsacapital",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "gsacapital",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/gsacapital"
+      },
+      {
+        "ats": "careers",
+        "token": "GSA Capital",
+        "host": "https://www.gsacapital.com/join-us",
+        "site": "",
+        "url": "https://www.gsacapital.com/join-us"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/gsacapital",
+      "https://www.gsacapital.com/join-us"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "GSR Markets",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "gsrmarkets",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "gsrmarkets",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/gsrmarkets"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/gsrmarkets"
+    ]
+  },
+  {
+    "name": "Hidden Road",
+    "category": "quant",
+    "ats": "jobsoid",
+    "token": "hidden",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "jobsoid",
+        "token": "hidden",
+        "host": "",
+        "site": "",
+        "url": "https://hidden.jobsoid.com/"
+      }
+    ],
+    "urls": [
+      "https://hidden.jobsoid.com/"
+    ]
+  },
+  {
+    "name": "Hudson River Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "hudsonrivertrading",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "hudsonrivertrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/hudsonrivertrading"
+      },
+      {
+        "ats": "ashby",
+        "token": "hudsonrivertrading",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/hudsonrivertrading"
+      },
+      {
+        "ats": "careers",
+        "token": "Hudson River Trading",
+        "host": "https://www.hudsonrivertrading.com/careers/",
+        "site": "",
+        "url": "https://www.hudsonrivertrading.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/hudsonrivertrading",
+      "https://jobs.ashbyhq.com/hudsonrivertrading",
+      "https://www.hudsonrivertrading.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "IMC Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "imc",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "imc",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/imc"
+      },
+      {
+        "ats": "lever",
+        "token": "imc",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/imc"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "imc",
+        "host": "",
+        "site": "",
+        "url": "https://imc.pinpointhq.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "IMC Trading",
+        "host": "https://www.imc.com/us/careers",
+        "site": "",
+        "url": "https://www.imc.com/us/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/imc",
+      "https://jobs.lever.co/imc",
+      "https://imc.pinpointhq.com/",
+      "https://www.imc.com/us/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Jane Street",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "janestreet",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "janestreet",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/janestreet"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "janestreetlondon",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/janestreetlondon"
+      },
+      {
+        "ats": "ashby",
+        "token": "janestreet",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/janestreet"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "janestreet",
+        "host": "",
+        "site": "",
+        "url": "https://janestreet.pinpointhq.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Jane Street",
+        "host": "https://www.janestreet.com/join-jane-street/",
+        "site": "",
+        "url": "https://www.janestreet.com/join-jane-street/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/janestreet",
+      "https://job-boards.greenhouse.io/janestreetlondon",
+      "https://jobs.ashbyhq.com/janestreet",
+      "https://janestreet.pinpointhq.com/",
+      "https://www.janestreet.com/join-jane-street/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Jump Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "jumptrading",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "jumptrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/jumptrading"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "jumpcrypto",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/jumpcrypto"
+      },
+      {
+        "ats": "lever",
+        "token": "jumptrading",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/jumptrading"
+      },
+      {
+        "ats": "careers",
+        "token": "Jump Trading",
+        "host": "https://www.jumptrading.com/careers/",
+        "site": "",
+        "url": "https://www.jumptrading.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/jumptrading",
+      "https://job-boards.greenhouse.io/jumpcrypto",
+      "https://jobs.lever.co/jumptrading",
+      "https://www.jumptrading.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Kepler Cheuvreux",
+    "category": "quant",
+    "ats": "teamtailor",
+    "token": "keplercheuvreux",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "keplercheuvreux",
+        "host": "",
+        "site": "",
+        "url": "https://keplercheuvreux.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://keplercheuvreux.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Keyrock",
+    "category": "quant",
+    "ats": "ashby",
+    "token": "keyrock",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "keyrock",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/keyrock"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/keyrock"
+    ]
+  },
+  {
+    "name": "Liquid Capital",
+    "category": "quant",
+    "ats": "ashby",
+    "token": "liquid",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "liquid",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/liquid"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/liquid"
+    ]
+  },
+  {
+    "name": "Mako Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "mako",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "mako",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/mako"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/mako"
+    ]
+  },
+  {
+    "name": "Man Group",
+    "category": "quant",
+    "ats": "workday",
+    "token": "man",
+    "sites": [
+      {
+        "ats": "workday",
+        "token": "man",
+        "host": "man.wd3.myworkdayjobs.com",
+        "site": "ManCareers",
+        "url": "https://man.wd3.myworkdayjobs.com/ManCareers"
+      },
+      {
+        "ats": "careers",
+        "token": "Man Group",
+        "host": "https://www.man.com/careers",
+        "site": "",
+        "url": "https://www.man.com/careers"
+      }
+    ],
+    "urls": [
+      "https://man.wd3.myworkdayjobs.com/ManCareers",
+      "https://www.man.com/careers"
+    ],
+    "host": "man.wd3.myworkdayjobs.com",
+    "site": "ManCareers"
+  },
+  {
+    "name": "Marshall Wace",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "marshallwace",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "marshallwace",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/marshallwace"
+      },
+      {
+        "ats": "careers",
+        "token": "Marshall Wace",
+        "host": "https://www.mwam.com/join-us/",
+        "site": "",
+        "url": "https://www.mwam.com/join-us/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/marshallwace",
+      "https://www.mwam.com/join-us/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Maven Securities",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "mavensecurities",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "mavensecurities",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/mavensecurities"
+      },
+      {
+        "ats": "careers",
+        "token": "Maven Securities",
+        "host": "https://www.mavensecurities.com/careers",
+        "site": "",
+        "url": "https://www.mavensecurities.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/mavensecurities",
+      "https://www.mavensecurities.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Millennium",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "mlp",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "mlp",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/mlp"
+      },
+      {
+        "ats": "careers",
+        "token": "Millennium",
+        "host": "https://www.mlp.com/careers/",
+        "site": "",
+        "url": "https://www.mlp.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/mlp",
+      "https://www.mlp.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Moore Capital",
+    "category": "quant",
+    "ats": "recruitee",
+    "token": "moore",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "moore",
+        "host": "",
+        "site": "",
+        "url": "https://moore.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://moore.recruitee.com/"
+    ]
+  },
+  {
+    "name": "Nethermind",
+    "category": "quant",
+    "ats": "lever",
+    "token": "nethermind",
+    "sites": [
+      {
+        "ats": "lever",
+        "token": "nethermind",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/nethermind"
+      },
+      {
+        "ats": "careers",
+        "token": "Nethermind",
+        "host": "https://www.nethermind.io/careers",
+        "site": "",
+        "url": "https://www.nethermind.io/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.lever.co/nethermind",
+      "https://www.nethermind.io/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Nickel Digital",
+    "category": "quant",
+    "ats": "join",
+    "token": "nickel",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "join",
+        "token": "nickel",
+        "host": "",
+        "site": "",
+        "url": "https://join.com/companies/nickel"
+      }
+    ],
+    "urls": [
+      "https://join.com/companies/nickel"
+    ]
+  },
+  {
+    "name": "Old Mission Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "oldmission",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "oldmission",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/oldmission"
+      },
+      {
+        "ats": "careers",
+        "token": "Old Mission Capital",
+        "host": "https://www.oldmissioncapital.com/careers/",
+        "site": "",
+        "url": "https://www.oldmissioncapital.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/oldmission",
+      "https://www.oldmissioncapital.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Optiver",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "optiver",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "optiver",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/optiver"
+      },
+      {
+        "ats": "workable",
+        "token": "optiver",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/optiver/"
+      },
+      {
+        "ats": "lever",
+        "token": "optiver",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/optiver"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "optiver",
+        "host": "",
+        "site": "",
+        "url": "https://optiver.pinpointhq.com/"
+      },
+      {
+        "ats": "careers",
+        "token": "Optiver",
+        "host": "https://optiver.com/working-at-optiver/career-opportunities/",
+        "site": "",
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/optiver",
+      "https://apply.workable.com/optiver/",
+      "https://jobs.lever.co/optiver",
+      "https://optiver.pinpointhq.com/",
+      "https://optiver.com/working-at-optiver/career-opportunities/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Ortec Finance",
+    "category": "quant",
+    "ats": "teamtailor",
+    "token": "ortecfinance",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "teamtailor",
+        "token": "ortecfinance",
+        "host": "",
+        "site": "",
+        "url": "https://ortecfinance.teamtailor.com/jobs"
+      }
+    ],
+    "urls": [
+      "https://ortecfinance.teamtailor.com/jobs"
+    ]
+  },
+  {
+    "name": "Oxford Asset Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "oxam",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "oxam",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/oxam"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/oxam"
+    ]
+  },
+  {
+    "name": "PDT Partners",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "pdtpartners",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "pdtpartners",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/pdtpartners"
+      },
+      {
+        "ats": "careers",
+        "token": "PDT Partners",
+        "host": "https://www.pdtpartners.com/careers",
+        "site": "",
+        "url": "https://www.pdtpartners.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/pdtpartners",
+      "https://www.pdtpartners.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Peak6",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "peak6",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "peak6",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/peak6"
+      },
+      {
+        "ats": "careers",
+        "token": "Peak6",
+        "host": "https://peak6.com/careers/",
+        "site": "",
+        "url": "https://peak6.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/peak6",
+      "https://peak6.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Point72",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "point72",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "point72",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/point72"
+      },
+      {
+        "ats": "careers",
+        "token": "Point72",
+        "host": "https://careers.point72.com/",
+        "site": "",
+        "url": "https://careers.point72.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/point72",
+      "https://careers.point72.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Quadrature Capital",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "quadraturecapital",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "quadraturecapital",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/quadraturecapital"
+      },
+      {
+        "ats": "pinpoint",
+        "token": "quadrature",
+        "host": "",
+        "site": "",
+        "url": "https://quadrature.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/quadraturecapital",
+      "https://quadrature.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "QuantCo",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "quantco",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "quantco",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/quantco"
+      },
+      {
+        "ats": "careers",
+        "token": "QuantCo",
+        "host": "https://quantco.com/careers/",
+        "site": "",
+        "url": "https://quantco.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/quantco",
+      "https://quantco.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Qube Research & Technologies",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "qube",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "qube",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/qube"
+      },
+      {
+        "ats": "careers",
+        "token": "Qube Research & Technologies",
+        "host": "https://www.qube-rt.com/careers/",
+        "site": "",
+        "url": "https://www.qube-rt.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/qube",
+      "https://www.qube-rt.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Radix Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "radixuniversity",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "radixuniversity",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/radixuniversity"
+      },
+      {
+        "ats": "careers",
+        "token": "Radix Trading",
+        "host": "https://radixtrading.co/",
+        "site": "",
+        "url": "https://radixtrading.co/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/radixuniversity",
+      "https://radixtrading.co/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Renaissance Technologies",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "rentec",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "rentec",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/rentec"
+      },
+      {
+        "ats": "careers",
+        "token": "Renaissance Technologies",
+        "host": "https://www.rentec.com/Careers.action",
+        "site": "",
+        "url": "https://www.rentec.com/Careers.action"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/rentec",
+      "https://www.rentec.com/Careers.action"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Schneider Trading Group",
+    "category": "quant",
+    "ats": "bamboohr",
+    "token": "schneider",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "bamboohr",
+        "token": "schneider",
+        "host": "",
+        "site": "",
+        "url": "https://schneider.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://schneider.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Schonfeld",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "schonfeld",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "schonfeld",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/schonfeld"
+      },
+      {
+        "ats": "careers",
+        "token": "Schonfeld",
+        "host": "https://www.schonfeld.com/careers/",
+        "site": "",
+        "url": "https://www.schonfeld.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/schonfeld",
+      "https://www.schonfeld.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Simplex Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "simplextrading",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "simplextrading",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/simplextrading"
+      },
+      {
+        "ats": "bamboohr",
+        "token": "simplextrading",
+        "host": "",
+        "site": "",
+        "url": "https://simplextrading.bamboohr.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/simplextrading",
+      "https://simplextrading.bamboohr.com/careers"
+    ]
+  },
+  {
+    "name": "Squarepoint",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "squarepoint",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "squarepoint",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/squarepoint"
+      },
+      {
+        "ats": "careers",
+        "token": "Squarepoint",
+        "host": "https://www.squarepoint-capital.com/careers",
+        "site": "",
+        "url": "https://www.squarepoint-capital.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/squarepoint",
+      "https://www.squarepoint-capital.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Sunrise Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "sunrise",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "sunrise",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/sunrise"
+      },
+      {
+        "ats": "ashby",
+        "token": "sunrise",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/sunrise"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/sunrise",
+      "https://jobs.ashbyhq.com/sunrise"
+    ]
+  },
+  {
+    "name": "Susquehanna",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "sig",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "sig",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/sig"
+      },
+      {
+        "ats": "lever",
+        "token": "sig",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.lever.co/sig"
+      },
+      {
+        "ats": "careers",
+        "token": "Susquehanna",
+        "host": "https://careers.sig.com/",
+        "site": "",
+        "url": "https://careers.sig.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/sig",
+      "https://jobs.lever.co/sig",
+      "https://careers.sig.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Symmetry Investments",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "symmetry",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "symmetry",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/symmetry"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/symmetry"
+    ]
+  },
+  {
+    "name": "Systematica Investments",
+    "category": "quant",
+    "ats": "pinpoint",
+    "token": "systematica",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "pinpoint",
+        "token": "systematica",
+        "host": "",
+        "site": "",
+        "url": "https://systematica.pinpointhq.com/"
+      }
+    ],
+    "urls": [
+      "https://systematica.pinpointhq.com/"
+    ]
+  },
+  {
+    "name": "Tower Research",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "towerresearchcapital",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "towerresearchcapital",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/towerresearchcapital"
+      },
+      {
+        "ats": "careers",
+        "token": "Tower Research",
+        "host": "https://www.tower-research.com/positions",
+        "site": "",
+        "url": "https://www.tower-research.com/positions"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/towerresearchcapital",
+      "https://www.tower-research.com/positions"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "TransMarket Group",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "transmarketgroup",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "transmarketgroup",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/transmarketgroup"
+      },
+      {
+        "ats": "careers",
+        "token": "TransMarket Group",
+        "host": "https://www.transmarketgroup.com/careers",
+        "site": "",
+        "url": "https://www.transmarketgroup.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/transmarketgroup",
+      "https://www.transmarketgroup.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Two Sigma",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "twosigma",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "twosigma",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/twosigma"
+      },
+      {
+        "ats": "ashby",
+        "token": "twosigma",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/twosigma"
+      },
+      {
+        "ats": "careers",
+        "token": "Two Sigma",
+        "host": "https://careers.twosigma.com/",
+        "site": "",
+        "url": "https://careers.twosigma.com/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/twosigma",
+      "https://jobs.ashbyhq.com/twosigma",
+      "https://careers.twosigma.com/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Virtu Financial",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "virtu",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "virtu",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/virtu"
+      },
+      {
+        "ats": "careers",
+        "token": "Virtu Financial",
+        "host": "https://www.virtu.com/careers/",
+        "site": "",
+        "url": "https://www.virtu.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/virtu",
+      "https://www.virtu.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Webb Traders",
+    "category": "quant",
+    "ats": "recruitee",
+    "token": "webbtraders",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "recruitee",
+        "token": "webbtraders",
+        "host": "",
+        "site": "",
+        "url": "https://webbtraders.recruitee.com/"
+      }
+    ],
+    "urls": [
+      "https://webbtraders.recruitee.com/"
+    ]
+  },
+  {
+    "name": "Wincent",
+    "category": "quant",
+    "ats": "ashby",
+    "token": "wincent",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "wincent",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/wincent"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/wincent"
+    ]
+  },
+  {
+    "name": "Wintermute",
+    "category": "quant",
+    "ats": "ashby",
+    "token": "wintermute",
+    "sites": [
+      {
+        "ats": "ashby",
+        "token": "wintermute",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/wintermute"
+      },
+      {
+        "ats": "careers",
+        "token": "Wintermute",
+        "host": "https://www.wintermute.com/careers",
+        "site": "",
+        "url": "https://www.wintermute.com/careers"
+      }
+    ],
+    "urls": [
+      "https://jobs.ashbyhq.com/wintermute",
+      "https://www.wintermute.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Winton",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "winton",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "winton",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/winton"
+      },
+      {
+        "ats": "careers",
+        "token": "Winton",
+        "host": "https://www.winton.com/careers",
+        "site": "",
+        "url": "https://www.winton.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/winton",
+      "https://www.winton.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "Wolverine Trading",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "wolverine",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "wolverine",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/wolverine"
+      },
+      {
+        "ats": "careers",
+        "token": "Wolverine Trading",
+        "host": "https://www.wolve.com/careers",
+        "site": "",
+        "url": "https://www.wolve.com/careers"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/wolverine",
+      "https://www.wolve.com/careers"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "WorldQuant",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "worldquant",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "worldquant",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/worldquant"
+      },
+      {
+        "ats": "careers",
+        "token": "WorldQuant",
+        "host": "https://www.worldquant.com/career-listing/",
+        "site": "",
+        "url": "https://www.worldquant.com/career-listing/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/worldquant",
+      "https://www.worldquant.com/career-listing/"
+    ],
+    "host": "",
+    "site": ""
+  },
+  {
+    "name": "XR Trading",
+    "category": "quant",
+    "ats": "jazzhr",
+    "token": "xr",
+    "host": "",
+    "site": "",
+    "sites": [
+      {
+        "ats": "jazzhr",
+        "token": "xr",
+        "host": "",
+        "site": "",
+        "url": "https://xr.applytojob.com/"
+      }
+    ],
+    "urls": [
+      "https://xr.applytojob.com/"
+    ]
+  },
+  {
+    "name": "XTX Markets",
+    "category": "quant",
+    "ats": "greenhouse",
+    "token": "xtxmarkets",
+    "sites": [
+      {
+        "ats": "greenhouse",
+        "token": "xtxmarkets",
+        "host": "",
+        "site": "",
+        "url": "https://job-boards.greenhouse.io/xtxmarkets"
+      },
+      {
+        "ats": "ashby",
+        "token": "xtxmarkets",
+        "host": "",
+        "site": "",
+        "url": "https://jobs.ashbyhq.com/xtxmarkets"
+      },
+      {
+        "ats": "careers",
+        "token": "XTX Markets",
+        "host": "https://www.xtxmarkets.com/careers/",
+        "site": "",
+        "url": "https://www.xtxmarkets.com/careers/"
+      }
+    ],
+    "urls": [
+      "https://job-boards.greenhouse.io/xtxmarkets",
+      "https://jobs.ashbyhq.com/xtxmarkets",
+      "https://www.xtxmarkets.com/careers/"
+    ],
+    "host": "",
+    "site": ""
+  }
+]

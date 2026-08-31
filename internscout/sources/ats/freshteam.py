@@ -5,7 +5,8 @@ import re
 
 from internscout.http import HttpClient
 from internscout.models import Company, Job
-from internscout.sources import careers, uid
+from internscout.sources import uid
+from internscout.sources.ats import careers
 
 HREF_RE = re.compile(
     r'<a[^>]+href="(/jobs/(\d+)[^"]*)"[^>]*>(.*?)</a>',

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Digi RCS RDS",
+    "category": "telecom",
+    "ats": "smartrecruiters",
+    "token": "Digi",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Digi",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Digi"
+      },
+      {
+        "ats": "workable",
+        "token": "digi",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/digi/"
+      },
+      {
+        "ats": "careers",
+        "token": "Digi RCS RDS",
+        "host": "https://www.digi.ro/cariere",
+        "site": "",
+        "url": "https://www.digi.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Digi",
+      "https://apply.workable.com/digi/",
+      "https://www.digi.ro/cariere"
+    ]
+  },
+  {
+    "name": "Huawei",
+    "category": "telecom",
+    "ats": "smartrecruiters",
+    "token": "Huawei",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Huawei",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Huawei"
+      },
+      {
+        "ats": "careers",
+        "token": "Huawei",
+        "host": "https://career.huawei.com/",
+        "site": "",
+        "url": "https://career.huawei.com/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Huawei",
+      "https://career.huawei.com/"
+    ]
+  },
+  {
+    "name": "Orange Romania",
+    "category": "telecom",
+    "ats": "smartrecruiters",
+    "token": "OrangeRomania",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "OrangeRomania",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/OrangeRomania"
+      },
+      {
+        "ats": "workable",
+        "token": "orangeromania",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/orangeromania/"
+      },
+      {
+        "ats": "careers",
+        "token": "Orange Romania",
+        "host": "https://www.orange.ro/despre-orange/cariere/",
+        "site": "",
+        "url": "https://www.orange.ro/despre-orange/cariere/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/OrangeRomania",
+      "https://apply.workable.com/orangeromania/",
+      "https://www.orange.ro/despre-orange/cariere/"
+    ]
+  },
+  {
+    "name": "Telekom Romania",
+    "category": "telecom",
+    "ats": "smartrecruiters",
+    "token": "Telekom",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Telekom",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Telekom"
+      },
+      {
+        "ats": "careers",
+        "token": "Telekom Romania",
+        "host": "https://www.telekom.ro/despre-noi/cariere/",
+        "site": "",
+        "url": "https://www.telekom.ro/despre-noi/cariere/"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Telekom",
+      "https://www.telekom.ro/despre-noi/cariere/"
+    ]
+  },
+  {
+    "name": "Vodafone",
+    "category": "telecom",
+    "ats": "smartrecruiters",
+    "token": "Vodafone",
+    "sites": [
+      {
+        "ats": "smartrecruiters",
+        "token": "Vodafone",
+        "host": "",
+        "site": "",
+        "url": "https://careers.smartrecruiters.com/Vodafone"
+      },
+      {
+        "ats": "workable",
+        "token": "vodafone",
+        "host": "",
+        "site": "",
+        "url": "https://apply.workable.com/vodafone/"
+      },
+      {
+        "ats": "careers",
+        "token": "Vodafone",
+        "host": "https://www.vodafone.ro/cariere",
+        "site": "",
+        "url": "https://www.vodafone.ro/cariere"
+      }
+    ],
+    "urls": [
+      "https://careers.smartrecruiters.com/Vodafone",
+      "https://apply.workable.com/vodafone/",
+      "https://www.vodafone.ro/cariere"
+    ]
+  }
+]

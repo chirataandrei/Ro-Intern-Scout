@@ -5,6 +5,7 @@ from internscout.emailer import build_email
 from internscout.filters import (
     is_america,
     is_internship,
+    is_remote_eu,
     is_romania,
     is_spring_week,
     is_student_entry,
@@ -12,7 +13,7 @@ from internscout.filters import (
     keep_job,
 )
 from internscout.models import Job
-from internscout.sources.ejobs import jobs_from_nuxt
+from internscout.sources.feeds.ejobs import jobs_from_nuxt
 
 
 class FilterTests(unittest.TestCase):
@@ -188,6 +189,62 @@ class FilterTests(unittest.TestCase):
             )
         )
 
+    def test_remote_eu_locations(self) -> None:
+        self.assertTrue(is_remote_eu("Remote - Europe"))
+        self.assertTrue(is_remote_eu("EU Remote"))
+        self.assertTrue(is_remote_eu("Remote (CET)"))
+        self.assertTrue(is_remote_eu("Remote, Germany"))
+        self.assertTrue(is_remote_eu("Fully Remote"))
+        self.assertTrue(is_remote_eu("Work from anywhere"))
+        self.assertFalse(is_remote_eu("Remote - US"))
+        self.assertFalse(is_remote_eu("Remote, Worldwide"))
+        self.assertFalse(is_remote_eu("London, United Kingdom"))  # no "remote" keyword
+
+    def test_remote_eu_internship_is_kept_but_us_and_non_tech_are_not(self) -> None:
+        self.assertTrue(
+            keep_job(
+                title="Backend Engineering Intern",
+                location="Remote - Europe",
+                company="Supabase",
+            )
+        )
+        self.assertTrue(
+            keep_job(
+                title="Software Engineer Internship",
+                location="EU Remote",
+                company="Mistral AI",
+            )
+        )
+        self.assertFalse(
+            keep_job(
+                title="Sales Intern",
+                location="Remote - Europe",
+                company="Some Startup",
+            )
+        )
+        self.assertFalse(
+            keep_job(
+                title="Backend Engineering Intern",
+                location="Remote - US",
+                company="Some Startup",
+            )
+        )
+        self.assertFalse(
+            keep_job(
+                title="Backend Engineering Intern",
+                location="London, United Kingdom",
+                company="Some Startup",
+            )
+        )
+        # Spring weeks abroad still work without the "remote" keyword.
+        self.assertTrue(
+            keep_job(
+                title="Spring Insight Programme",
+                location="Amsterdam",
+                category="quant",
+            )
+        )
+
     def test_email_lists_company_and_romania_first(self) -> None:
         nxp = Job(
             uid="nxp:1",
@@ -256,7 +313,7 @@ class FilterTests(unittest.TestCase):
 
 class WorkdayUrlTests(unittest.TestCase):
     def test_nxp_includes_careers_site(self) -> None:
-        from internscout.sources.workday import build_job_url
+        from internscout.sources.ats.workday import build_job_url
 
         url = build_job_url(
             "nxp.wd3.myworkdayjobs.com",
@@ -273,7 +330,7 @@ class WorkdayUrlTests(unittest.TestCase):
         )
 
     def test_does_not_double_site_prefix(self) -> None:
-        from internscout.sources.workday import build_job_url
+        from internscout.sources.ats.workday import build_job_url
 
         url = build_job_url(
             "nxp.wd3.myworkdayjobs.com",
@@ -288,7 +345,7 @@ class WorkdayUrlTests(unittest.TestCase):
 
 class StagiiPeBuneTests(unittest.TestCase):
     def test_parses_company_title_city(self) -> None:
-        from internscout.sources.stagiipebune import parse_listings
+        from internscout.sources.feeds.stagiipebune import parse_listings
 
         html = """
         <tbody class="job-table-body company-group">
@@ -318,9 +375,9 @@ class StagiiPeBuneTests(unittest.TestCase):
 
 class CatalogSiteTests(unittest.TestCase):
     def test_every_company_has_announcement_urls(self) -> None:
-        from internscout.models import COMPANIES_PATH, Company
+        from internscout.catalog.loader import load_companies_raw
 
-        raw = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
+        raw = load_companies_raw()
         self.assertGreaterEqual(len(raw), 400)
         missing = [row["name"] for row in raw if not row.get("urls")]
         self.assertEqual(missing, [])
@@ -344,9 +401,10 @@ class CatalogSiteTests(unittest.TestCase):
         self.assertEqual(board_public_url("jobsoid", "bunnyshell"), "https://bunnyshell.jobsoid.com/")
 
     def test_nxp_and_bosch_have_multiple_sites(self) -> None:
-        from internscout.models import COMPANIES_PATH, Company
+        from internscout.catalog.loader import load_companies_raw
+        from internscout.models import Company
 
-        raw = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
+        raw = load_companies_raw()
         by_name = {row["name"]: Company.from_dict(row) for row in raw}
         nxp = by_name["NXP"]
         self.assertGreaterEqual(len(nxp.sites), 2)
@@ -363,7 +421,7 @@ class CatalogSiteTests(unittest.TestCase):
 
 class UndelucramTests(unittest.TestCase):
     def test_sitemap_keeps_internships_not_internal_auditor(self) -> None:
-        from internscout.sources.undelucram import intern_job_urls
+        from internscout.sources.feeds.undelucram import intern_job_urls
 
         xml = """
         <urlset>
@@ -377,7 +435,7 @@ class UndelucramTests(unittest.TestCase):
         self.assertIn("technical-internship-at-aumovio", urls[0])
 
     def test_jsonld_exposes_employer_name(self) -> None:
-        from internscout.sources.undelucram import jobs_from_detail
+        from internscout.sources.feeds.undelucram import jobs_from_detail
 
         html = """
         <script type="application/ld+json">
@@ -403,13 +461,13 @@ class UndelucramTests(unittest.TestCase):
 
 class JoinAndNoFluffTests(unittest.TestCase):
     def test_join_company_id_from_html(self) -> None:
-        from internscout.sources.join import company_id_from_html
+        from internscout.sources.ats.join import company_id_from_html
 
         html = '{"props":{"pageProps":{"company":{"id":106934,"name":"N26"}}}}'
         self.assertEqual(company_id_from_html(html), "106934")
 
     def test_nofluffjobs_maps_employer_and_city(self) -> None:
-        from internscout.sources.nofluffjobs import jobs_from_postings
+        from internscout.sources.feeds.nofluffjobs import jobs_from_postings
 
         jobs = jobs_from_postings(
             [
@@ -438,9 +496,9 @@ class JoinAndNoFluffTests(unittest.TestCase):
 class ReportCatalogTests(unittest.TestCase):
     def test_new_firms_and_official_sites(self) -> None:
         from internscout.career_sites import official_urls
-        from internscout.models import COMPANIES_PATH
+        from internscout.catalog.loader import load_companies_raw
 
-        names = {row["name"] for row in json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))}
+        names = {row["name"] for row in load_companies_raw()}
         for name in (
             "Visma",
             "Kaseya",
@@ -460,7 +518,7 @@ class ReportCatalogTests(unittest.TestCase):
         self.assertEqual(official_urls("Visma"), ["https://www.visma.com/careers"])
         self.assertTrue(any("gsacapital.com" in url for url in official_urls("GSA Capital")))
 
-        catalog = json.loads(COMPANIES_PATH.read_text(encoding="utf-8"))
+        catalog = load_companies_raw()
         bunnyshell = next(row for row in catalog if row["name"] == "Bunnyshell")
         self.assertEqual(bunnyshell["ats"], "jobsoid")
         visma = next(row for row in catalog if row["name"] == "Visma")
@@ -468,7 +526,7 @@ class ReportCatalogTests(unittest.TestCase):
         self.assertEqual(visma["token"], "vismacc")
 
     def test_juniors_card_uses_employer_not_board_name(self) -> None:
-        from internscout.sources.juniors import parse_listings
+        from internscout.sources.feeds.juniors import parse_listings
 
         html = """
         <div class="job_header">
@@ -492,7 +550,7 @@ class ReportCatalogTests(unittest.TestCase):
 
     def test_teamtailor_json_feed_reads_jobposting_location(self) -> None:
         from internscout.models import Company
-        from internscout.sources.teamtailor import fetch_jobs
+        from internscout.sources.ats.teamtailor import fetch_jobs
 
         feed = {
             "version": "https://jsonfeed.org/version/1.1",
