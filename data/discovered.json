@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T08:51:58.835535+00:00",
+  "updated_at": "2026-09-01T15:31:38.843634+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -920,6 +920,46 @@
       "name": "ruby-labs",
       "category": "discovered",
       "found_at": "2026-09-01T08:51:58.835488+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "easyship",
+      "url": "https://job-boards.greenhouse.io/easyship",
+      "name": "easyship",
+      "category": "discovered",
+      "found_at": "2026-09-01T15:31:38.843581+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "ivalua",
+      "url": "https://job-boards.greenhouse.io/ivalua",
+      "name": "ivalua",
+      "category": "discovered",
+      "found_at": "2026-09-01T15:31:38.843591+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "yesenergy",
+      "url": "https://job-boards.greenhouse.io/yesenergy",
+      "name": "yesenergy",
+      "category": "discovered",
+      "found_at": "2026-09-01T15:31:38.843595+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "realtimeboardglobal",
+      "url": "https://job-boards.greenhouse.io/realtimeboardglobal",
+      "name": "realtimeboardglobal",
+      "category": "discovered",
+      "found_at": "2026-09-01T15:31:38.843598+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "forgotten-empires",
+      "url": "https://apply.workable.com/forgotten-empires/",
+      "name": "forgotten-empires",
+      "category": "discovered",
+      "found_at": "2026-09-01T15:31:38.843606+00:00"
     }
   ]
 }
