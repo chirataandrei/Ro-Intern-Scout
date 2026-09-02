@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:48:14.754841+00:00",
+  "updated_at": "2026-09-02T09:14:17.844151+00:00",
   "ids": [
     "bestjobs:bestjobs:52061120",
     "bestjobs:bestjobs:52061121",
@@ -12,6 +12,7 @@
     "fp:1608017af246e176",
     "fp:1afd2c56f5a8e7ea",
     "fp:22e6ecdabff19a1f",
+    "fp:2403f431cd56351b",
     "fp:2d3150b9cf594147",
     "fp:368a41a4fc07703a",
     "fp:3b2f1d3e3bc1fbe6",
@@ -33,6 +34,7 @@
     "fp:8223d2489ad1b311",
     "fp:84a8ce92d8ca3eeb",
     "fp:871a1776731155eb",
+    "fp:9c5a779da7d555bc",
     "fp:a06ee06cbc0d90e2",
     "fp:b2940c89c18990df",
     "fp:b3589685742ef970",
@@ -206,6 +208,7 @@
     "juniors:juniors:14059",
     "juniors:juniors:14062",
     "juniors:juniors:14075",
+    "juniors:juniors:14089",
     "simplify:simplify:034a8e4e-0595-4935-943e-bb805676a5d2",
     "simplify:simplify:04690200-00da-4592-b697-fc3f8a39af9c",
     "simplify:simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
@@ -343,6 +346,7 @@
     "smartrecruiters:Continental:744000131426259",
     "smartrecruiters:Continental:744000133557659",
     "smartrecruiters:Continental:744000144242540",
+    "smartrecruiters:RolandBerger:744000146727479",
     "stagiipebune:stagiipebune:ai-infrastructure-engineer-intern-36326",
     "stagiipebune:stagiipebune:arcannaai-ai-systems-engineer-paid-and-full-time-35298",
     "stagiipebune:stagiipebune:data-assets-intern-09346",
