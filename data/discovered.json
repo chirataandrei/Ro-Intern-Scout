@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:31:38.843634+00:00",
+  "updated_at": "2026-09-02T08:05:07.377711+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -960,6 +960,38 @@
       "name": "forgotten-empires",
       "category": "discovered",
       "found_at": "2026-09-01T15:31:38.843606+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "blp-digital",
+      "url": "https://jobs.ashbyhq.com/blp-digital",
+      "name": "blp-digital",
+      "category": "discovered",
+      "found_at": "2026-09-02T08:05:07.377646+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "heygen",
+      "url": "https://job-boards.greenhouse.io/heygen",
+      "name": "heygen",
+      "category": "discovered",
+      "found_at": "2026-09-02T08:05:07.377672+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "odysseyhotelgroup",
+      "url": "https://odysseyhotelgroup.recruitee.com/",
+      "name": "odysseyhotelgroup",
+      "category": "discovered",
+      "found_at": "2026-09-02T08:05:07.377679+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "scope3pbc",
+      "url": "https://ats.rippling.com/scope3pbc/jobs",
+      "name": "scope3pbc",
+      "category": "discovered",
+      "found_at": "2026-09-02T08:05:07.377683+00:00"
     }
   ]
 }
