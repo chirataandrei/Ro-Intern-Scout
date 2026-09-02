@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T08:05:07.377711+00:00",
+  "updated_at": "2026-09-02T15:15:44.710806+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -992,6 +992,14 @@
       "name": "scope3pbc",
       "category": "discovered",
       "found_at": "2026-09-02T08:05:07.377683+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "kepler",
+      "url": "https://jobs.lever.co/kepler",
+      "name": "kepler",
+      "category": "discovered",
+      "found_at": "2026-09-02T15:15:44.710743+00:00"
     }
   ]
 }
