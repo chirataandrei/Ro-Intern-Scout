@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:15:08.877315+00:00",
+  "updated_at": "2026-09-03T15:09:39.214668+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1024,6 +1024,22 @@
       "name": "simply-tv",
       "category": "discovered",
       "found_at": "2026-09-03T08:15:08.877288+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "storyblok",
+      "url": "https://job-boards.greenhouse.io/storyblok",
+      "name": "storyblok",
+      "category": "discovered",
+      "found_at": "2026-09-03T15:09:39.214608+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "d-ploy",
+      "url": "https://apply.workable.com/d-ploy/",
+      "name": "d-ploy",
+      "category": "discovered",
+      "found_at": "2026-09-03T15:09:39.214621+00:00"
     }
   ]
 }
