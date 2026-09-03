@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T15:15:44.710806+00:00",
+  "updated_at": "2026-09-03T08:15:08.877315+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1000,6 +1000,30 @@
       "name": "kepler",
       "category": "discovered",
       "found_at": "2026-09-02T15:15:44.710743+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "skydance",
+      "url": "https://jobs.lever.co/skydance",
+      "name": "skydance",
+      "category": "discovered",
+      "found_at": "2026-09-03T08:15:08.877261+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "avacone",
+      "url": "https://apply.workable.com/avacone/",
+      "name": "avacone",
+      "category": "discovered",
+      "found_at": "2026-09-03T08:15:08.877275+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "simply-tv",
+      "url": "https://apply.workable.com/simply-tv/",
+      "name": "simply-tv",
+      "category": "discovered",
+      "found_at": "2026-09-03T08:15:08.877288+00:00"
     }
   ]
 }
