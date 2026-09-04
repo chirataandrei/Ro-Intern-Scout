@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:09:39.214668+00:00",
+  "updated_at": "2026-09-04T08:10:45.931948+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1040,6 +1040,54 @@
       "name": "d-ploy",
       "category": "discovered",
       "found_at": "2026-09-03T15:09:39.214621+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "goldair-handling-s-dot-a",
+      "url": "https://apply.workable.com/goldair-handling-s-dot-a/",
+      "name": "goldair-handling-s-dot-a",
+      "category": "discovered",
+      "found_at": "2026-09-04T08:10:45.931887+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "mindbody",
+      "url": "https://job-boards.greenhouse.io/mindbody",
+      "name": "mindbody",
+      "category": "discovered",
+      "found_at": "2026-09-04T08:10:45.931897+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "stem-inc",
+      "url": "https://ats.rippling.com/stem-inc/jobs",
+      "name": "stem-inc",
+      "category": "discovered",
+      "found_at": "2026-09-04T08:10:45.931905+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "splitmetrics",
+      "url": "https://jobs.ashbyhq.com/splitmetrics",
+      "name": "splitmetrics",
+      "category": "discovered",
+      "found_at": "2026-09-04T08:10:45.931913+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "everai",
+      "url": "https://jobs.ashbyhq.com/everai",
+      "name": "everai",
+      "category": "discovered",
+      "found_at": "2026-09-04T08:10:45.931915+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "the-global-talent-co",
+      "url": "https://jobs.ashbyhq.com/the-global-talent-co",
+      "name": "the-global-talent-co",
+      "category": "discovered",
+      "found_at": "2026-09-04T08:10:45.931917+00:00"
     }
   ]
 }
