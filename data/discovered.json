@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T08:10:45.931948+00:00",
+  "updated_at": "2026-09-04T15:03:53.476966+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1088,6 +1088,14 @@
       "name": "the-global-talent-co",
       "category": "discovered",
       "found_at": "2026-09-04T08:10:45.931917+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "dof",
+      "url": "https://apply.workable.com/dof/",
+      "name": "dof",
+      "category": "discovered",
+      "found_at": "2026-09-04T15:03:53.476918+00:00"
     }
   ]
 }
