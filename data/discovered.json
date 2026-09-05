@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:49:50.549801+00:00",
+  "updated_at": "2026-09-05T13:59:19.111703+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1144,6 +1144,22 @@
       "name": "marketonce",
       "category": "discovered",
       "found_at": "2026-09-05T07:49:50.549767+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "corti",
+      "url": "https://jobs.ashbyhq.com/corti",
+      "name": "corti",
+      "category": "discovered",
+      "found_at": "2026-09-05T13:59:19.111654+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "ccgroupcareers",
+      "url": "https://ccgroupcareers.recruitee.com/",
+      "name": "ccgroupcareers",
+      "category": "discovered",
+      "found_at": "2026-09-05T13:59:19.111665+00:00"
     }
   ]
 }
