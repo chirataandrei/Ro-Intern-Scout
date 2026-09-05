@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:03:53.476966+00:00",
+  "updated_at": "2026-09-05T07:49:50.549801+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1096,6 +1096,54 @@
       "name": "dof",
       "category": "discovered",
       "found_at": "2026-09-04T15:03:53.476918+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "formlabs",
+      "url": "https://job-boards.greenhouse.io/formlabs",
+      "name": "formlabs",
+      "category": "discovered",
+      "found_at": "2026-09-05T07:49:50.549696+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "fabulousco",
+      "url": "https://apply.workable.com/fabulousco/",
+      "name": "fabulousco",
+      "category": "discovered",
+      "found_at": "2026-09-05T07:49:50.549726+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "castaigroupinc",
+      "url": "https://job-boards.greenhouse.io/castaigroupinc",
+      "name": "castaigroupinc",
+      "category": "discovered",
+      "found_at": "2026-09-05T07:49:50.549754+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "bandainamco",
+      "url": "https://job-boards.greenhouse.io/bandainamco",
+      "name": "bandainamco",
+      "category": "discovered",
+      "found_at": "2026-09-05T07:49:50.549758+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "glow25",
+      "url": "https://jobs.ashbyhq.com/glow25",
+      "name": "glow25",
+      "category": "discovered",
+      "found_at": "2026-09-05T07:49:50.549762+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "marketonce",
+      "url": "https://ats.rippling.com/marketonce/jobs",
+      "name": "marketonce",
+      "category": "discovered",
+      "found_at": "2026-09-05T07:49:50.549767+00:00"
     }
   ]
 }
