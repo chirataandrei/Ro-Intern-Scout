@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T08:04:46.245801+00:00",
+  "updated_at": "2026-09-06T14:21:14.307951+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1168,6 +1168,46 @@
       "name": "decathlon-romania",
       "category": "discovered",
       "found_at": "2026-09-06T08:04:46.245768+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "rombo-ai",
+      "url": "https://rombo-ai.breezy.hr/",
+      "name": "rombo-ai",
+      "category": "discovered",
+      "found_at": "2026-09-06T14:21:14.307888+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "george-f-young",
+      "url": "https://george-f-young.breezy.hr/",
+      "name": "george-f-young",
+      "category": "discovered",
+      "found_at": "2026-09-06T14:21:14.307899+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "bgf",
+      "url": "https://bgf.breezy.hr/",
+      "name": "bgf",
+      "category": "discovered",
+      "found_at": "2026-09-06T14:21:14.307903+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "bmwc-constructors-inc",
+      "url": "https://bmwc-constructors-inc.breezy.hr/",
+      "name": "bmwc-constructors-inc",
+      "category": "discovered",
+      "found_at": "2026-09-06T14:21:14.307906+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "sponsorunited",
+      "url": "https://sponsorunited.breezy.hr/",
+      "name": "sponsorunited",
+      "category": "discovered",
+      "found_at": "2026-09-06T14:21:14.307909+00:00"
     }
   ]
 }
