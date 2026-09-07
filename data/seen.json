@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:05:23.023084+00:00",
+  "updated_at": "2026-09-07T09:53:02.519006+00:00",
   "ids": [
     "bestjobs:bestjobs:52061120",
     "bestjobs:bestjobs:52061121",
@@ -8,6 +8,7 @@
     "ejobs:ejobs:1980815",
     "ejobs:ejobs:1980985",
     "ejobs:ejobs:1982386",
+    "fp:06064c3702f9bf9b",
     "fp:0f8609bc849a0f9f",
     "fp:1608017af246e176",
     "fp:1afd2c56f5a8e7ea",
@@ -38,6 +39,7 @@
     "fp:a06ee06cbc0d90e2",
     "fp:b2940c89c18990df",
     "fp:b3589685742ef970",
+    "fp:bd5c5b8aec4d6aa8",
     "fp:becfe128d34d7448",
     "fp:bfe11c96fe25478c",
     "fp:c96b6c7d201b09e4",
@@ -210,6 +212,7 @@
     "juniors:juniors:14062",
     "juniors:juniors:14075",
     "juniors:juniors:14089",
+    "juniors:juniors:14097",
     "simplify:simplify:034a8e4e-0595-4935-943e-bb805676a5d2",
     "simplify:simplify:04690200-00da-4592-b697-fc3f8a39af9c",
     "simplify:simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
@@ -358,6 +361,7 @@
     "stagiipebune:stagiipebune:software-engineer-41916",
     "workday:analogdevices:/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261",
     "workday:nxp:/job/Bucharest/DevOps-Intern_R-10066169",
+    "workday:nxp:/job/Bucharest/Linux-SW-Engineering-Intern_R-10066622",
     "workday:nxp:/job/Bucharest/SW-Engineering-Intern_R-10064054",
     "workday:nxp:/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117",
     "workday:nxp:/job/Bucharest/System-Engineer-Intern_R-10064102",
