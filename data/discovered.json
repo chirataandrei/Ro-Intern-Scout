@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T14:21:14.307951+00:00",
+  "updated_at": "2026-09-07T08:34:53.524761+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1208,6 +1208,30 @@
       "name": "sponsorunited",
       "category": "discovered",
       "found_at": "2026-09-06T14:21:14.307909+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "camlin-careers",
+      "url": "https://ats.rippling.com/camlin-careers/jobs",
+      "name": "camlin-careers",
+      "category": "discovered",
+      "found_at": "2026-09-07T08:34:53.524706+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "kikomilano",
+      "url": "https://kikomilano.recruitee.com/",
+      "name": "kikomilano",
+      "category": "discovered",
+      "found_at": "2026-09-07T08:34:53.524726+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "openvpn",
+      "url": "https://openvpn.recruitee.com/",
+      "name": "openvpn",
+      "category": "discovered",
+      "found_at": "2026-09-07T08:34:53.524730+00:00"
     }
   ]
 }
