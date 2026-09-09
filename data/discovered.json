@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:15:06.718046+00:00",
+  "updated_at": "2026-09-09T08:20:31.741590+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1240,6 +1240,78 @@
       "name": "testronic",
       "category": "discovered",
       "found_at": "2026-09-08T15:15:06.718015+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "myedspacecareers",
+      "url": "https://jobs.ashbyhq.com/myedspacecareers",
+      "name": "myedspacecareers",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741486+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "apriorit",
+      "url": "https://apriorit.breezy.hr/",
+      "name": "apriorit",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741498+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "verifone",
+      "url": "https://job-boards.greenhouse.io/verifone",
+      "name": "verifone",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741507+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "ndi_careers",
+      "url": "https://ats.rippling.com/ndi_careers/jobs",
+      "name": "ndi_careers",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741512+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "retell-ai",
+      "url": "https://jobs.ashbyhq.com/retell-ai",
+      "name": "retell-ai",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741522+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "sideinc",
+      "url": "https://apply.workable.com/sideinc/",
+      "name": "sideinc",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741529+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "kairospower",
+      "url": "https://job-boards.greenhouse.io/kairospower",
+      "name": "kairospower",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741538+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "zuora",
+      "url": "https://job-boards.greenhouse.io/zuora",
+      "name": "zuora",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741540+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "onapsis",
+      "url": "https://job-boards.greenhouse.io/onapsis",
+      "name": "onapsis",
+      "category": "discovered",
+      "found_at": "2026-09-09T08:20:31.741543+00:00"
     }
   ]
 }
