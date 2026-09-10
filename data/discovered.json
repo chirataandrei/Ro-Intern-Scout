@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:20:46.665379+00:00",
+  "updated_at": "2026-09-10T15:09:40.197492+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1312,6 +1312,22 @@
       "name": "onapsis",
       "category": "discovered",
       "found_at": "2026-09-09T08:20:31.741543+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "jost",
+      "url": "https://jost.recruitee.com/",
+      "name": "jost",
+      "category": "discovered",
+      "found_at": "2026-09-10T15:09:40.197405+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "boggimilano1",
+      "url": "https://boggimilano1.recruitee.com/",
+      "name": "boggimilano1",
+      "category": "discovered",
+      "found_at": "2026-09-10T15:09:40.197445+00:00"
     }
   ]
 }
