@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:18:32.869056+00:00",
+  "updated_at": "2026-09-11T15:09:55.286963+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1328,6 +1328,14 @@
       "name": "boggimilano1",
       "category": "discovered",
       "found_at": "2026-09-10T15:09:40.197445+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "moss",
+      "url": "https://jobs.ashbyhq.com/moss",
+      "name": "moss",
+      "category": "discovered",
+      "found_at": "2026-09-11T15:09:55.286910+00:00"
     }
   ]
 }
