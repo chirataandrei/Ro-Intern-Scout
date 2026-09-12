@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:09:55.286963+00:00",
+  "updated_at": "2026-09-12T08:07:46.805335+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1336,6 +1336,30 @@
       "name": "moss",
       "category": "discovered",
       "found_at": "2026-09-11T15:09:55.286910+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "celonis",
+      "url": "https://job-boards.greenhouse.io/celonis",
+      "name": "celonis",
+      "category": "discovered",
+      "found_at": "2026-09-12T08:07:46.805278+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "shieldai",
+      "url": "https://jobs.lever.co/shieldai",
+      "name": "shieldai",
+      "category": "discovered",
+      "found_at": "2026-09-12T08:07:46.805292+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "ion1",
+      "url": "https://ion1.recruitee.com/",
+      "name": "ion1",
+      "category": "discovered",
+      "found_at": "2026-09-12T08:07:46.805303+00:00"
     }
   ]
 }
