@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T08:31:33.064375+00:00",
+  "updated_at": "2026-09-13T15:02:04.145033+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1368,6 +1368,38 @@
       "name": "dreamgolf",
       "category": "discovered",
       "found_at": "2026-09-12T14:19:01.589971+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "7am-enfant-inc",
+      "url": "https://7am-enfant-inc.breezy.hr/",
+      "name": "7am-enfant-inc",
+      "category": "discovered",
+      "found_at": "2026-09-13T15:02:04.144980+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "seidor",
+      "url": "https://seidor.breezy.hr/",
+      "name": "seidor",
+      "category": "discovered",
+      "found_at": "2026-09-13T15:02:04.144991+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "cronoseuropa",
+      "url": "https://cronoseuropa.breezy.hr/",
+      "name": "cronoseuropa",
+      "category": "discovered",
+      "found_at": "2026-09-13T15:02:04.144994+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "scality",
+      "url": "https://jobs.lever.co/scality",
+      "name": "scality",
+      "category": "discovered",
+      "found_at": "2026-09-13T15:02:04.145010+00:00"
     }
   ]
 }
