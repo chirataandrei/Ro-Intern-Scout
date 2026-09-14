@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T15:02:04.145033+00:00",
+  "updated_at": "2026-09-14T09:14:32.581698+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1400,6 +1400,54 @@
       "name": "scality",
       "category": "discovered",
       "found_at": "2026-09-13T15:02:04.145010+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "ebury",
+      "url": "https://job-boards.greenhouse.io/ebury",
+      "name": "ebury",
+      "category": "discovered",
+      "found_at": "2026-09-14T09:14:32.581630+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "q-sandbox",
+      "url": "https://q-sandbox.breezy.hr/",
+      "name": "q-sandbox",
+      "category": "discovered",
+      "found_at": "2026-09-14T09:14:32.581644+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "boxbar-tech",
+      "url": "https://boxbar-tech.breezy.hr/",
+      "name": "boxbar-tech",
+      "category": "discovered",
+      "found_at": "2026-09-14T09:14:32.581648+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "labman-automation",
+      "url": "https://labman-automation.breezy.hr/",
+      "name": "labman-automation",
+      "category": "discovered",
+      "found_at": "2026-09-14T09:14:32.581659+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "newground",
+      "url": "https://newground.breezy.hr/",
+      "name": "newground",
+      "category": "discovered",
+      "found_at": "2026-09-14T09:14:32.581662+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "heritage-roofing-and-construction",
+      "url": "https://heritage-roofing-and-construction.breezy.hr/",
+      "name": "heritage-roofing-and-construction",
+      "category": "discovered",
+      "found_at": "2026-09-14T09:14:32.581664+00:00"
     }
   ]
 }
