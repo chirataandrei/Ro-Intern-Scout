@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:01:39.937920+00:00",
+  "updated_at": "2026-09-15T08:54:54.870756+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1448,6 +1448,94 @@
       "name": "heritage-roofing-and-construction",
       "category": "discovered",
       "found_at": "2026-09-14T09:14:32.581664+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "avanceon",
+      "url": "https://avanceon.breezy.hr/",
+      "name": "avanceon",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870685+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "tsu",
+      "url": "https://tsu.breezy.hr/",
+      "name": "tsu",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870694+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "arduino",
+      "url": "https://arduino.breezy.hr/",
+      "name": "arduino",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870698+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "cisabroad",
+      "url": "https://cisabroad.breezy.hr/",
+      "name": "cisabroad",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870701+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "1001",
+      "url": "https://1001.breezy.hr/",
+      "name": "1001",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870703+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "raisingthevillage",
+      "url": "https://raisingthevillage.breezy.hr/",
+      "name": "raisingthevillage",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870706+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "bullfinch",
+      "url": "https://bullfinch.breezy.hr/",
+      "name": "bullfinch",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870708+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "sunday",
+      "url": "https://sunday.breezy.hr/",
+      "name": "sunday",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870710+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "developer",
+      "url": "https://developer.breezy.hr/",
+      "name": "developer",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870712+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "Aprio",
+      "url": "https://jobs.lever.co/Aprio",
+      "name": "Aprio",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870726+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "smart-working-solutions",
+      "url": "https://jobs.lever.co/smart-working-solutions",
+      "name": "smart-working-solutions",
+      "category": "discovered",
+      "found_at": "2026-09-15T08:54:54.870730+00:00"
     }
   ]
 }
