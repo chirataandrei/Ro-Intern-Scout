@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T15:39:41.108246+00:00",
+  "updated_at": "2026-09-16T08:48:22.428956+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1536,6 +1536,30 @@
       "name": "smart-working-solutions",
       "category": "discovered",
       "found_at": "2026-09-15T08:54:54.870730+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "obrio-76be502da02f",
+      "url": "https://obrio-76be502da02f.breezy.hr/",
+      "name": "obrio-76be502da02f",
+      "category": "discovered",
+      "found_at": "2026-09-16T08:48:22.428890+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "hsp-direct",
+      "url": "https://hsp-direct.breezy.hr/",
+      "name": "hsp-direct",
+      "category": "discovered",
+      "found_at": "2026-09-16T08:48:22.428912+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "godaddy",
+      "url": "https://job-boards.greenhouse.io/godaddy",
+      "name": "godaddy",
+      "category": "discovered",
+      "found_at": "2026-09-16T08:48:22.428923+00:00"
     }
   ]
 }

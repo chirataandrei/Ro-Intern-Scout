@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T15:39:52.476916+00:00",
+  "updated_at": "2026-09-16T08:48:33.631331+00:00",
   "items": [
     {
       "jobId": "2991696",
@@ -101,7 +101,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-09-15T15:39:46.548Z",
+      "scrapedAt": "2026-09-16T08:48:28.919Z",
       "query_id": "wellfound"
     },
     {
@@ -198,7 +198,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-09-15T15:39:46.548Z",
+      "scrapedAt": "2026-09-16T08:48:28.919Z",
       "query_id": "wellfound"
     },
     {
@@ -295,7 +295,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-09-15T15:39:46.548Z",
+      "scrapedAt": "2026-09-16T08:48:28.919Z",
       "query_id": "wellfound"
     },
     {
@@ -398,7 +398,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-09-15T15:39:46.548Z",
+      "scrapedAt": "2026-09-16T08:48:28.919Z",
       "query_id": "wellfound"
     }
   ]
