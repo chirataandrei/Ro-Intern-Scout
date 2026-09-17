@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T09:39:35.535382+00:00",
+  "updated_at": "2026-09-17T09:47:32.531227+00:00",
   "ids": [
     "bestjobs:bestjobs:52061120",
     "bestjobs:bestjobs:52061121",
@@ -15,6 +15,7 @@
     "fp:17d266a51ecdc92d",
     "fp:1afd2c56f5a8e7ea",
     "fp:22e6ecdabff19a1f",
+    "fp:239b98c6864913e9",
     "fp:2403f431cd56351b",
     "fp:2d3150b9cf594147",
     "fp:32f4a24f68ace585",
@@ -27,6 +28,7 @@
     "fp:4f32744863f8c560",
     "fp:5061d6db4dced337",
     "fp:50a3bc85d0f4c79d",
+    "fp:566e3defcf80a325",
     "fp:57fd7d2cdd4d51c2",
     "fp:5841a572d5efd8ff",
     "fp:585e901a2867319b",
@@ -198,6 +200,7 @@
     "greenhouse:worldquant:4572988006",
     "greenhouse:worldquant:4652485006",
     "greenhouse:worldquant:4655484006",
+    "himalayas:himalayas:https://himalayas.app/companies/carrier-com/jobs/intern-projectleider-technical-engineer-industrie",
     "hipo:hipo:222111",
     "hipo:hipo:270351",
     "hipo:hipo:271324",
@@ -371,6 +374,7 @@
     "workday:analogdevices:/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261",
     "workday:nvidia:/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
     "workday:nxp:/job/Bucharest/DevOps-Intern_R-10066169",
+    "workday:nxp:/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1",
     "workday:nxp:/job/Bucharest/Linux-SW-Engineering-Intern_R-10066622",
     "workday:nxp:/job/Bucharest/SW-Engineering-Intern_R-10064054",
     "workday:nxp:/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117",
