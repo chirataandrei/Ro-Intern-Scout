@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:30:27.778349+00:00",
+  "updated_at": "2026-09-17T08:52:35.266396+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1576,6 +1576,38 @@
       "name": "runware",
       "category": "discovered",
       "found_at": "2026-09-16T15:30:27.778321+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "independence-excavating",
+      "url": "https://independence-excavating.breezy.hr/",
+      "name": "independence-excavating",
+      "category": "discovered",
+      "found_at": "2026-09-17T08:52:35.266327+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "adah-international-llc",
+      "url": "https://adah-international-llc.breezy.hr/",
+      "name": "adah-international-llc",
+      "category": "discovered",
+      "found_at": "2026-09-17T08:52:35.266342+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "mind-friend",
+      "url": "https://apply.workable.com/mind-friend/",
+      "name": "mind-friend",
+      "category": "discovered",
+      "found_at": "2026-09-17T08:52:35.266351+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "ambaflex",
+      "url": "https://ambaflex.recruitee.com/",
+      "name": "ambaflex",
+      "category": "discovered",
+      "found_at": "2026-09-17T08:52:35.266370+00:00"
     }
   ]
 }
