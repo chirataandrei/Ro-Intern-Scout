@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:31:05.479936+00:00",
+  "updated_at": "2026-10-02T10:02:27.054857+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1920,6 +1920,78 @@
       "name": "omnisend",
       "category": "discovered",
       "found_at": "2026-09-18T08:27:42.911779+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "hive-fc-ber-gmbh",
+      "url": "https://ats.rippling.com/hive-fc-ber-gmbh/jobs",
+      "name": "hive-fc-ber-gmbh",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054771+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "fr-CA",
+      "url": "https://ats.rippling.com/fr-CA/jobs",
+      "name": "fr-CA",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054789+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "protective",
+      "url": "https://jobs.lever.co/protective",
+      "name": "protective",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054795+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "sarmad",
+      "url": "https://apply.workable.com/sarmad/",
+      "name": "sarmad",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054800+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "logifuture",
+      "url": "https://apply.workable.com/logifuture/",
+      "name": "logifuture",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054809+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "wepclinical",
+      "url": "https://jobs.lever.co/wepclinical",
+      "name": "wepclinical",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054814+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "menta",
+      "url": "https://jobs.lever.co/menta",
+      "name": "menta",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054817+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "pt-BR",
+      "url": "https://ats.rippling.com/pt-BR/jobs",
+      "name": "pt-BR",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054823+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "ivigee-services-as",
+      "url": "https://ats.rippling.com/ivigee-services-as/jobs",
+      "name": "ivigee-services-as",
+      "category": "discovered",
+      "found_at": "2026-10-02T10:02:27.054825+00:00"
     }
   ]
 }
