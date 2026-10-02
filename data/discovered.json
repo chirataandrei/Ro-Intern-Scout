@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:02:27.054857+00:00",
+  "updated_at": "2026-10-02T16:47:09.122235+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -1992,6 +1992,94 @@
       "name": "ivigee-services-as",
       "category": "discovered",
       "found_at": "2026-10-02T10:02:27.054825+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "nl-NL",
+      "url": "https://ats.rippling.com/nl-NL/jobs",
+      "name": "nl-NL",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122157+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "bisnow",
+      "url": "https://jobs.lever.co/bisnow",
+      "name": "bisnow",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122173+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "jamcity",
+      "url": "https://jobs.lever.co/jamcity",
+      "name": "jamcity",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122178+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "bpmcpa",
+      "url": "https://jobs.lever.co/bpmcpa",
+      "name": "bpmcpa",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122181+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "hhaexchange",
+      "url": "https://jobs.lever.co/hhaexchange",
+      "name": "hhaexchange",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122184+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "joshstoysandgames",
+      "url": "https://jobs.lever.co/joshstoysandgames",
+      "name": "joshstoysandgames",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122186+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "forourfuturefund",
+      "url": "https://jobs.lever.co/forourfuturefund",
+      "name": "forourfuturefund",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122188+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "reviverx",
+      "url": "https://jobs.lever.co/reviverx",
+      "name": "reviverx",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122190+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "lunaphysicaltherapy",
+      "url": "https://jobs.lever.co/lunaphysicaltherapy",
+      "name": "lunaphysicaltherapy",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122192+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "pt-PT",
+      "url": "https://ats.rippling.com/pt-PT/jobs",
+      "name": "pt-PT",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122202+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "es-ES",
+      "url": "https://ats.rippling.com/es-ES/jobs",
+      "name": "es-ES",
+      "category": "discovered",
+      "found_at": "2026-10-02T16:47:09.122204+00:00"
     }
   ]
 }
