@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:47:09.122235+00:00",
+  "updated_at": "2026-10-03T09:24:12.312480+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2080,6 +2080,38 @@
       "name": "es-ES",
       "category": "discovered",
       "found_at": "2026-10-02T16:47:09.122204+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "vald",
+      "url": "https://vald.breezy.hr/",
+      "name": "vald",
+      "category": "discovered",
+      "found_at": "2026-10-03T09:24:12.312409+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "incat-crowther-au",
+      "url": "https://ats.rippling.com/incat-crowther-au/jobs",
+      "name": "incat-crowther-au",
+      "category": "discovered",
+      "found_at": "2026-10-03T09:24:12.312427+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "minerva-marine-official",
+      "url": "https://apply.workable.com/minerva-marine-official/",
+      "name": "minerva-marine-official",
+      "category": "discovered",
+      "found_at": "2026-10-03T09:24:12.312433+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "6sense",
+      "url": "https://job-boards.greenhouse.io/6sense",
+      "name": "6sense",
+      "category": "discovered",
+      "found_at": "2026-10-03T09:24:12.312448+00:00"
     }
   ]
 }
