@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T09:24:12.312480+00:00",
+  "updated_at": "2026-10-03T20:08:21.984045+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2112,6 +2112,70 @@
       "name": "6sense",
       "category": "discovered",
       "found_at": "2026-10-03T09:24:12.312448+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "masterycharter",
+      "url": "https://jobs.lever.co/masterycharter",
+      "name": "masterycharter",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.983979+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "costello-medical",
+      "url": "https://apply.workable.com/costello-medical/",
+      "name": "costello-medical",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.983991+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "seeknow",
+      "url": "https://seeknow.breezy.hr/",
+      "name": "seeknow",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.983998+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "mukuru",
+      "url": "https://mukuru.breezy.hr/",
+      "name": "mukuru",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.984001+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "brella",
+      "url": "https://brella.breezy.hr/",
+      "name": "brella",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.984003+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "zifty",
+      "url": "https://zifty.breezy.hr/",
+      "name": "zifty",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.984006+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "oreganos",
+      "url": "https://oreganos.breezy.hr/",
+      "name": "oreganos",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.984008+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "agoda",
+      "url": "https://job-boards.greenhouse.io/agoda",
+      "name": "agoda",
+      "category": "discovered",
+      "found_at": "2026-10-03T20:08:21.984017+00:00"
     }
   ]
 }
