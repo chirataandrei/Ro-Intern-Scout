@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T10:02:08.190740+00:00",
+  "updated_at": "2026-10-04T20:23:09.291703+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2288,6 +2288,126 @@
       "name": "capula-investment-management-ltd",
       "category": "discovered",
       "found_at": "2026-10-04T10:02:08.190698+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "matrix-design-group",
+      "url": "https://matrix-design-group.breezy.hr/",
+      "name": "matrix-design-group",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291606+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "ckh-group",
+      "url": "https://ckh-group.breezy.hr/",
+      "name": "ckh-group",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291617+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "ancient-crunch",
+      "url": "https://ancient-crunch.breezy.hr/",
+      "name": "ancient-crunch",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291622+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "sibros-technologies",
+      "url": "https://ats.rippling.com/sibros-technologies/jobs",
+      "name": "sibros-technologies",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291629+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "kids-in-the-game",
+      "url": "https://apply.workable.com/kids-in-the-game/",
+      "name": "kids-in-the-game",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291638+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "iita",
+      "url": "https://apply.workable.com/iita/",
+      "name": "iita",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291641+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "careers-at-sleek",
+      "url": "https://apply.workable.com/careers-at-sleek/",
+      "name": "careers-at-sleek",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291644+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "trading212",
+      "url": "https://jobs.ashbyhq.com/trading212",
+      "name": "trading212",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291649+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "hermeus",
+      "url": "https://jobs.lever.co/hermeus",
+      "name": "hermeus",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291654+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "brafton",
+      "url": "https://jobs.lever.co/brafton",
+      "name": "brafton",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291657+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "acceldata",
+      "url": "https://jobs.lever.co/acceldata",
+      "name": "acceldata",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291659+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "emburse",
+      "url": "https://jobs.lever.co/emburse",
+      "name": "emburse",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291661+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "lodgify",
+      "url": "https://jobs.lever.co/lodgify",
+      "name": "lodgify",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291664+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "bayutdubizzle",
+      "url": "https://apply.workable.com/bayutdubizzle/",
+      "name": "bayutdubizzle",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291671+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "export-development-canada",
+      "url": "https://apply.workable.com/export-development-canada/",
+      "name": "export-development-canada",
+      "category": "discovered",
+      "found_at": "2026-10-04T20:23:09.291673+00:00"
     }
   ]
 }
