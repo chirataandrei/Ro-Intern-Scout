@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T20:08:21.984045+00:00",
+  "updated_at": "2026-10-04T10:02:08.190740+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2176,6 +2176,118 @@
       "name": "agoda",
       "category": "discovered",
       "found_at": "2026-10-03T20:08:21.984017+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "veeamsoftware",
+      "url": "https://job-boards.greenhouse.io/veeamsoftware",
+      "name": "veeamsoftware",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190638+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "esr-group",
+      "url": "https://apply.workable.com/esr-group/",
+      "name": "esr-group",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190653+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "gemmo",
+      "url": "https://apply.workable.com/gemmo/",
+      "name": "gemmo",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190658+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "kent-companies",
+      "url": "https://apply.workable.com/kent-companies/",
+      "name": "kent-companies",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190662+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "progressoft",
+      "url": "https://apply.workable.com/progressoft/",
+      "name": "progressoft",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190665+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "ezrecruiting",
+      "url": "https://apply.workable.com/ezrecruiting/",
+      "name": "ezrecruiting",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190667+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "pivotal",
+      "url": "https://jobs.lever.co/pivotal",
+      "name": "pivotal",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190671+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "allegiantair",
+      "url": "https://jobs.lever.co/allegiantair",
+      "name": "allegiantair",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190673+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "mainspringenergy",
+      "url": "https://jobs.lever.co/mainspringenergy",
+      "name": "mainspringenergy",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190676+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "appen",
+      "url": "https://jobs.lever.co/appen",
+      "name": "appen",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190678+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "portcast",
+      "url": "https://jobs.lever.co/portcast",
+      "name": "portcast",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190681+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "aisle_and_abroad",
+      "url": "https://jobs.lever.co/aisle_and_abroad",
+      "name": "aisle_and_abroad",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190683+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "rivr",
+      "url": "https://jobs.lever.co/rivr",
+      "name": "rivr",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190685+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "capula-investment-management-ltd",
+      "url": "https://apply.workable.com/capula-investment-management-ltd/",
+      "name": "capula-investment-management-ltd",
+      "category": "discovered",
+      "found_at": "2026-10-04T10:02:08.190698+00:00"
     }
   ]
 }
