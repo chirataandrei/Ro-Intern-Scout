@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T20:23:09.291703+00:00",
+  "updated_at": "2026-10-05T10:48:17.928287+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2408,6 +2408,22 @@
       "name": "export-development-canada",
       "category": "discovered",
       "found_at": "2026-10-04T20:23:09.291673+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "kare",
+      "url": "https://kare.breezy.hr/",
+      "name": "kare",
+      "category": "discovered",
+      "found_at": "2026-10-05T10:48:17.928232+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "nexuse-group",
+      "url": "https://jobs.lever.co/nexuse-group",
+      "name": "nexuse-group",
+      "category": "discovered",
+      "found_at": "2026-10-05T10:48:17.928246+00:00"
     }
   ]
 }
