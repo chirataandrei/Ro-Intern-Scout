@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T10:43:19.746102+00:00",
+  "updated_at": "2026-10-06T17:24:13.479703+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2424,6 +2424,70 @@
       "name": "nexuse-group",
       "category": "discovered",
       "found_at": "2026-10-05T10:48:17.928246+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "quandri",
+      "url": "https://jobs.lever.co/quandri",
+      "name": "quandri",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479619+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "truezerotech",
+      "url": "https://jobs.lever.co/truezerotech",
+      "name": "truezerotech",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479628+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "chownow",
+      "url": "https://jobs.lever.co/chownow",
+      "name": "chownow",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479632+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "dexterity",
+      "url": "https://jobs.lever.co/dexterity",
+      "name": "dexterity",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479635+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "ppfa",
+      "url": "https://jobs.lever.co/ppfa",
+      "name": "ppfa",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479638+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "sait",
+      "url": "https://jobs.lever.co/sait",
+      "name": "sait",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479640+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "heartbeathealth",
+      "url": "https://jobs.lever.co/heartbeathealth",
+      "name": "heartbeathealth",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479642+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "secondfoundation",
+      "url": "https://job-boards.greenhouse.io/secondfoundation",
+      "name": "secondfoundation",
+      "category": "discovered",
+      "found_at": "2026-10-06T17:24:13.479652+00:00"
     }
   ]
 }
