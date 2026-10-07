@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T10:35:08.099441+00:00",
+  "updated_at": "2026-10-07T17:59:40.454726+00:00",
   "items": [
     {
       "jobId": "2991696",
@@ -101,7 +101,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-10-07T10:35:04.232Z",
+      "scrapedAt": "2026-10-07T17:59:36.683Z",
       "query_id": "wellfound"
     },
     {
@@ -204,7 +204,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-10-07T10:35:04.232Z",
+      "scrapedAt": "2026-10-07T17:59:36.683Z",
       "query_id": "wellfound"
     },
     {
@@ -305,7 +305,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-10-07T10:35:04.232Z",
+      "scrapedAt": "2026-10-07T17:59:36.683Z",
       "query_id": "wellfound"
     },
     {
@@ -401,7 +401,7 @@
       "recruitingContact": null,
       "sourcePageUrl": "https://wellfound.com/role/l/software-engineer/romania",
       "sourcePageIndex": 1,
-      "scrapedAt": "2026-10-07T10:35:04.232Z",
+      "scrapedAt": "2026-10-07T17:59:36.683Z",
       "freePlanNote": "Some fields in this row are partly hidden on the free Apify plan. Any paid Apify plan shows every field in full.",
       "query_id": "wellfound"
     }
