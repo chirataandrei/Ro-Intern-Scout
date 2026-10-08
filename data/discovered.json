@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T10:55:03.570111+00:00",
+  "updated_at": "2026-10-08T17:59:34.735009+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2488,6 +2488,174 @@
       "name": "secondfoundation",
       "category": "discovered",
       "found_at": "2026-10-06T17:24:13.479652+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "reveleer",
+      "url": "https://reveleer.breezy.hr/",
+      "name": "reveleer",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734913+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "selenios",
+      "url": "https://selenios.breezy.hr/",
+      "name": "selenios",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734925+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "almentor",
+      "url": "https://almentor.breezy.hr/",
+      "name": "almentor",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734929+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "talentmovers",
+      "url": "https://talentmovers.breezy.hr/",
+      "name": "talentmovers",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734931+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "rodriguez",
+      "url": "https://rodriguez.breezy.hr/",
+      "name": "rodriguez",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734934+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "turaco",
+      "url": "https://turaco.breezy.hr/",
+      "name": "turaco",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734936+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "insomniacookies",
+      "url": "https://jobs.lever.co/insomniacookies",
+      "name": "insomniacookies",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734939+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "layup",
+      "url": "https://jobs.lever.co/layup",
+      "name": "layup",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734942+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "mable",
+      "url": "https://jobs.lever.co/mable",
+      "name": "mable",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734944+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "enablecomp",
+      "url": "https://jobs.lever.co/enablecomp",
+      "name": "enablecomp",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734946+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "redhorsecorp",
+      "url": "https://jobs.lever.co/redhorsecorp",
+      "name": "redhorsecorp",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734949+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "oklo",
+      "url": "https://job-boards.greenhouse.io/oklo",
+      "name": "oklo",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734953+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "perryhomes",
+      "url": "https://apply.workable.com/perryhomes/",
+      "name": "perryhomes",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734961+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "pacific-defense",
+      "url": "https://apply.workable.com/pacific-defense/",
+      "name": "pacific-defense",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734964+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "neon-logistics-1",
+      "url": "https://apply.workable.com/neon-logistics-1/",
+      "name": "neon-logistics-1",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734966+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "wellscoleman",
+      "url": "https://apply.workable.com/wellscoleman/",
+      "name": "wellscoleman",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734968+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "icp-careers",
+      "url": "https://ats.rippling.com/icp-careers/jobs",
+      "name": "icp-careers",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734972+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "tensorlake",
+      "url": "https://ats.rippling.com/tensorlake/jobs",
+      "name": "tensorlake",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734974+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "ares-interactive-careers",
+      "url": "https://ats.rippling.com/ares-interactive-careers/jobs",
+      "name": "ares-interactive-careers",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734976+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "glengroup",
+      "url": "https://ats.rippling.com/glengroup/jobs",
+      "name": "glengroup",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734979+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "commandlink",
+      "url": "https://ats.rippling.com/commandlink/jobs",
+      "name": "commandlink",
+      "category": "discovered",
+      "found_at": "2026-10-08T17:59:34.734982+00:00"
     }
   ]
 }
