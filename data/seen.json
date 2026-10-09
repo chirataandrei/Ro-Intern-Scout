@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:49:02.873040+00:00",
+  "updated_at": "2026-10-09T11:37:18.415442+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -22,6 +22,7 @@
     "ejobs:ejobs:99247969",
     "fp:06064c3702f9bf9b",
     "fp:0f8609bc849a0f9f",
+    "fp:15348b88a0311c18",
     "fp:1608017af246e176",
     "fp:17d266a51ecdc92d",
     "fp:1afd2c56f5a8e7ea",
@@ -56,6 +57,7 @@
     "fp:73f3055ba43e1f6b",
     "fp:750459bf4e7e796c",
     "fp:7712a2a7d9ef514f",
+    "fp:78cfc19f9c49c8e7",
     "fp:7b4a8c7d2280712f",
     "fp:7e8d182f66678a3b",
     "fp:8223d2489ad1b311",
@@ -394,6 +396,7 @@
     "smartrecruiters:Continental:744000131426259",
     "smartrecruiters:Continental:744000133557659",
     "smartrecruiters:Continental:744000144242540",
+    "smartrecruiters:Continental:744000154489799",
     "smartrecruiters:RolandBerger:744000146727479",
     "stagiipebune:stagiipebune:ai-infrastructure-engineer-intern-36326",
     "stagiipebune:stagiipebune:arcannaai-ai-systems-engineer-paid-and-full-time-35298",
@@ -411,6 +414,7 @@
     "workday:nxp:/job/Bucharest/Linux-SW-Engineering-Intern_R-10066622",
     "workday:nxp:/job/Bucharest/SW-Engineering-Intern_R-10064054",
     "workday:nxp:/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117",
+    "workday:nxp:/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965",
     "workday:nxp:/job/Bucharest/System-Engineer-Intern_R-10064102",
     "workday:nxp:/job/Bucharest/System-Engineer-Intern_R-10064103-1",
     "workday:nxp:/job/Bucharest/System-Engineer-Intern_R-10064104",
