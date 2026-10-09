@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T10:53:50.843842+00:00",
+  "updated_at": "2026-10-09T17:34:16.965811+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2656,6 +2656,102 @@
       "name": "commandlink",
       "category": "discovered",
       "found_at": "2026-10-08T17:59:34.734982+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "qlub",
+      "url": "https://jobs.ashbyhq.com/qlub",
+      "name": "qlub",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965729+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "taktile",
+      "url": "https://jobs.ashbyhq.com/taktile",
+      "name": "taktile",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965741+00:00"
+    },
+    {
+      "ats": "join",
+      "token": "thehappycustomerscom",
+      "url": "https://join.com/companies/thehappycustomerscom",
+      "name": "thehappycustomerscom",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965747+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "quandela",
+      "url": "https://apply.workable.com/quandela/",
+      "name": "quandela",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965750+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "3e",
+      "url": "https://apply.workable.com/3e/",
+      "name": "3e",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965752+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "seatedapp",
+      "url": "https://apply.workable.com/seatedapp/",
+      "name": "seatedapp",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965755+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "teleport-careers",
+      "url": "https://apply.workable.com/teleport-careers/",
+      "name": "teleport-careers",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965758+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "destinusgroup",
+      "url": "https://apply.workable.com/destinusgroup/",
+      "name": "destinusgroup",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965760+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "pl-PL",
+      "url": "https://ats.rippling.com/pl-PL/jobs",
+      "name": "pl-PL",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965764+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "prime-data-centers",
+      "url": "https://ats.rippling.com/prime-data-centers/jobs",
+      "name": "prime-data-centers",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965767+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "everbridge",
+      "url": "https://jobs.lever.co/everbridge",
+      "name": "everbridge",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965773+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "foodsmart",
+      "url": "https://jobs.lever.co/foodsmart",
+      "name": "foodsmart",
+      "category": "discovered",
+      "found_at": "2026-10-09T17:34:16.965775+00:00"
     }
   ]
 }
