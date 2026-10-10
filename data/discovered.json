@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T10:08:14.631442+00:00",
+  "updated_at": "2026-10-10T16:22:12.573159+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2752,6 +2752,174 @@
       "name": "foodsmart",
       "category": "discovered",
       "found_at": "2026-10-09T17:34:16.965775+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "yuno",
+      "url": "https://jobs.lever.co/yuno",
+      "name": "yuno",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573046+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "ajax",
+      "url": "https://jobs.lever.co/ajax",
+      "name": "ajax",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573057+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "brevo",
+      "url": "https://jobs.lever.co/brevo",
+      "name": "brevo",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573061+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "weekdayworks",
+      "url": "https://jobs.lever.co/weekdayworks",
+      "name": "weekdayworks",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573064+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "bhhc",
+      "url": "https://jobs.lever.co/bhhc",
+      "name": "bhhc",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573067+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "6037",
+      "url": "https://6037.breezy.hr/",
+      "name": "6037",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573075+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "sunenergy1",
+      "url": "https://sunenergy1.breezy.hr/",
+      "name": "sunenergy1",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573078+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "rise",
+      "url": "https://jobs.lever.co/rise",
+      "name": "rise",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573087+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "cyderes",
+      "url": "https://jobs.lever.co/cyderes",
+      "name": "cyderes",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573089+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "flowlife",
+      "url": "https://jobs.lever.co/flowlife",
+      "name": "flowlife",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573092+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "ninjavan",
+      "url": "https://jobs.lever.co/ninjavan",
+      "name": "ninjavan",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573094+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "meesho",
+      "url": "https://jobs.lever.co/meesho",
+      "name": "meesho",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573096+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "placemakr",
+      "url": "https://jobs.lever.co/placemakr",
+      "name": "placemakr",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573099+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "candlinspection",
+      "url": "https://jobs.lever.co/candlinspection",
+      "name": "candlinspection",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573101+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "royal-electric",
+      "url": "https://apply.workable.com/royal-electric/",
+      "name": "royal-electric",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573108+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "middlesexda",
+      "url": "https://apply.workable.com/middlesexda/",
+      "name": "middlesexda",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573111+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "steer-group",
+      "url": "https://apply.workable.com/steer-group/",
+      "name": "steer-group",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573114+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "redesigncareers",
+      "url": "https://ats.rippling.com/redesigncareers/jobs",
+      "name": "redesigncareers",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573120+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "vbspineco",
+      "url": "https://ats.rippling.com/vbspineco/jobs",
+      "name": "vbspineco",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573122+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "ascentt",
+      "url": "https://ats.rippling.com/ascentt/jobs",
+      "name": "ascentt",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573124+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "westmichiganacademyofenvironmentalscience",
+      "url": "https://ats.rippling.com/westmichiganacademyofenvironmentalscience/jobs",
+      "name": "westmichiganacademyofenvironmentalscience",
+      "category": "discovered",
+      "found_at": "2026-10-10T16:22:12.573126+00:00"
     }
   ]
 }
