@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T11:07:54.575007+00:00",
+  "updated_at": "2026-10-12T12:36:37.156935+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -34,6 +34,7 @@
     "fp:368a41a4fc07703a",
     "fp:3b2f1d3e3bc1fbe6",
     "fp:3e7d5ba6da51a149",
+    "fp:3effd298001fbec7",
     "fp:405e3f34c848f9a3",
     "fp:48ad085094047b22",
     "fp:4c0f9b97a85034d4",
@@ -53,6 +54,7 @@
     "fp:5f280b710baeb90f",
     "fp:692e9c0ae0966cdc",
     "fp:701b5212faed0af1",
+    "fp:71ddb887d91da581",
     "fp:7296be2d821ea79f",
     "fp:73f3055ba43e1f6b",
     "fp:750459bf4e7e796c",
@@ -257,6 +259,7 @@
     "juniors:juniors:14089",
     "juniors:juniors:14097",
     "juniors:juniors:14121",
+    "juniors:juniors:14153",
     "simplify:simplify:034a8e4e-0595-4935-943e-bb805676a5d2",
     "simplify:simplify:04690200-00da-4592-b697-fc3f8a39af9c",
     "simplify:simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
@@ -409,6 +412,7 @@
     "stagiipebune:stagiipebune:software-engineer-41916",
     "workday:analogdevices:/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261",
     "workday:nvidia:/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334",
+    "workday:nvidia:/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378",
     "workday:nxp:/job/Bucharest/DevOps-Intern_R-10066169",
     "workday:nxp:/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1",
     "workday:nxp:/job/Bucharest/Linux-SW-Engineering-Intern_R-10066622",
