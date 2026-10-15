@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T09:52:52.407531+00:00",
+  "updated_at": "2026-10-15T09:33:29.503040+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -27,6 +27,7 @@
     "fp:17d266a51ecdc92d",
     "fp:18130a6c1db37ff2",
     "fp:1afd2c56f5a8e7ea",
+    "fp:22e65af12390a625",
     "fp:22e6ecdabff19a1f",
     "fp:239b98c6864913e9",
     "fp:2403f431cd56351b",
@@ -63,6 +64,7 @@
     "fp:78cfc19f9c49c8e7",
     "fp:7b4a8c7d2280712f",
     "fp:7e8d182f66678a3b",
+    "fp:8078f52e2635a1ac",
     "fp:8223d2489ad1b311",
     "fp:84a8ce92d8ca3eeb",
     "fp:871a1776731155eb",
@@ -396,6 +398,7 @@
     "smartrecruiters:AUMOVIO:744000148683959",
     "smartrecruiters:AUMOVIO:744000151757129",
     "smartrecruiters:AUMOVIO:744000155460164",
+    "smartrecruiters:AUMOVIO:744000155464009",
     "smartrecruiters:BoschGroup:744000113124977",
     "smartrecruiters:Continental:744000124415739",
     "smartrecruiters:Continental:744000131426259",
@@ -418,6 +421,7 @@
     "workday:nxp:/job/Bucharest/DevOps-Intern_R-10066169",
     "workday:nxp:/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1",
     "workday:nxp:/job/Bucharest/Linux-SW-Engineering-Intern_R-10066622",
+    "workday:nxp:/job/Bucharest/Radar-SDK-Internship-Student_R-10067346",
     "workday:nxp:/job/Bucharest/SW-Engineering-Intern_R-10064054",
     "workday:nxp:/job/Bucharest/Software-Intern-Student---RealTime-Drivers_R-10062117",
     "workday:nxp:/job/Bucharest/Software-Internship---Systems-Engineering_R-10066965",
