@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:19:59.964760+00:00",
+  "updated_at": "2026-10-29T10:21:34.854416+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -2920,6 +2920,174 @@
       "name": "westmichiganacademyofenvironmentalscience",
       "category": "discovered",
       "found_at": "2026-10-10T16:22:12.573126+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "avomind",
+      "url": "https://apply.workable.com/avomind/",
+      "name": "avomind",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854312+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "lucidya",
+      "url": "https://apply.workable.com/lucidya/",
+      "name": "lucidya",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854326+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "winthrop-technologies",
+      "url": "https://apply.workable.com/winthrop-technologies/",
+      "name": "winthrop-technologies",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854330+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "careers-ewingirrigation",
+      "url": "https://apply.workable.com/careers-ewingirrigation/",
+      "name": "careers-ewingirrigation",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854332+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "manifattura-mario-colombo",
+      "url": "https://apply.workable.com/manifattura-mario-colombo/",
+      "name": "manifattura-mario-colombo",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854335+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "kwetta",
+      "url": "https://ats.rippling.com/kwetta/jobs",
+      "name": "kwetta",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854339+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "impossiblecloud",
+      "url": "https://jobs.lever.co/impossiblecloud",
+      "name": "impossiblecloud",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854344+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "scbitdefendersrl",
+      "url": "https://job-boards.greenhouse.io/scbitdefendersrl",
+      "name": "scbitdefendersrl",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854350+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "careersday",
+      "url": "https://job-boards.greenhouse.io/careersday",
+      "name": "careersday",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854353+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "flowkey",
+      "url": "https://flowkey.breezy.hr/",
+      "name": "flowkey",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854356+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "cesar",
+      "url": "https://cesar.breezy.hr/",
+      "name": "cesar",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854359+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "wersirius",
+      "url": "https://wersirius.breezy.hr/",
+      "name": "wersirius",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854362+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "whc",
+      "url": "https://ats.rippling.com/whc/jobs",
+      "name": "whc",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854367+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "sevlaser",
+      "url": "https://ats.rippling.com/sevlaser/jobs",
+      "name": "sevlaser",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854369+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "anchorhome",
+      "url": "https://ats.rippling.com/anchorhome/jobs",
+      "name": "anchorhome",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854371+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "redrosecare",
+      "url": "https://ats.rippling.com/redrosecare/jobs",
+      "name": "redrosecare",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854374+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "arabybrand",
+      "url": "https://apply.workable.com/arabybrand/",
+      "name": "arabybrand",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854376+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "electrum",
+      "url": "https://apply.workable.com/electrum/",
+      "name": "electrum",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854379+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "flat6labs",
+      "url": "https://apply.workable.com/flat6labs/",
+      "name": "flat6labs",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854381+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "archimed",
+      "url": "https://apply.workable.com/archimed/",
+      "name": "archimed",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854384+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "academy-of-medical-sciences",
+      "url": "https://apply.workable.com/academy-of-medical-sciences/",
+      "name": "academy-of-medical-sciences",
+      "category": "discovered",
+      "found_at": "2026-10-29T10:21:34.854386+00:00"
     }
   ]
 }
