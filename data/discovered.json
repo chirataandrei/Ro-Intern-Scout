@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:24:52.133769+00:00",
+  "updated_at": "2026-10-30T17:07:52.610408+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3208,6 +3208,22 @@
       "name": "brady-martz",
       "category": "discovered",
       "found_at": "2026-10-29T17:31:44.868876+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "cresilon",
+      "url": "https://apply.workable.com/cresilon/",
+      "name": "cresilon",
+      "category": "discovered",
+      "found_at": "2026-10-30T17:07:52.610364+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "en-CA",
+      "url": "https://ats.rippling.com/en-CA/jobs",
+      "name": "en-CA",
+      "category": "discovered",
+      "found_at": "2026-10-30T17:07:52.610377+00:00"
     }
   ]
 }
