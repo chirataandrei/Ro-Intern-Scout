@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:08:23.948717+00:00",
+  "updated_at": "2026-10-31T10:42:24.101672+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -81,6 +81,7 @@
     "fp:871a1776731155eb",
     "fp:962bba1368b23d30",
     "fp:973c444380041983",
+    "fp:9848718d75461c96",
     "fp:9c5a779da7d555bc",
     "fp:9dc468cea6f319b5",
     "fp:a06ee06cbc0d90e2",
@@ -255,6 +256,7 @@
     "greenhouse:worldquant:4572988006",
     "greenhouse:worldquant:4652485006",
     "greenhouse:worldquant:4655484006",
+    "himalayas:himalayas:https://himalayas.app/companies/bluewind-s-r-l/jobs/internship-dependable-embedded-systems-development",
     "himalayas:himalayas:https://himalayas.app/companies/carrier-com/jobs/intern-projectleider-technical-engineer-industrie",
     "himalayas:himalayas:https://himalayas.app/companies/nvidia/jobs/genai-algorithms-intern-model-optimization-for-inference",
     "hipo:hipo:222111",
