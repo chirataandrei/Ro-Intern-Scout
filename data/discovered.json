@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:15:41.252055+00:00",
+  "updated_at": "2026-11-01T10:46:01.709576+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3232,6 +3232,14 @@
       "name": "flip",
       "category": "discovered",
       "found_at": "2026-10-31T16:15:41.252011+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "allied-global-marketing",
+      "url": "https://ats.rippling.com/allied-global-marketing/jobs",
+      "name": "allied-global-marketing",
+      "category": "discovered",
+      "found_at": "2026-11-01T10:46:01.709533+00:00"
     }
   ]
 }
