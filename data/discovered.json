@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T10:46:01.709576+00:00",
+  "updated_at": "2026-11-01T17:13:53.046607+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3240,6 +3240,14 @@
       "name": "allied-global-marketing",
       "category": "discovered",
       "found_at": "2026-11-01T10:46:01.709533+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "lamdax",
+      "url": "https://apply.workable.com/lamdax/",
+      "name": "lamdax",
+      "category": "discovered",
+      "found_at": "2026-11-01T17:13:53.046544+00:00"
     }
   ]
 }
