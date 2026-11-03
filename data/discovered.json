@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:15:47.430214+00:00",
+  "updated_at": "2026-11-03T18:36:08.089653+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3296,6 +3296,14 @@
       "name": "globalstrategygroup",
       "category": "discovered",
       "found_at": "2026-11-03T11:15:47.430181+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "consensys",
+      "url": "https://jobs.ashbyhq.com/consensys",
+      "name": "consensys",
+      "category": "discovered",
+      "found_at": "2026-11-03T18:36:08.089604+00:00"
     }
   ]
 }
