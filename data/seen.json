@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T13:00:10.777261+00:00",
+  "updated_at": "2026-11-03T12:31:48.178958+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -43,6 +43,7 @@
     "fp:3cde18e2e08d9329",
     "fp:3e7d5ba6da51a149",
     "fp:3effd298001fbec7",
+    "fp:3f26d9cb3f488103",
     "fp:3f687be29d2bf5ae",
     "fp:405e3f34c848f9a3",
     "fp:45ff0b4b0fa72c8b",
@@ -79,6 +80,7 @@
     "fp:8223d2489ad1b311",
     "fp:84a8ce92d8ca3eeb",
     "fp:871a1776731155eb",
+    "fp:8b35039e32b88678",
     "fp:962bba1368b23d30",
     "fp:973c444380041983",
     "fp:9848718d75461c96",
@@ -258,6 +260,7 @@
     "greenhouse:worldquant:4655484006",
     "himalayas:himalayas:https://himalayas.app/companies/bluewind-s-r-l/jobs/internship-dependable-embedded-systems-development",
     "himalayas:himalayas:https://himalayas.app/companies/carrier-com/jobs/intern-projectleider-technical-engineer-industrie",
+    "himalayas:himalayas:https://himalayas.app/companies/crisalix/jobs/ai-automation-prototyping-intern-location-barcelona-spain-dubai-uae-laus",
     "himalayas:himalayas:https://himalayas.app/companies/nvidia/jobs/genai-algorithms-intern-model-optimization-for-inference",
     "hipo:hipo:222111",
     "hipo:hipo:270351",
@@ -448,6 +451,7 @@
     "stagiipebune:stagiipebune:software-engineer-41916",
     "workday:adobe:/job/Bucharest/XMLNAME-2027-Intern---Technical-Support-Engineer_R172702-1",
     "workday:adobe:/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018",
+    "workday:analogdevices:/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116",
     "workday:analogdevices:/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267119-1",
     "workday:analogdevices:/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261",
     "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
