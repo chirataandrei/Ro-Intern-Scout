@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T11:38:56.099381+00:00",
+  "updated_at": "2026-11-03T00:02:18.521108+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3248,6 +3248,30 @@
       "name": "lamdax",
       "category": "discovered",
       "found_at": "2026-11-01T17:13:53.046544+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "finary",
+      "url": "https://jobs.ashbyhq.com/finary",
+      "name": "finary",
+      "category": "discovered",
+      "found_at": "2026-11-03T00:02:18.521017+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "foundant-careers",
+      "url": "https://ats.rippling.com/foundant-careers/jobs",
+      "name": "foundant-careers",
+      "category": "discovered",
+      "found_at": "2026-11-03T00:02:18.521030+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "celsius",
+      "url": "https://apply.workable.com/celsius/",
+      "name": "celsius",
+      "category": "discovered",
+      "found_at": "2026-11-03T00:02:18.521037+00:00"
     }
   ]
 }
