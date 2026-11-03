@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:02:18.521108+00:00",
+  "updated_at": "2026-11-03T11:15:47.430214+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3272,6 +3272,30 @@
       "name": "celsius",
       "category": "discovered",
       "found_at": "2026-11-03T00:02:18.521037+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "asm",
+      "url": "https://job-boards.greenhouse.io/asm",
+      "name": "asm",
+      "category": "discovered",
+      "found_at": "2026-11-03T11:15:47.430154+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "fireblocks",
+      "url": "https://job-boards.greenhouse.io/fireblocks",
+      "name": "fireblocks",
+      "category": "discovered",
+      "found_at": "2026-11-03T11:15:47.430170+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "globalstrategygroup",
+      "url": "https://jobs.lever.co/globalstrategygroup",
+      "name": "globalstrategygroup",
+      "category": "discovered",
+      "found_at": "2026-11-03T11:15:47.430181+00:00"
     }
   ]
 }
