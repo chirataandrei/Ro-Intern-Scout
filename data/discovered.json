@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:27:19.606275+00:00",
+  "updated_at": "2026-11-04T18:48:00.814312+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3328,6 +3328,102 @@
       "name": "ec-electric",
       "category": "discovered",
       "found_at": "2026-11-04T11:27:19.606244+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "pditechnologies",
+      "url": "https://jobs.lever.co/pditechnologies",
+      "name": "pditechnologies",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814245+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "sonatype",
+      "url": "https://jobs.lever.co/sonatype",
+      "name": "sonatype",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814255+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "rover",
+      "url": "https://jobs.lever.co/rover",
+      "name": "rover",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814259+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "kitware",
+      "url": "https://jobs.lever.co/kitware",
+      "name": "kitware",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814261+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "ion",
+      "url": "https://jobs.lever.co/ion",
+      "name": "ion",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814263+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "AMIRI",
+      "url": "https://jobs.lever.co/AMIRI",
+      "name": "AMIRI",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814265+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "bannerbank",
+      "url": "https://jobs.lever.co/bannerbank",
+      "name": "bannerbank",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814267+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "uvcyber",
+      "url": "https://jobs.lever.co/uvcyber",
+      "name": "uvcyber",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814269+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "monarch-quantum",
+      "url": "https://apply.workable.com/monarch-quantum/",
+      "name": "monarch-quantum",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814275+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "d-one",
+      "url": "https://apply.workable.com/d-one/",
+      "name": "d-one",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814277+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "gofishdigital",
+      "url": "https://ats.rippling.com/gofishdigital/jobs",
+      "name": "gofishdigital",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814284+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "opiniion",
+      "url": "https://ats.rippling.com/opiniion/jobs",
+      "name": "opiniion",
+      "category": "discovered",
+      "found_at": "2026-11-04T18:48:00.814287+00:00"
     }
   ]
 }
