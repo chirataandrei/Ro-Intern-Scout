@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T18:36:08.089653+00:00",
+  "updated_at": "2026-11-04T11:27:19.606275+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3304,6 +3304,30 @@
       "name": "consensys",
       "category": "discovered",
       "found_at": "2026-11-03T18:36:08.089604+00:00"
+    },
+    {
+      "ats": "teamtailor",
+      "token": "truvio",
+      "url": "https://truvio.teamtailor.com/jobs",
+      "name": "truvio",
+      "category": "discovered",
+      "found_at": "2026-11-04T11:27:19.606216+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "reversinglabs",
+      "url": "https://apply.workable.com/reversinglabs/",
+      "name": "reversinglabs",
+      "category": "discovered",
+      "found_at": "2026-11-04T11:27:19.606238+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "ec-electric",
+      "url": "https://apply.workable.com/ec-electric/",
+      "name": "ec-electric",
+      "category": "discovered",
+      "found_at": "2026-11-04T11:27:19.606244+00:00"
     }
   ]
 }
