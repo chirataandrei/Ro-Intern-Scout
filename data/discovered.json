@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T18:48:00.814312+00:00",
+  "updated_at": "2026-11-05T11:24:23.541221+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3424,6 +3424,30 @@
       "name": "opiniion",
       "category": "discovered",
       "found_at": "2026-11-04T18:48:00.814287+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "eagle-wireless",
+      "url": "https://ats.rippling.com/eagle-wireless/jobs",
+      "name": "eagle-wireless",
+      "category": "discovered",
+      "found_at": "2026-11-05T11:24:23.541168+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "eaglewireless",
+      "url": "https://ats.rippling.com/eaglewireless/jobs",
+      "name": "eaglewireless",
+      "category": "discovered",
+      "found_at": "2026-11-05T11:24:23.541179+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "matrix-adhesives",
+      "url": "https://ats.rippling.com/matrix-adhesives/jobs",
+      "name": "matrix-adhesives",
+      "category": "discovered",
+      "found_at": "2026-11-05T11:24:23.541183+00:00"
     }
   ]
 }
