@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:24:23.541221+00:00",
+  "updated_at": "2026-11-05T18:55:38.425018+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3448,6 +3448,150 @@
       "name": "matrix-adhesives",
       "category": "discovered",
       "found_at": "2026-11-05T11:24:23.541183+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "ampzcareers",
+      "url": "https://ats.rippling.com/ampzcareers/jobs",
+      "name": "ampzcareers",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424916+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "bollandbranch",
+      "url": "https://ats.rippling.com/bollandbranch/jobs",
+      "name": "bollandbranch",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424927+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "engineeredarts",
+      "url": "https://ats.rippling.com/engineeredarts/jobs",
+      "name": "engineeredarts",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424931+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "jmag-llc",
+      "url": "https://ats.rippling.com/jmag-llc/jobs",
+      "name": "jmag-llc",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424934+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "chard-careers",
+      "url": "https://ats.rippling.com/chard-careers/jobs",
+      "name": "chard-careers",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424936+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "birdeye-inc",
+      "url": "https://ats.rippling.com/birdeye-inc/jobs",
+      "name": "birdeye-inc",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424939+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "garnetbridge",
+      "url": "https://ats.rippling.com/garnetbridge/jobs",
+      "name": "garnetbridge",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424944+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "netatwork",
+      "url": "https://ats.rippling.com/netatwork/jobs",
+      "name": "netatwork",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424948+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "fanduel",
+      "url": "https://job-boards.greenhouse.io/fanduel",
+      "name": "fanduel",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424954+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "maviance",
+      "url": "https://apply.workable.com/maviance/",
+      "name": "maviance",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424961+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "jetsetpilates",
+      "url": "https://jobs.lever.co/jetsetpilates",
+      "name": "jetsetpilates",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424969+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "gopuff",
+      "url": "https://jobs.lever.co/gopuff",
+      "name": "gopuff",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424972+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "mujininc",
+      "url": "https://jobs.lever.co/mujininc",
+      "name": "mujininc",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424975+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "vida",
+      "url": "https://jobs.lever.co/vida",
+      "name": "vida",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424978+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "certik",
+      "url": "https://jobs.lever.co/certik",
+      "name": "certik",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424980+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "dilitrust",
+      "url": "https://jobs.lever.co/dilitrust",
+      "name": "dilitrust",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424983+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "virtualitics",
+      "url": "https://jobs.lever.co/virtualitics",
+      "name": "virtualitics",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424986+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "runlaminar",
+      "url": "https://jobs.lever.co/runlaminar",
+      "name": "runlaminar",
+      "category": "discovered",
+      "found_at": "2026-11-05T18:55:38.424989+00:00"
     }
   ]
 }
