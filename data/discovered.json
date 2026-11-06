@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T18:55:38.425018+00:00",
+  "updated_at": "2026-11-06T11:22:15.701545+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3592,6 +3592,14 @@
       "name": "runlaminar",
       "category": "discovered",
       "found_at": "2026-11-05T18:55:38.424989+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "kivaconfections",
+      "url": "https://jobs.lever.co/kivaconfections",
+      "name": "kivaconfections",
+      "category": "discovered",
+      "found_at": "2026-11-06T11:22:15.701511+00:00"
     }
   ]
 }
