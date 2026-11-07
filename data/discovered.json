@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:39:32.516346+00:00",
+  "updated_at": "2026-11-07T16:58:55.510999+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3672,6 +3672,54 @@
       "name": "roadsurfer.com",
       "category": "discovered",
       "found_at": "2026-11-06T18:18:20.356934+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "crenndininggroup",
+      "url": "https://ats.rippling.com/crenndininggroup/jobs",
+      "name": "crenndininggroup",
+      "category": "discovered",
+      "found_at": "2026-11-07T16:58:55.510942+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "astra",
+      "url": "https://ats.rippling.com/astra/jobs",
+      "name": "astra",
+      "category": "discovered",
+      "found_at": "2026-11-07T16:58:55.510954+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "BTSE",
+      "url": "https://jobs.lever.co/BTSE",
+      "name": "BTSE",
+      "category": "discovered",
+      "found_at": "2026-11-07T16:58:55.510961+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "sapiosciences",
+      "url": "https://jobs.lever.co/sapiosciences",
+      "name": "sapiosciences",
+      "category": "discovered",
+      "found_at": "2026-11-07T16:58:55.510965+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "landmarkbio",
+      "url": "https://jobs.lever.co/landmarkbio",
+      "name": "landmarkbio",
+      "category": "discovered",
+      "found_at": "2026-11-07T16:58:55.510967+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "neuralink",
+      "url": "https://job-boards.greenhouse.io/neuralink",
+      "name": "neuralink",
+      "category": "discovered",
+      "found_at": "2026-11-07T16:58:55.510974+00:00"
     }
   ]
 }
