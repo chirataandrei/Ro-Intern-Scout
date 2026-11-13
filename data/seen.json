@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:29:06.768830+00:00",
+  "updated_at": "2026-11-13T12:45:32.936372+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -31,6 +31,7 @@
     "ejobs:ejobs:99257439",
     "ejobs:ejobs:99257455",
     "ejobs:ejobs:99257498",
+    "ejobs:ejobs:99258015",
     "fp:03c06865575d7de0",
     "fp:06064c3702f9bf9b",
     "fp:0847bcff1222be73",
@@ -54,6 +55,7 @@
     "fp:2d3150b9cf594147",
     "fp:32f4a24f68ace585",
     "fp:368a41a4fc07703a",
+    "fp:3acc0e2b91918042",
     "fp:3b2f1d3e3bc1fbe6",
     "fp:3cde18e2e08d9329",
     "fp:3e7d5ba6da51a149",
@@ -480,6 +482,7 @@
     "workday:adobe:/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468",
     "workday:adobe:/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018",
     "workday:analogdevices:/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116",
+    "workday:analogdevices:/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267115-1",
     "workday:analogdevices:/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267119-1",
     "workday:analogdevices:/job/Romania-Cluj-Napoca/Embedded-Software-Apps-Engineering-Intern_R257261",
     "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
