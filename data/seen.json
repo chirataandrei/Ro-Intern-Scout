@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T15:27:19.154630+00:00",
+  "updated_at": "2026-11-25T15:09:56.222250+00:00",
   "ids": [
     "amazon:amazon:10554652",
     "amazon:amazon:10554669",
@@ -116,6 +116,7 @@
     "fp:8a807d8f70c3a3d6",
     "fp:8b35039e32b88678",
     "fp:8f0c66a15906ac67",
+    "fp:9423fbef98199e82",
     "fp:962bba1368b23d30",
     "fp:973c444380041983",
     "fp:9848718d75461c96",
@@ -145,6 +146,7 @@
     "fp:d1610c06fd4dd9d1",
     "fp:d23709ee3b73a7d9",
     "fp:d30d30cc4ff962e4",
+    "fp:d358d35dc09504e1",
     "fp:d458cc2d1f50b09c",
     "fp:da58b47339560c39",
     "fp:daf5be413621aa40",
@@ -310,6 +312,7 @@
     "himalayas:himalayas:https://himalayas.app/companies/bluewind-s-r-l/jobs/internship-dependable-embedded-systems-development",
     "himalayas:himalayas:https://himalayas.app/companies/carrier-com/jobs/intern-projectleider-technical-engineer-industrie",
     "himalayas:himalayas:https://himalayas.app/companies/crisalix/jobs/ai-automation-prototyping-intern-location-barcelona-spain-dubai-uae-laus",
+    "himalayas:himalayas:https://himalayas.app/companies/miratech/jobs/data-engineer-trainee",
     "himalayas:himalayas:https://himalayas.app/companies/nvidia/jobs/genai-algorithms-intern-model-optimization-for-inference",
     "himalayas:himalayas:https://himalayas.app/companies/spirit-21/jobs/it-operations-datenbankexperte-w-m-d-intern",
     "himalayas:himalayas:https://himalayas.app/companies/spirit-21/jobs/sap-public-cloud-consultant-w-m-d-intern-5397371267",
@@ -351,6 +354,7 @@
     "juniors:juniors:14153",
     "juniors:juniors:14165",
     "juniors:juniors:14203",
+    "juniors:juniors:14215",
     "simplify:simplify:034a8e4e-0595-4935-943e-bb805676a5d2",
     "simplify:simplify:04690200-00da-4592-b697-fc3f8a39af9c",
     "simplify:simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
