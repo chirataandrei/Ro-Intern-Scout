@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:42:21.443567+00:00",
+  "updated_at": "2026-11-28T12:13:38.400101+00:00",
   "boards": [
     {
       "ats": "personio",
@@ -3720,6 +3720,142 @@
       "name": "neuralink",
       "category": "discovered",
       "found_at": "2026-11-07T16:58:55.510974+00:00"
+    },
+    {
+      "ats": "join",
+      "token": "unseenmediade",
+      "url": "https://join.com/companies/unseenmediade",
+      "name": "unseenmediade",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400011+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "newpharmagroup",
+      "url": "https://newpharmagroup.recruitee.com/",
+      "name": "newpharmagroup",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400024+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "reiztech",
+      "url": "https://reiztech.recruitee.com/",
+      "name": "reiztech",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400027+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "baisch-engineering",
+      "url": "https://baisch-engineering.breezy.hr/",
+      "name": "baisch-engineering",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400035+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "jeenka",
+      "url": "https://apply.workable.com/jeenka/",
+      "name": "jeenka",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400038+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "connectprep",
+      "url": "https://apply.workable.com/connectprep/",
+      "name": "connectprep",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400040+00:00"
+    },
+    {
+      "ats": "rippling",
+      "token": "inscipher-careers",
+      "url": "https://ats.rippling.com/inscipher-careers/jobs",
+      "name": "inscipher-careers",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400043+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "exiger",
+      "url": "https://job-boards.greenhouse.io/exiger",
+      "name": "exiger",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400047+00:00"
+    },
+    {
+      "ats": "recruitee",
+      "token": "corex",
+      "url": "https://corex.recruitee.com/",
+      "name": "corex",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400054+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "talleco",
+      "url": "https://talleco.breezy.hr/",
+      "name": "talleco",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400057+00:00"
+    },
+    {
+      "ats": "breezy",
+      "token": "impireum-managed-services",
+      "url": "https://impireum-managed-services.breezy.hr/",
+      "name": "impireum-managed-services",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400060+00:00"
+    },
+    {
+      "ats": "ashby",
+      "token": "clera",
+      "url": "https://jobs.ashbyhq.com/clera",
+      "name": "clera",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400065+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "algaecal",
+      "url": "https://apply.workable.com/algaecal/",
+      "name": "algaecal",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400069+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "fieldfisherbelgium",
+      "url": "https://apply.workable.com/fieldfisherbelgium/",
+      "name": "fieldfisherbelgium",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400071+00:00"
+    },
+    {
+      "ats": "workable",
+      "token": "arena-investors-lp",
+      "url": "https://apply.workable.com/arena-investors-lp/",
+      "name": "arena-investors-lp",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400072+00:00"
+    },
+    {
+      "ats": "greenhouse",
+      "token": "reolink",
+      "url": "https://job-boards.greenhouse.io/reolink",
+      "name": "reolink",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400076+00:00"
+    },
+    {
+      "ats": "lever",
+      "token": "zoox",
+      "url": "https://jobs.lever.co/zoox",
+      "name": "zoox",
+      "category": "discovered",
+      "found_at": "2026-11-28T12:13:38.400078+00:00"
     }
   ]
 }
